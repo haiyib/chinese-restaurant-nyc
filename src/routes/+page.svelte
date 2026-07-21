@@ -1,6 +1,7 @@
 <script>
     import * as d3 from 'd3';
     import { onMount } from 'svelte';
+    import { PUBLIC_MAPBOX_TOKEN } from '$env/static/public';
     import 'mapbox-gl/dist/mapbox-gl.css';
     import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
 
@@ -54,8 +55,7 @@
 
     // --- Mapbox: every graded Chinese restaurant, plotted as a dot ---
     // (added AFTER the bar chart; nothing above is touched)
-    const MAPBOX_TOKEN =
-        'pk.eyJ1Ijoia2F0YmlhMjExIiwiYSI6ImNta3lmbjBwdzA2ZmQzZnM2eWJ3eXl2czEifQ.LApKuowZvT_PXdnrCrYiAQ';
+    const MAPBOX_TOKEN = PUBLIC_MAPBOX_TOKEN;
     let mapContainer = $state();
 
     // --- Tie-in chart: "celebrated" (review volume) vs "concerning" (grades) ---
