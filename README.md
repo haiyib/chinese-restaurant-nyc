@@ -2,7 +2,7 @@
 
 A data story about New York City's Chinese restaurants: how large the cuisine looms across the city, and why Flushing — the city's densest Chinese dining hub — stands out for its health-inspection record.
 
-Built for Columbia Journalism School's Data journalism program class **Data, Computation & Innovation II**, using NYC open data, D3, and Mapbox.
+Built for final project Columbia Journalism School's Data journalism program class: **Data Visulization**, using NYC open data, D3, and Mapbox.
 
 ---
 
@@ -38,65 +38,15 @@ The published page lives in ([https://haiyib.github.io/chinese-restaurant-nyc/])
 
 ---
 
-## Running it
-
-### The static story (`web/index.html`)
-
-The map and charts fetch local data files, so it must be **served over HTTP** (opening the file directly will block the map's data):
-
-```sh
-cd web
-python3 -m http.server 8000
-# then open http://localhost:8000/
-```
-
-### The Svelte prototype
-
-```sh
-npm install
-npm run dev      # http://localhost:5173
-```
----
-
-## Building & publishing (Svelte site)
-
-```sh
-npm run build      # static site -> build/
-npm run preview    # preview the production build
-make github        # build + copy to docs/ + push (GitHub Pages)
-```
-
-GitHub Pages serves from `docs/` on `main`. Static hosting works because `svelte.config.js` uses `@sveltejs/adapter-static` and `src/routes/+layout.js` sets `prerender = true`.
-
----
-
 ## Skills I used
 
-<!-- What did you learn / practice building this? e.g. data cleaning, D3, Mapbox, geocoding, SVG annotations, writing for a general audience... -->
-
-_Write here._
-
-
-
+I first time built my page with HTML CSS at the same time with D3/Svelte. As part of the final project, this is the most graph I've ever used in one story with real data. I used pandas to clean the dataset from the City government, and merge some datasets together, and find visualization ideas, try to arrow some highlight points, etc. I designed the story to be presenting the data and the background story one by one, then touch on  the main focus of what I'm trying to tell.
 
 ---
 
 ## What I want to improve
+I think the visualization is good in terms of the graphics, but I want to make everything look fancier. This is a little bit basic of a data story. I tried to avoid scrollytelling for this one because I don't think it will make a big difference in making it look prettier. I think I need better suggestions in designing it.
 
-<!-- Where did you struggle? What would you do differently or add with more time? -->
-
-_Write here._
-
-
-
-
----
-
-## Notes & reflections
-
-<!-- Anything else — data caveats you found, sources, credits, decisions you made. -->
-
-_Write here._
 
 
 
