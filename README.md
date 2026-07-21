@@ -2,7 +2,7 @@
 
 A data story about New York City's Chinese restaurants: how large the cuisine looms across the city, and why Flushing — the city's densest Chinese dining hub — stands out for its health-inspection record.
 
-Built for **Data, Computation & Innovation II** using NYC open data, D3, and Mapbox.
+Built for Columbia Journalism School's Data journalism program class **Data, Computation & Innovation II**, using NYC open data, D3, and Mapbox.
 
 ---
 
@@ -15,7 +15,7 @@ The piece moves through four visualizations:
 3. **Reviews vs. grades tie-in** — Flushing's Chinese restaurants draw far more attention from Chinese reviewers, yet carry a higher share of Grade C.
 4. **Interactive map** — every graded Chinese restaurant in the city, colored by grade, with address search and click-to-view details.
 
-The published page lives in [`web/index.html`](web/index.html) (a self-contained static story). Charts were prototyped first in Svelte + D3 (`src/routes/+page.svelte`), then ported to plain HTML/D3/Mapbox for the static page.
+The published page lives in [`here`]([https://haiyib.github.io/chinese-restaurant-nyc/]). Charts were prototyped first in Svelte + D3 (`src/routes/+page.svelte`), then ported to plain HTML/D3/Mapbox for the static page.
 
 ---
 
