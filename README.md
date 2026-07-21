@@ -15,7 +15,7 @@ The piece moves through four visualizations:
 3. **Reviews vs. grades tie-in** — Flushing's Chinese restaurants draw far more attention from Chinese reviewers, yet carry a higher share of Grade C.
 4. **Interactive map** — every graded Chinese restaurant in the city, colored by grade, with address search and click-to-view details.
 
-The published page lives in [`here`]([https://haiyib.github.io/chinese-restaurant-nyc/]). Charts were prototyped first in Svelte + D3 (`src/routes/+page.svelte`), then ported to plain HTML/D3/Mapbox for the static page.
+The published page lives in ([https://haiyib.github.io/chinese-restaurant-nyc/]). Charts were prototyped first in Svelte + D3 (`src/routes/+page.svelte`), then ported to plain HTML/D3/Mapbox for the static page.
 
 ---
 
@@ -56,9 +56,6 @@ python3 -m http.server 8000
 npm install
 npm run dev      # http://localhost:5173
 ```
-
-Mapbox needs a public token (see `.env.development.example`). The static page in `web/` has its token inline.
-
 ---
 
 ## Building & publishing (Svelte site)
@@ -104,10 +101,3 @@ _Write here._
 
 
 
----
-
-## Credits
-
-- Data: NYC Department of Health (DOHMH), Google Maps reviews (compiled by "Cssoph"), Google Places API.
-- Photos: Haiyi Bi; Flushing tour photo courtesy of Council Member Sandra Ung's office, adapted from [QNS](https://qns.com/2024/11/councilmember-ung-and-dsny-commissioner-tisch-tackle-sidewalk-congestion-and-sanitation-in-downtown-flushing/).
-- Template: [jsoma/page-templates](https://github.com/jsoma/page-templates/) and the class Svelte starter.
