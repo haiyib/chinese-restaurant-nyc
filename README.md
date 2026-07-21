@@ -1,6 +1,6 @@
-# Chinese Restaurants & Health Inspections in NYC
+# Food sanitary concern in Flushing
 
-A data story about New York City's Chinese restaurants: how large the cuisine looms across the city, and why Flushing — the city's densest Chinese dining hub — stands out for its health-inspection record.
+A data story about New York City's Chinese restaurants: how large the cuisine looms across the city, and why Flushing, the city's densest Chinese dining hub stands out for its health-inspection record.
 
 Built for final project Columbia Journalism School's Data journalism program class: **Data Visulization**, using NYC open data, D3, and Mapbox.
 
