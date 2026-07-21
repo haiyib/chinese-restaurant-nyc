@@ -1,128 +1,113 @@
-# class-svelte-starter
+# Chinese Restaurants & Health Inspections in NYC
 
-Starter template for **Data, Computation & Innovation II** — a SvelteKit project for building charts, scrollytelling pieces, and maps with Svelte and D3.
+A data story about New York City's Chinese restaurants: how large the cuisine looms across the city, and why Flushing — the city's densest Chinese dining hub — stands out for its health-inspection record.
 
----
-
-## Project layout
-
-```
-src/
-├── routes/
-│   ├── +page.svelte          # Home page
-│   ├── +layout.svelte        # App shell (global styles, favicon)
-│   ├── +layout.js            # Enables static pre-rendering (see Publishing below)
-│   └── demo/
-│       └── +page.svelte      # Code examples gallery
-│
-└── lib/
-    ├── components/
-    │   ├── demo/
-    │   │   ├── week1/ … week6/   # One folder per week; each .svelte file is a gallery demo
-    │   └── layout/
-    │       ├── Scroller.svelte   # Shared scrollytelling component
-    │       └── gallery/          # DemoNav, DemoSection, DemoFrame (gallery chrome)
-    │
-    ├── data/                 # JSON datasets (GeoJSON, income data, cities, etc.)
-    └── demo/
-        ├── catalog.js        # Gallery metadata — titles, descriptions, component imports
-        └── sources.js        # Loads raw .svelte source for the "Show code" toggle
-```
-
-**Where to put your own work**
-
-- Class exercises and weekly demos live in `src/lib/components/demo/weekN/`.
-- Shared pieces you reuse across weeks (a scroller, a tooltip, a layout wrapper) go in `src/lib/components/layout/`.
-- Data files go in `src/lib/data/`.
-- To add a demo to the gallery, register it in `src/lib/demo/catalog.js` and give it a `file` path for the code viewer.
-
-The gallery at `/demo` reads from `catalog.js` and renders each entry inside a `DemoFrame` with a live preview and optional source panel.
+Built for **Data, Computation & Innovation II** using NYC open data, D3, and Mapbox.
 
 ---
 
-## Developing
+## The story
 
-Install dependencies, then start the dev server:
+The piece moves through four visualizations:
+
+1. **Cuisine bar chart** — Chinese is New York City's largest *foreign* cuisine and third overall among graded restaurants (top 12 of 90 cuisines).
+2. **Closures line chart** — health-department closures of Flushing restaurants over time, with a spike in 2025.
+3. **Reviews vs. grades tie-in** — Flushing's Chinese restaurants draw far more attention from Chinese reviewers, yet carry a higher share of Grade C.
+4. **Interactive map** — every graded Chinese restaurant in the city, colored by grade, with address search and click-to-view details.
+
+The published page lives in [`web/index.html`](web/index.html) (a self-contained static story). Charts were prototyped first in Svelte + D3 (`src/routes/+page.svelte`), then ported to plain HTML/D3/Mapbox for the static page.
+
+---
+
+## Data sources
+
+| File | What it is |
+|------|-----------|
+| `data/DOHMH_New_York_City_Restaurant_Inspection_Results_20260720.csv` | NYC Dept. of Health restaurant inspection results (all cuisines, all boroughs) |
+| `data/chinese_inspections_dedup.csv` | Chinese-restaurant inspections, deduplicated |
+| `data/chinese-restaurant-review-nyc.xlsx` | Google Maps review ratings/counts (sorted by common Chinese last names; originally compiled by Reddit user "Cssoph") |
+| `data/chinese_reviews_geocoded.csv` | The review data geocoded to lat/lng, ZIP, borough, and a Flushing flag (via Google Places `place_id`s) |
+| `web/chinese_restaurants.geojson` | Graded Chinese restaurants (one per unique CAMIS with an A/B/C grade) used by the map |
+
+**Definitions used throughout:** "graded" = restaurants with an official A/B/C letter grade. "Flushing" = Queens ZIP codes 11354–11368.
+
+### Scripts
+
+- `scripts/geocode_reviews.py` — geocodes the review Excel file's Google `place_id`s (needs a Google Places API key; results cached in `scripts/geocode_cache.json`).
+- `scripts/build_reviews_csv.py` — builds `data/chinese_reviews_geocoded.csv` from the cache (no API calls).
+
+---
+
+## Running it
+
+### The static story (`web/index.html`)
+
+The map and charts fetch local data files, so it must be **served over HTTP** (opening the file directly will block the map's data):
+
+```sh
+cd web
+python3 -m http.server 8000
+# then open http://localhost:8000/
+```
+
+### The Svelte prototype
 
 ```sh
 npm install
-npm run dev
+npm run dev      # http://localhost:5173
 ```
 
-Open the URL shown in the terminal — usually `http://localhost:5173`. The code examples gallery is at **`/demo`**.
-
-Mapbox demos need a token in your env files (see `.env.development.example` and `.env.production.example`):
-
-- **`.env.development`** — your Mapbox default public token, used during `npm run dev`.
-- **`.env.production`** — a separate token with your GitHub Pages URL in its [URL restrictions](https://account.mapbox.com/access-tokens/) (for example `https://<username>.github.io/<repo-name>/*`). Used when you run `npm run build` or `make github`. Do not publish with the default token.
-
-Vite picks the right file automatically based on mode. Restart the dev server after changing env files.
+Mapbox needs a public token (see `.env.development.example`). The static page in `web/` has its token inline.
 
 ---
 
-## Building
+## Building & publishing (Svelte site)
 
 ```sh
-npm run build      # outputs a static site to build/
-npm run preview    # preview the production build locally
+npm run build      # static site -> build/
+npm run preview    # preview the production build
+make github        # build + copy to docs/ + push (GitHub Pages)
 ```
+
+GitHub Pages serves from `docs/` on `main`. Static hosting works because `svelte.config.js` uses `@sveltejs/adapter-static` and `src/routes/+layout.js` sets `prerender = true`.
 
 ---
 
-## Publishing to GitHub Pages
+## Skills I used
 
-This repo is set up to deploy as a static site from the `docs/` folder on the `main` branch.
+<!-- What did you learn / practice building this? e.g. data cleaning, D3, Mapbox, geocoding, SVG annotations, writing for a general audience... -->
 
-### One-time setup
+_Write here._
 
-1. Go to [github.com/jaredwhalen/class-svelte-starter](https://github.com/jaredwhalen/class-svelte-starter) and click the green **Use this template** button to create your own copy of the repo under your GitHub account. Name it whatever you like.
-2. Clone **your** new repo to your machine, then install dependencies and confirm `npm run dev` works (see [Developing](#developing) above).
-3. In your repo on GitHub, go to **Settings → Pages**.
-4. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-5. Choose branch **`main`**, folder **`/docs`**, and save.
-6. After the first deploy, your site will be live at `https://<username>.github.io/<repo-name>/` (use the repo name you chose in step 1).
 
-### Deploy
 
-From the project root:
-
-```sh
-make github
-```
-
-If your site includes Mapbox maps, set `PUBLIC_MAPBOX_TOKEN` in `.env.production` before you deploy (see [Developing](#developing)).
-
-The `github` target in the `Makefile`:
-
-1. Runs `npm run build` — compiles the site into `build/`
-2. Replaces the `docs/` folder with a copy of `build/`
-3. Adds `docs/.nojekyll` so GitHub Pages does not run Jekyll on the output
-4. Commits and pushes the updated `docs/` folder
-
-Give GitHub a minute or two after the push, then refresh your Pages URL.
-
-### Why static hosting works
-
-GitHub Pages serves plain files — there is no Node server to run SvelteKit at request time. Two project settings make that possible:
-
-**`svelte.config.js`** — uses `@sveltejs/adapter-static` instead of the default server adapter. At build time, SvelteKit writes static HTML, CSS, and JavaScript into `build/` rather than producing a server bundle.
-
-```js
-import adapter from '@sveltejs/adapter-static';
-
-export default {
-	kit: {
-		adapter: adapter()
-	}
-};
-```
-
-**`src/routes/+layout.js`** — exports `prerender = true`, which tells SvelteKit to pre-render every page when you build. Each route (including `/demo`) becomes a real `.html` file that GitHub Pages can serve directly.
-
-```js
-export const prerender = true;
-```
-
-Together, the static adapter generates the files and pre-rendering ensures every route exists as HTML before anything is uploaded.
 
 ---
+
+## What I want to improve
+
+<!-- Where did you struggle? What would you do differently or add with more time? -->
+
+_Write here._
+
+
+
+
+---
+
+## Notes & reflections
+
+<!-- Anything else — data caveats you found, sources, credits, decisions you made. -->
+
+_Write here._
+
+
+
+
+---
+
+## Credits
+
+- Data: NYC Department of Health (DOHMH), Google Maps reviews (compiled by "Cssoph"), Google Places API.
+- Photos: Haiyi Bi; Flushing tour photo courtesy of Council Member Sandra Ung's office, adapted from [QNS](https://qns.com/2024/11/councilmember-ung-and-dsny-commissioner-tisch-tackle-sidewalk-congestion-and-sanitation-in-downtown-flushing/).
+- Template: [jsoma/page-templates](https://github.com/jsoma/page-templates/) and the class Svelte starter.
