@@ -18,6 +18,14 @@ The piece moves through four visualizations:
 The published page lives in ([https://haiyib.github.io/chinese-restaurant-nyc/]). Charts were prototyped first in Svelte + D3 (`src/routes/+page.svelte`), then ported to plain HTML/D3/Mapbox for the static page.
 
 ---
+## Process
+
+I first found this dataset on NYC Open data portal: https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results and decided to play around with it. This story didn't come from an idea, like what I will usually do, this one start with this dataset. Then I found a more specific Chinese restaurant inspection dataset: https://data.cityofnewyork.us/Health/Chinese-Restaurants/w3z6-mr9h/about_data I then dive deep into this and think about what story I can write based on this.
+
+I found something interesting which is: Flushing has been known for a Chinese community and eateries there are always good reviews, (found a dataset thanks to this reddit post: https://www.reddit.com/r/nyc/comments/1rwtqds/i_filtered_600000_nyc_chinese_restaurant_reviews/) But the inspection grade is the worst among all the neighborhoods in the city. I think by presenting this data with better visualization, people will be aware of this. So I decided to create a series of graphics based on this.
+
+
+---
 
 ## Data sources
 
