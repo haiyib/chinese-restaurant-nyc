@@ -26,3 +26,5 @@ vite.config.ts.timestamp-*
 
 
 .helpers/
+# geocoding cache (may contain address data)
+scripts/geocode_cache.json

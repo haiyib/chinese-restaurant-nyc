@@ -1,0 +1,1187 @@
+name,chinese_rating,chinese_count,all_rating,all_count,lat,lng,zip,neighborhood,borough,city,state,is_flushing,place_id
+Foliage Garden,5.0,1.0,4.2,122.0,40.785879,-74.00879809999999,07093,,,West New York,NJ,False,ChIJSUaXAhNYwokRkCAXm0yMjog
+China Taste,5.0,1.0,3.9,138.0,40.8010666,-74.00694140000002,07047,,,North Bergen,NJ,False,ChIJk8DMhOD3wokRuK8aUL4-FuQ
+China House,5.0,1.0,4.3,138.0,40.6901012,-73.84069219999999,11416,Ozone Park,Queens,,NY,False,ChIJ4QQKClZnwokRhwR_mW42Cz0
+House of Chen,5.0,1.0,4.3,116.0,40.6569456,-73.9283171,11203,East Flatbush,Brooklyn,,NY,False,ChIJQ0vNFZtcwokRdxjF5QX5fZk
+China Kitchen,5.0,1.0,3.9,115.0,40.650796,-73.946223,11203,Little Haiti,Brooklyn,,NY,False,ChIJUVi-YF1bwokRy09z-XFA_9g
+Wah Yung (Chinese),5.0,1.0,3.8,107.0,40.6641907,-73.9094798,11212,Brownsville,Brooklyn,,NY,False,ChIJGf16oPVcwokR67ulxIeShS8
+Al Aqsa Kitchen (With Halal Chinese),5.0,1.0,3.7,277.0,40.83495780000001,-73.8543545,10462,Parkchester,The Bronx,,NY,False,ChIJFcKTFrn1wokRtaMdbEgnbn8
+Big Apple,5.0,1.0,3.9,106.0,40.8414306,-73.8832778,10460,West Farms,The Bronx,,NY,False,ChIJxRxxY4v0wokRPP8f4HQiqpY
+Food Bo Garden,5.0,1.0,4.1,128.0,40.8208156,-73.8964644,10459,Woodstock,The Bronx,,NY,False,ChIJ8XyOxqz1wokROLSVBvjahmw
+Cheng's Restaurant,5.0,1.0,3.7,134.0,40.6256389,-74.1558974,10303,Mid Island,Staten Island,,NY,False,ChIJjfJNOLJNwokRCTSyxEUpKs8
+Kam Heung Kitchen,5.0,1.0,4.1,128.0,40.5198873,-74.2674281,08861,,,Perth Amboy,NJ,False,ChIJc1NJUYC1w4kReW7COZCBKGU
+China Tang Kitchen,5.0,1.0,4.2,103.0,40.6441227,-73.95848450000001,11226,Flatbush,Brooklyn,,NY,False,ChIJQ1ld60dbwokRpPviD6NgSLY
+China Cocina,5.0,1.0,4.3,220.0,40.7494361,-73.8624116,11368,Corona,Queens,,NY,True,ChIJZZe_TMZfwokRJIYa8VelmEA
+Family Kitchen,5.0,1.0,4.2,139.0,40.6352959,-73.9610393,11230,Flatbush,Brooklyn,,NY,False,ChIJNQDWDDVbwokR_mewRiDfr-c
+China Wok,5.0,1.0,4.1,157.0,40.8442308,-73.8456013,10461,Westchester Square,The Bronx,,NY,False,ChIJZ_5ciK30wokR3ApkWDPpBpQ
+Chinese Gourmet,5.0,1.0,4.7,118.0,40.8526175,-73.92007989999999,10453,Morris Heights,The Bronx,,NY,False,ChIJOQnFpxH0wokRpOynd_51WWw
+Apple Garden,5.0,1.0,3.5,110.0,40.6952263,-73.79011109999999,11433,Jamaica,Queens,,NY,False,ChIJJygaJylhwokRNHak_ojCHJk
+China Garden Restaurant,5.0,1.0,4.0,117.0,40.82954489999999,-73.875699,10472,East Bronx,The Bronx,,NY,False,ChIJ_yiz7O_0wokRP7VbRZlI4dg
+China Tasty,5.0,1.0,4.3,144.0,40.6612968,-74.2678981,07204,,,Roselle Park,NJ,False,ChIJzcevEFuzw4kRHkdYRUf320M
+Joy Garden,5.0,1.0,3.9,181.0,40.8453175,-73.8664443,10462,Van Nest,The Bronx,,NY,False,ChIJB_lmz5f0wokRSvbBPwwSlOI
+Ming Hui Chinese Restaurant,5.0,1.0,4.0,179.0,40.5106053,-74.2744276,08861,,,Perth Amboy,NJ,False,ChIJsayq73rKw4kRpIoVQC-HIvY
+New Dragon Star,5.0,1.0,3.8,113.0,40.8935945,-73.8585155,10466,East Bronx,The Bronx,,NY,False,ChIJJX1CdCfzwokRjI8IRPP0sj4
+King Dragon,5.0,1.0,3.9,164.0,40.8431964,-73.9125139,10452,Mount Eden,The Bronx,,NY,False,ChIJtQaVB0D0wokRyrusSN0Cb1o
+Lotus Express,5.0,1.0,4.0,196.0,40.8662471,-73.9247149,10034,,Manhattan,New York,NY,False,ChIJH2stGfjzwokRCJVwVUMX5hs
+Yummy City,5.0,2.0,4.4,185.0,40.7880204,-73.9492087,10029,,Manhattan,New York,NY,False,ChIJlRWJx6dYwokRIRei4zXdXK4
+Xing Wang,5.0,2.0,4.1,113.0,40.6974224,-73.9362841,11206,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJgVC-3vdbwokRGFAERflCZxo
+Dragon King,5.0,2.0,3.8,148.0,40.661749,-73.9509854,11225,Prospect Lefferts Gardens,Brooklyn,,NY,False,ChIJDX8rAARbwokRDE0KemgN41c
+Kam Shing,5.0,2.0,4.0,168.0,40.62992759999999,-73.9609984,11230,Flatbush,Brooklyn,,NY,False,ChIJweJyQspEwokRpUU6TjHGbrQ
+Hong Kong Express,5.0,2.0,4.0,140.0,40.69616449999999,-73.9046817,11385,Ridgewood,Queens,,NY,False,ChIJA-aY7iRcwokRWLBOKOPN1xo
+Wok Wok Chinese Restaurant,5.0,2.0,3.8,223.0,40.8806826,-73.8830947,10467,Norwood,The Bronx,,NY,False,ChIJHexkggzzwokRNuEc21qPmaE
+China City,5.0,2.0,4.0,136.0,40.8605472,-73.8950169,10458,Fordham Heights,The Bronx,,NY,False,ChIJAR4NrHj0wokRbu1QUB7h9F0
+King's Chef,5.0,2.0,4.0,199.0,40.82595329999999,-73.89921810000001,10459,Morrisania,The Bronx,,NY,False,ChIJi-DeP1L0wokR55JVOjqpHpg
+Xinglung,5.0,2.0,4.1,115.0,40.8888276,-73.83112779999999,10466,East Bronx,The Bronx,,NY,False,ChIJGys0ndeMwokRi8zYPHu3eqw
+New Choi Hee,5.0,2.0,3.3,113.0,40.6317703,-74.0762872,10304,Stapleton Heights,Staten Island,,NY,False,ChIJA6SJ2spPwokRtTNNYnhFDaY
+Panda Garden,5.0,2.0,4.2,119.0,40.6157829,-74.034403,11209,Fort Hamilton,Brooklyn,,NY,False,ChIJrYoW6IhPwokRB2bIjRCaMMQ
+Taste of China,5.0,2.0,3.8,105.0,40.7446358,-73.88451020000001,11373,Elmhurst,Queens,,NY,False,ChIJt-4rvqtfwokRqHzQ5K5-qmM
+Wah Hing Kitchen,5.0,2.0,4.2,214.0,40.6755911,-73.812134,11420,South Ozone Park,Queens,,NY,False,ChIJbyfEGzxnwokRuW4wO6zM9T8
+Six Happiness,5.0,2.0,4.4,214.0,40.8405835,-73.8294863,10461,Pelham Bay,The Bronx,,NY,False,ChIJlYxjXUWLwokR2mQy4Wu5m1s
+New York Chan,5.0,2.0,4.0,127.0,40.666044,-73.882857,11207,East New York,Brooklyn,,NY,False,ChIJ3aLRWaldwokRRl_Qdod6KN0
+Fortune Glatt Kosher Chinese Take Out,5.0,2.0,4.1,286.0,40.727027,-73.787172,11366,Fresh Meadows,Queens,,NY,True,ChIJo0fUYQdhwokRfZQyc0casKA
+Ho Mei,5.0,2.0,4.2,222.0,40.7534356,-73.8642043,11368,Flushing,Queens,,NY,True,ChIJfUggt8BfwokRD7KOaE29LJ8
+King River,5.0,2.0,4.3,116.0,40.7589986,-73.8872257,11370,East Elmhurst,Queens,,NY,False,ChIJlyGSXqBfwokRrMz2pEAbAWY
+Baji Baji,5.0,3.0,4.3,265.0,40.7281643,-73.9852007,10003,,Manhattan,New York,NY,False,ChIJC6z-ENlZwokRQL-J6xczEBw
+King Dragon 188,5.0,3.0,4.0,146.0,40.7928241,-73.9502725,10029,,Manhattan,New York,NY,False,ChIJkclx-Rz2wokRcAYh9w05xo8
+Golden Chopstick,5.0,3.0,4.1,142.0,40.6718517,-73.9573338,11238,Crown Heights,Brooklyn,,NY,False,ChIJT_DEenVbwokR_BEVCWamyYM
+Dong Fang Kitchen,5.0,3.0,4.2,143.0,40.674301,-73.921808,11233,Ocean Hill,Brooklyn,,NY,False,ChIJ4Sw8-2RcwokRnUhCfYhlRdM
+China tastes美味,5.0,3.0,4.1,171.0,40.6694369,-73.89577109999999,11207,East New York,Brooklyn,,NY,False,ChIJt8inX1FcwokRzSezNkQZwnQ
+Ming Wong,5.0,3.0,4.4,216.0,40.8539561,-73.908729,10453,University Heights,The Bronx,,NY,False,ChIJaexjZXL0wokRCFekTGE__Mk
+Good Taste Restaurant,5.0,3.0,4.1,161.0,40.82239819999999,-73.8966694,10459,Foxhurst,The Bronx,,NY,False,ChIJ6dtmMVP0wokRk4tlm3FH71M
+Lee's Chinese Kitchen,5.0,3.0,3.6,115.0,40.8712183,-73.8630593,10467,Williamsbridge,The Bronx,,NY,False,ChIJJf8nh0HzwokRfkKD1_nISNg
+New Oriental House,5.0,3.0,3.8,182.0,40.854679,-73.89,10458,Belmont,The Bronx,,NY,False,ChIJIUEv6X30wokR34cJlMMcLfY
+No. 1 China Wok,5.0,3.0,4.0,282.0,40.8678247,-73.9000066,10468,Fordham Manor,The Bronx,,NY,False,ChIJYzKEkoXzwokRmcAv3miKHds
+Empire Szechuan,5.0,3.0,3.8,163.0,40.6259465,-74.1372183,10302,Port Richmond,Staten Island,,NY,False,ChIJJ-rrZ2xNwokRY2tcta-93jM
+Mr. Rice,5.0,3.0,3.9,116.0,40.62992430000001,-74.140554,10302,Port Richmond,Staten Island,,NY,False,ChIJSTRw7MVNwokRnI_zcEom3es
+China Star,5.0,3.0,3.8,119.0,40.7142519,-73.80259459999999,11432,Jamaica,Queens,,NY,False,ChIJV54cnOZgwokRKnihqwSxWS4
+Szechuan Kitchen III,5.0,3.0,4.0,103.0,40.7052578,-73.7400311,11429,Queens Village,Queens,,NY,False,ChIJ1wJ7dNxjwokRnLa3MPmUBZM
+Li's Kitchen,5.0,3.0,4.2,176.0,40.8634698,-73.8585612,10469,Laconia,The Bronx,,NY,False,ChIJIwotclvzwokRXRlPXMNMG10
+Jimmy Best Chinese,5.0,3.0,4.4,376.0,40.883891,-73.8330495,10475,East Bronx,The Bronx,,NY,False,ChIJsUBl7dCMwokRf1QSCKZecHY
+Eastern Chinese Style,5.0,3.0,4.7,123.0,40.833896,-73.915092,10456,Concourse Village,The Bronx,,NY,False,ChIJz8uSgzf0wokRLXcUdvnQXuY
+China Kitchen,5.0,3.0,4.2,103.0,40.8597107,-73.86572629999999,10467,Allerton,The Bronx,,NY,False,ChIJk1GSg2DzwokRgJ3HXvdcYx4
+City Island Chinese Restaurant,5.0,3.0,4.1,117.0,40.8401249,-73.78357849999999,10464,City Island,The Bronx,,NY,False,ChIJpZB_B4aLwokRPv7vDm55Dqg
+New Asian Cuisine,5.0,3.0,4.1,128.0,40.7393143,-73.9205437,11377,Woodside,Queens,,NY,False,ChIJuV9gpdtewokRvt2MMZL9AiI
+Francesca Chinese Restaurant,5.0,4.0,4.1,141.0,40.7680421,-74.03240269999999,07087,,,Union City,NJ,False,ChIJ_7YSI4dXwokR2buVo3DHA7g
+New Sunrise,5.0,4.0,4.1,178.0,40.65178119999999,-74.1280479,07002,Constable Hook,,Bayonne,NJ,False,ChIJp7ELIfxNwokR5yJvSlEbxqw
+Linden Garden Chinese Restaurant,5.0,4.0,4.1,202.0,40.6277866,-74.2713739,07036,,,Linden,NJ,False,ChIJ0xqqT6-zw4kRTYBdivjJ_E0
+Lee's Restaurant,5.0,4.0,4.3,125.0,40.8549843,-73.8866604,10458,Little Italy,The Bronx,,NY,False,ChIJe9OgMof0wokRiH-GWsXczLE
+Lucky House,5.0,4.0,4.3,159.0,40.8401115,-73.8753189,10460,East Bronx,The Bronx,,NY,False,ChIJf6qb7pL0wokRQPFtpqP9168
+Golden Chef,5.0,4.0,4.1,137.0,40.845033,-73.830601,10461,Pelham Bay,The Bronx,,NY,False,ChIJi7FK8D6LwokRuGuu5w_kmGY
+New Joy Garden,5.0,4.0,3.6,101.0,40.6624419,-73.8980677,11207,East New York,Brooklyn,,NY,False,ChIJm5W7FtJdwokR7-qb0Effpsg
+Hong Kong Kitchen,5.0,4.0,3.7,122.0,40.6498146,-74.1896603,07206,Elizabethport,,Elizabeth,NJ,False,ChIJzxlW7mtNwokRdfndxaUCQq4
+Empire Szechuan Garden,5.0,4.0,4.4,152.0,40.7436611,-73.9187827,11104,Sunnyside,Queens,,NY,False,ChIJ4dsl1NhewokR6w8yMyKiwQI
+Yummy Yummy Chinese Restaurant,5.0,4.0,3.7,133.0,40.731559,-73.8999324,11378,Maspeth,Queens,,NY,False,ChIJa6tlJfBewokRS_Z4NR5MRc4
+New Hop Shing Kitchen,5.0,5.0,4.5,147.0,40.6673665,-73.8991767,11207,East New York,Brooklyn,,NY,False,ChIJQ3AeE1dcwokRNksDqJhGzhQ
+New China,5.0,5.0,4.2,112.0,40.697057,-73.9361284,11206,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJDycn1vdbwokReCL4WCFfKJA
+Sunrise East Chinese Cuisine,5.0,5.0,4.5,126.0,40.71095469999999,-73.949322,11211,Southside,Brooklyn,,NY,False,ChIJ_ZJmaXdZwokRFeUpME0A4Sk
+New Foo Shun,5.0,5.0,3.7,146.0,40.6742637,-73.8785797,11208,East New York,Brooklyn,,NY,False,ChIJY4pHk7BdwokRkRaG4PL3rQY
+El Pabellon De Oro,5.0,5.0,4.5,1022.0,40.828662,-73.8799894,10472,East Bronx,The Bronx,,NY,False,ChIJp6HMifr0wokRB-50X94O4lI
+Sun Wah,5.0,5.0,3.8,184.0,40.7565428,-73.9301531,11106,Long Island City,Queens,,NY,False,ChIJV1joCS5fwokRZGTcRbOpz-U
+Panda Garden,5.0,5.0,4.2,101.0,40.7455811,-73.90468179999999,11377,Woodside,Queens,,NY,False,ChIJtfKIux1fwokRmJrNN62T0vo
+China Garden,5.0,6.0,4.4,133.0,40.7033261,-73.9215394,11237,Bushwick,Brooklyn,,NY,False,ChIJJYGG9BxcwokR44dkDC0WHsc
+New Nice China Town,5.0,6.0,4.2,245.0,40.6339855,-73.963577,11230,Flatbush,Brooklyn,,NY,False,ChIJsThayTRbwokRvUL3IKBQK1o
+East Met West,5.0,6.0,3.9,170.0,40.7143776,-73.9439234,11211,Williamsburg,Brooklyn,,NY,False,ChIJC12qz1ZZwokRLgPnPk_Bsys
+Empire King,5.0,6.0,4.3,123.0,40.8323837,-73.898194,10456,Morrisania,The Bronx,,NY,False,ChIJH8V5hVr0wokR2pp7ssfco7I
+New Win Hing,5.0,6.0,4.2,133.0,40.614368,-74.06659599999999,10305,Rosebank,Staten Island,,NY,False,ChIJf7O8Rq9PwokR-R92QAMhSWc
+Loon Chuan Chinese Restaurant,5.0,6.0,3.7,171.0,40.522215,-74.234599,10309,Charleston,Staten Island,,NY,False,ChIJ_6FkRFu1w4kR34JKuwoWBjQ
+Panda China Restaurant,5.0,6.0,4.2,179.0,40.61722169999999,-74.2838021,07065,,,Rahway,NJ,False,ChIJF6Ppt5Wzw4kRpUgTYLwXyQM
+Di Di,5.0,6.0,4.5,190.0,40.6282032,-73.9473733,11210,Midwood,Brooklyn,,NY,False,ChIJrTj4iK1EwokRZhwtPsgC0QQ
+Lucky Star,5.0,6.0,4.1,167.0,40.6959975,-73.74712029999999,11412,St. Albans,Queens,,NY,False,ChIJG99VBeJjwokRjYi3fYcx1FQ
+Aanch Indian & Asian Fusion,5.0,6.0,4.7,425.0,40.7374625,-73.70997330000002,11004,Floral Park,Queens,,NY,False,ChIJEw5lDLljwokRfu5D0-znLdA
+Wa Lung Kitchen,5.0,7.0,3.8,261.0,40.7139086,-73.9802259,10002,,Manhattan,New York,NY,False,ChIJQffRCtVbwokR9G83MrtY4KA
+Yummy Chinese Food,5.0,7.0,4.3,203.0,40.6643067,-73.9508759,11225,Crown Heights,Brooklyn,,NY,False,ChIJY4DaAXFbwokRmTMfblxHDds
+Wild Ginger,5.0,7.0,4.2,367.0,40.71890339999999,-73.9553339,11211,Williamsburg,Brooklyn,,NY,False,ChIJrX3vX1xZwokRFi9iLpuYCc4
+Excellent Taste Restaurant,5.0,7.0,3.5,162.0,40.8972996,-73.85503469999999,10466,East Bronx,The Bronx,,NY,False,ChIJ8fkSy9nywokR8PrjXW3Tet4
+Ling Gee,5.0,8.0,4.0,115.0,40.67894740000001,-74.0108005,11231,Red Hook,Brooklyn,,NY,False,ChIJ_Qhea4pawokRJVK0_2-OcWQ
+New King House,5.0,8.0,4.3,135.0,40.752027,-73.855417,11368,Flushing,Queens,,NY,True,ChIJsfw4YcNfwokRv6Vq9xqTPlA
+Asian Bay,5.0,8.0,4.0,206.0,40.585036,-73.95114989999999,11235,Sheepshead Bay,Brooklyn,,NY,False,ChIJ4xUVVGREwokRHFf7Vkd8ADg
+China King,5.0,8.0,3.9,169.0,40.712244,-73.786208,11432,Jamaica,Queens,,NY,False,ChIJR5IDYxlhwokRu68fYwRqky0
+Mr Wonton,5.0,8.0,3.7,114.0,40.7436417,-73.9199685,11104,Sunnyside,Queens,,NY,False,ChIJr7nMH9lewokRbpML3hjfOSE
+Wei’s - Fort Greene,5.0,10.0,4.5,123.0,40.68306339999999,-73.9656912,11238,Clinton Hill,Brooklyn,,NY,False,ChIJ-xGvV_xbwokRgHfFrsrjNPc
+Peking,5.0,10.0,4.2,208.0,40.7256224,-73.7399796,11428,Queens Village,Queens,,NY,False,ChIJLfvsmy5iwokRyuOG-FMpMdM
+Peking Taste,5.0,10.0,4.0,144.0,40.5531694,-74.1926419,10312,Rossville,Staten Island,,NY,False,ChIJ_2V8LxlLwokR1WeqpjgF5-U
+Happy Fortune,5.0,11.0,3.6,142.0,40.60853669999999,-74.1217997,10314,Manor Heights,Staten Island,,NY,False,ChIJ_W78VIJOwokRNH-rSv0gcEM
+Islander Taste Chinese Restaurant,5.0,16.0,4.1,133.0,40.542817,-74.20779809999999,10309,Rossville,Staten Island,,NY,False,ChIJ-5JB69BKwokRpZuLSvmT_7Q
+Pic Up Stix,5.0,23.0,4.2,192.0,40.7825844,-73.9536394,10128,,Manhattan,New York,NY,False,ChIJtUJhgqRYwokRFnRm-1w4Z4w
+Sol Delish,5.0,31.0,4.9,266.0,40.680575,-73.9488898,11216,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJJ5PP13NbwokR1O046Gc3trA
+Liu Ji Sichuan Noodle House,4.96428571428571,28.0,4.9,116.0,40.781256,-73.845674,11356,College Point,Queens,,NY,True,ChIJQ3_acoH1wokRi4c9pAJO8pg
+Mala Town,4.9627659574468,564.0,4.9,1121.0,40.80005970000001,-73.96562399999999,10025,,Manhattan,New York,NY,False,ChIJs5U-VQf3wokRs1nlqkUqxgo
+Twilight Lounge 朝暮,4.95454545454545,22.0,4.9,122.0,40.726696,-73.9857509,10009,,Manhattan,New York,NY,False,ChIJVZrUE55ZwokRE1ou0h6DhRQ
+Mama's Noodle House,4.95,20.0,4.8,108.0,40.6168878,-73.9929107,11204,Bensonhurst,Brooklyn,,NY,False,ChIJ077xDwBFwokR6Lm73BYnSG8
+Kungfu Hot Pot,4.94921875,256.0,4.9,572.0,,,,,,,,,ChIJ3ZhiHm2LwokRWKyuhMdcwuA
+Chang Lai,4.93311036789297,299.0,4.9,1153.0,40.7151801,-73.9978715,10013,,Manhattan,New York,NY,False,ChIJOy-j4IdZwokRNqJruSGwcwI
+Dynasty Taste,4.92857142857142,14.0,4.0,156.0,40.5879905,-74.16526089999999,10314,New Springville,Staten Island,,NY,False,ChIJ6eSTAnxMwokR4rrZFlwr210
+The Best Sichuan 一品成都21,4.91839557399723,723.0,4.9,2844.0,40.7394389,-73.98913809999999,10010,,Manhattan,New York,NY,False,ChIJX68xNnhZwokRbktHVFdiUKo
+Great Wall,4.91666666666666,12.0,4.1,170.0,40.7237598,-73.8478741,11375,Forest Hills,Queens,,NY,False,ChIJBWJBLplgwokRH5EO12m6DQs
+Chun Vegetarian,4.9090909090909,11.0,4.6,135.0,40.6788289,-73.94986879999999,11216,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJQ6QrOjBbwokRBfiPeEtUcjw
+DONGBEI Restaurant & Bar东北餐厅&酒吧,4.90523690773067,401.0,4.9,761.0,40.75466,-73.9949697,10018,,Manhattan,New York,NY,False,ChIJ04zZeXFZwokRunHmQy_LRno
+Nuevo Jardín de China,4.9047619047619,21.0,4.5,529.0,40.76165040000001,-73.9242308,11106,Astoria,Queens,,NY,False,ChIJQVZgVTdfwokRoRpskYySlGw
+Niukee Shumai,4.90243902439024,164.0,4.9,386.0,40.72075460000001,-73.997103,10013,,Manhattan,New York,NY,False,ChIJucKm6spZwokRQ31QSpsACbM
+ChiChicken 吃鸡,4.9017199017199,407.0,4.9,649.0,40.7485243,-73.9398664,11101,Long Island City,Queens,,NY,False,ChIJoSrPE3dZwokReX5_-Up2Ek0
+Taste of China,4.9,20.0,4.5,156.0,40.5645648,-74.12784649999999,10306,Richmond,Staten Island,,NY,False,ChIJJTW1t-xLwokR1S7ZGru3C1g
+Aves Thai & Asian Fusion restaurant,4.89743589743589,39.0,4.6,185.0,40.7862818,-73.97266929999999,10024,,Manhattan,New York,NY,False,ChIJXY3uKgBZwokRsm8XWNg-GhU
+DAO Dim Sum & Chinese Cuisine,4.89637305699481,193.0,4.8,1634.0,40.7473619,-73.9830048,10016,,Manhattan,New York,NY,False,ChIJ5y21FQBZwokR1Jd7r6tL4Wk
+Kai-Ying,4.89473684210526,19.0,4.4,170.0,40.7824914,-73.84578239999999,11356,Flushing,Queens,,NY,True,ChIJbxbgTFL1wokR0X9IdD8Ty6g
+Zhe Zhe Pot 啫食坊,4.89240506329113,158.0,4.8,382.0,40.6055818,-73.99949099999999,11214,Bensonhurst,Brooklyn,,NY,False,ChIJv20sYwBFwokRRlsIgR8nfmM
+Loong Noodles,4.89189189189189,37.0,4.6,116.0,40.7287947,-73.98861520000001,10003,,Manhattan,New York,NY,False,ChIJES0nCgBZwokRVJ1R__z_cX0
+Chen's Garden,4.88888888888888,9.0,4.5,137.0,40.7566771,-73.8732165,11372,Flushing,Queens,,NY,False,ChIJEWvzTLxfwokRbvOLHqsF3bw
+JiBeiChuan Noodles(Flushing)季北川花胶汤米粉 (法拉盛店),4.88385269121813,353.0,4.7,781.0,40.7598978,-73.8326465,11354,Flushing,Queens,,NY,True,ChIJA4PaHX9hwokRJiJK0tEIfJs
+Grand Street Skewer Cart,4.87692307692307,65.0,4.9,282.0,40.7183814,-73.99415239999999,10002,,Manhattan,New York,NY,False,ChIJ2Yua64dZwokRcRfpZvPnxg8
+Taste of China,4.875,8.0,4.4,308.0,40.7571989,-73.91472929999999,11103,Astoria,Queens,,NY,False,ChIJuV8vBT1fwokRuQnKRfujxwQ
+Jardin De China,4.875,8.0,4.5,1347.0,40.7506405,-73.8701136,11368,Corona,Queens,,NY,True,ChIJ43rlGLlfwokRkwb5mrdsl00
+Great Wall Chinese Restaurant,4.875,8.0,3.9,230.0,40.67836090000001,-74.2099628,07208,,,Elizabeth,NJ,False,ChIJ9fb037FSwokRjLYk433aJZU
+King Wah,4.875,8.0,4.0,445.0,40.754583,-73.896991,11377,Woodside,Queens,,NY,False,ChIJYdm-tRlfwokRpCfGITFmHwQ
+Tin Wong Restaurant,4.875,24.0,4.5,142.0,40.7174369,-73.9961027,10013,,Manhattan,New York,NY,False,ChIJm6POfm1ZwokRh5OBjmmP31Q
+Ji Bei Chuan Noodles 季北川 BK 86,4.875,136.0,4.7,340.0,40.6011834,-73.9929488,11214,,Brooklyn,,NY,False,ChIJZWHpAQBFwokRsiCxH_eTMOA
+Bao Bao Cafe,4.86796116504854,515.0,4.8,2508.0,40.7543274,-73.9890502,10018,,Manhattan,New York,NY,False,ChIJw2vNKYVZwokREF1LsEyAN0M
+Baohub,4.86363636363636,22.0,4.6,238.0,40.7322825,-73.98211599999999,10003,,Manhattan,New York,NY,False,ChIJhZ6v21RZwokR5AoxSOxt46Y
+Dumpling Xi 喜家德水饺,4.86170212765957,94.0,4.8,238.0,40.7310255,-73.99023,10003,,Manhattan,New York,NY,False,ChIJtYuPfQBbwokR8Nk8-JNSWGs
+Tak King,4.85714285714285,7.0,3.9,191.0,40.6804227,-73.9466241,11216,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJ-Y0CXIVbwokR2qngGohcC6E
+Indika House,4.85714285714285,7.0,4.6,383.0,40.6971935,-73.9353594,11206,Bushwick,Brooklyn,,NY,False,ChIJG7tkjTNdwokRdYbeHbBwJFc
+Chinese Musician,4.85714285714285,7.0,3.8,242.0,40.730412,-73.95374129999999,11222,Greenpoint,Brooklyn,,NY,False,ChIJa8oQs0BZwokREzE3DfdPTvs
+Hong Kong Cafe,4.85714285714285,14.0,4.6,210.0,40.687199,-73.9566699,11238,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJCwFdf5ZbwokRY3enMWlwjyA
+Yi Poh Kitchen Asian Cuisine,4.85714285714285,224.0,4.8,540.0,40.6287642,-74.00557479999999,11219,Dyker Heights,Brooklyn,,NY,False,ChIJffPabWZFwokRzPu5ZwlJ1u8
+The Best Sichuan,4.85384615384615,1040.0,4.8,2831.0,40.7565702,-73.97774580000001,10017,,Manhattan,New York,NY,False,ChIJ8a20X6dZwokRfjZjyuIqWTA
+幸烩 Yao’s Kitchen,4.85,20.0,4.6,118.0,40.6289037,-74.1142464,10310,West Brighton,Staten Island,,NY,False,ChIJ9ZRPD9pPwokRcfWDzoxcfZ8
+LHASA LIANG FEN,4.84615384615384,26.0,4.5,403.0,40.7439683,-73.8847536,11373,Elmhurst,Queens,,NY,False,ChIJ-UXFfqtfwokRtBVHHzZc1PA
+Lion Dance,4.84615384615384,26.0,4.9,196.0,40.6162059,-74.1031536,10301,Sunnyside,Staten Island,,NY,False,ChIJFXjOXCRPwokRpqPpACWcr1E
+New Ipoh Kitchen Asian Cuisine,4.845,400.0,4.8,1038.0,40.6166739,-73.9854019,11204,Mapleton,Brooklyn,,NY,False,ChIJVVWGhh9FwokRzrH8_6uA1Y0
+鱼你在一起 （法拉盛） Fish With You | Sauerkraut Fish 酸菜鱼,4.84418604651162,860.0,4.8,1667.0,40.7587839,-73.8306868,11354,Flushing,Queens,,NY,True,ChIJORKNKiU76IkRmp4F-p5wyFY
+Super Taste,4.84375,32.0,4.7,228.0,40.7718429,-73.9527208,10075,,Manhattan,New York,NY,False,ChIJHfzYFAxZwokRlDntl0_Yab8
+Dim Sum Sam,4.84191176470588,544.0,4.7,1919.0,40.740559,-73.98780579999999,10010,,Manhattan,New York,NY,False,ChIJU6xu8H5ZwokRZGryaPME3TA
+Tsing Garden Chinese Restaurant,4.83333333333333,6.0,4.1,114.0,40.7893051,-74.00627949999999,07093,,,West New York,NJ,False,ChIJmZ8pONJZwokRtOxSSuEZfLI
+China Restaurant,4.83333333333333,6.0,4.2,682.0,40.6502778,-73.92999999999999,11203,East Flatbush,Brooklyn,,NY,False,ChIJGcS8zJhcwokR68F3gBbbE2A
+East Star,4.83333333333333,6.0,3.9,144.0,40.82367869999999,-73.8944559,10459,Foxhurst,The Bronx,,NY,False,ChIJRRC2hVT0wokR98ZiTqyGTJ0
+CHINA WOK CARTERET,4.83333333333333,6.0,4.4,118.0,40.5876969,-74.2272716,07008,,,Carteret,NJ,False,ChIJS_V6LGK1w4kR9lSSWFM898U
+No 1 Chinese Kitchen,4.83333333333333,6.0,3.9,109.0,40.5971696,-74.0842435,10305,Arrochar,Staten Island,,NY,False,ChIJtezdauROwokR-XyJNNk5B1g
+Master Wonton,4.83333333333333,6.0,3.9,154.0,40.6144067,-73.97437049999999,11204,Mapleton,Brooklyn,,NY,False,ChIJl0L8dOdEwokRGm7X3HMtdIs
+Dragon Garden,4.83333333333333,12.0,4.5,173.0,40.610222,-73.999512,11214,Bensonhurst,Brooklyn,,NY,False,ChIJm4t36xFFwokRoxB9rUjretc
+King’s Wok Chinese Food,4.83333333333333,12.0,4.2,128.0,40.7602289,-73.9074754,11377,Woodside,Queens,,NY,False,ChIJO8u_EhRfwokR_ZBkkTUEBIU
+Old Sport Food,4.83333333333333,78.0,4.7,371.0,40.7242182,-73.85535229999999,11375,Forest Hills,Queens,,NY,False,ChIJ8zYw_-VfwokRfMz25U3CbGM
+OK Canaan Taiwanese Gourmet 台灣好滋味,4.82828282828282,99.0,4.6,239.0,40.7520921,-73.8268011,11355,Flushing,Queens,,NY,True,ChIJX_-ydU5hwokRDHgVEshJ2kw
+Antidote,4.82460732984293,382.0,4.8,2055.0,40.7142531,-73.9654481,11249,Williamsburg,Brooklyn,,NY,False,ChIJN7sVKcJZwokRZp59H74tSFg
+O Ramen & Dim Sum M Yuki Sushi,4.8235294117647,17.0,4.7,252.0,40.7160932,-73.9923491,10002,,Manhattan,New York,NY,False,ChIJcyP529hZwokR30axJSxdIZ8
+Xie Bao Flushing 蟹寶,4.82210242587601,371.0,4.7,681.0,40.7588367,-73.8331334,11354,Flushing,Queens,,NY,True,ChIJw9v2VQBhwokRFqwgp_ITfG8
+Sky Pavilion 川雲涧,4.81218274111675,197.0,4.7,437.0,40.7580097,-73.9908378,10036,,Manhattan,New York,NY,False,ChIJAXoJdQBZwokRmc14ZZhY1l8
+DD Soup Dumpling & FuJi Hibachi,4.81045751633986,306.0,4.7,2822.0,40.75791299999999,-73.99069999999999,10036,,Manhattan,New York,NY,False,ChIJnS6wtl9ZwokR2qWRGAD989Y
+LUNAR,4.80945757997218,719.0,4.7,1218.0,40.7497992,-73.982317,10016,,Manhattan,New York,NY,False,ChIJAa9VD55ZwokRmOsOuh5AfUs
+禧悦會海鲜自助火锅 XI YUE HUI HOT POT,4.80434782608695,828.0,4.8,1570.0,40.6325948,-74.0112831,11220,Sunset Park,Brooklyn,,NY,False,ChIJP0sZQQNFwokRVdWsljBVYC4
+Breeze,4.80232558139534,86.0,4.8,458.0,40.7230018,-73.95061489999999,11222,Greenpoint,Brooklyn,,NY,False,ChIJayMXxXBZwokRq41Uj462dS0
+Wing Cheong,4.8,5.0,4.6,349.0,40.6803509,-73.9455406,11216,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJ7WyyfIVbwokR4jvvnC7LPkw
+Yummy,4.8,5.0,3.9,142.0,40.6410403,-73.9558954,11226,Flatbush,Brooklyn,,NY,False,ChIJhbZ-7UhbwokR-HMemUZoK4A
+Peking Express,4.8,5.0,4.2,324.0,40.6744372,-73.80403430000001,11420,South Ozone Park,Queens,,NY,False,ChIJO2OwdiNnwokRbbHQmHsE6Mk
+Chen's Garden,4.8,5.0,4.0,102.0,40.5633031,-74.1917139,10312,Arden Heights,Staten Island,,NY,False,ChIJsU2T02lLwokRdcds8rhHrkA
+Double,4.8,5.0,4.4,252.0,40.7421669,-73.854548,11368,Corona,Queens,,NY,True,ChIJRSf_Ds5fwokRZqTrUKpGcDI
+Happy World,4.8,5.0,3.9,162.0,40.8459127,-73.9365402,10033,,Manhattan,New York,NY,False,ChIJD-wT3p_2wokRNwO2a5MBKvI
+Jumbo Chinese Kitchen,4.8,5.0,4.3,141.0,40.6977923,-73.8353874,11418,Jamaica,Queens,,NY,False,ChIJo0w5cKxgwokR1f-N31Lhz10
+Great Wall,4.8,10.0,3.9,114.0,40.7697897,-73.7894882,11358,Flushing,Queens,,NY,True,ChIJWxD60H6KwokRPFAumpeyT-U
+Double Delight,4.8,10.0,3.9,127.0,40.6131606,-74.00045209999999,11214,Bensonhurst,Brooklyn,,NY,False,ChIJW70dXxFFwokRAJikQ3gn2KA
+La Caridad 72,4.8,20.0,4.7,436.0,40.7777321,-73.9800415,10023,,Manhattan,New York,NY,False,ChIJo_O_AchZwokRW5SZhYoWjJ4
+Yeh’s Bao,4.8,55.0,4.6,210.0,40.70840640000001,-74.0146609,10006,,Manhattan,New York,NY,False,ChIJPwLeYgBbwokRu5nXLxOj3XY
+Blue Peak Villa 山水庄,4.8,55.0,4.6,129.0,40.7226136,-73.98852389999999,10002,,Manhattan,New York,NY,False,ChIJMY4T41xZwokRVt6hgnezadg
+YGF Malatang,4.79945799457994,369.0,4.8,957.0,40.7322865,-73.988252,10003,,Manhattan,New York,NY,False,ChIJDVHGG4tZwokRIByvqBESCuE
+King’s Kitchen,4.79772079772079,702.0,4.8,1252.0,40.637072,-74.01176579999999,11220,Sunset Park,Brooklyn,,NY,False,ChIJZSGzOABFwokRphkqLErjYwg
+Xi'an Famous Foods 西安名吃 | Woodside,4.79166666666666,24.0,4.6,185.0,40.7509377,-73.9065959,11377,Woodside,Queens,,NY,False,ChIJp1-F1xtfwokRlXVAPeZ1BmM
+"Nan Xiang Express - Williamsburg, NY",4.78231292517006,147.0,4.8,833.0,40.714757,-73.9613578,11249,Williamsburg,Brooklyn,,NY,False,ChIJs-DAOahZwokR22b9nTj-IWE
+DONGBEI 东北(Upper West Side),4.78048780487804,82.0,4.8,132.0,40.7996535,-73.9622409,10025,,Manhattan,New York,NY,False,ChIJJffeu2r3wokRk24EZtx8-pk
+Hwa ShooShoo Xinjiang Fried Rice Noodles,4.77966101694915,59.0,4.7,102.0,40.760238,-73.8346885,11354,Flushing,Queens,,NY,True,ChIJ9ybudplhwokRkSz06oLLlBE
+China Wok,4.77777777777777,9.0,3.9,125.0,40.651464,-74.00403299999999,11232,Sunset Park,Brooklyn,,NY,False,ChIJXU01qcdawokRG7Tlr3cxJTY
+Chef Hong Kitchen,4.77777777777777,9.0,4.1,249.0,40.638093,-74.0776009,10301,Mid Island,Staten Island,,NY,False,ChIJIfy3zzJOwokR40r7r8pJH_4
+No. 1,4.77777777777777,9.0,3.5,215.0,40.63605460000001,-74.1344566,10302,Port Richmond,Staten Island,,NY,False,ChIJ72XiIt1NwokRoPHMSvbXmYU
+Cho-Sen Garden,4.77777777777777,9.0,4.2,441.0,40.7318931,-73.8488138,11375,Forest Hills,Queens,,NY,False,ChIJRUlbESxewokRBf3oVUbacXg
+TIPSY SHANGHAI 蘇杭餐厅,4.77551020408163,196.0,4.8,917.0,40.7274166,-73.9882713,10003,,Manhattan,New York,NY,False,ChIJOUMIx-9ZwokRNkHZdwJGR5I
+B2J Tasty Pot Bayside 不二家酸菜鱼 兰州拉面Bayside,4.77474402730375,293.0,4.8,551.0,40.7621828,-73.7705679,11361,Bayside,Queens,,NY,True,ChIJaZd227RhwokRDH9lll87sZg
+Fan Szechuan Restaurant & Bar,4.77058823529411,170.0,4.8,1105.0,40.7191108,-73.9882018,10002,,Manhattan,New York,NY,False,ChIJ6V8yUgBZwokRpXl4eRoJmug
+Yum Cha Chinese Kitchen & Bar 姑苏里,4.76898734177215,316.0,4.7,934.0,40.729259,-73.9987795,10012,,Manhattan,New York,NY,False,ChIJp3m9hEdZwokReSCOD-X9YNs
+Hot Peppers LIC,4.76666666666666,30.0,4.6,251.0,40.7481037,-73.9401752,11101,Long Island City,Queens,,NY,False,ChIJBWAs9CJZwokRCpTEDldPYtI
+Chef Huang,4.76551724137931,145.0,4.7,347.0,40.7452948,-73.9757772,10016,,Manhattan,New York,NY,False,ChIJiS04VWNZwokRCtm_6zu-b-w
+Jiang Nan NYC,4.76428571428571,560.0,4.8,1638.0,40.7175581,-73.9949693,10002,,Manhattan,New York,NY,False,ChIJg0ZHaSRZwokRHymWtw9gKJk
+MEILI 沉香,4.76388888888888,72.0,4.7,281.0,40.7208999,-73.9555685,11249,Williamsburg,Brooklyn,,NY,False,ChIJL4Pjpa9ZwokR0iQiU1POKFw
+Yumpling,4.76326530612244,245.0,4.7,1044.0,40.7430199,-73.95382289999999,11101,Long Island City,Queens,,NY,False,ChIJKaodeNhZwokRsu8YloqftpY
+江湖 烤 涮 酒坊,4.75886524822695,141.0,4.7,220.0,40.76129299999999,-73.8316488,11354,Flushing,Queens,,NY,True,ChIJRyasD1lhwokRsPjXI1kFs4A
+Din's Kitchen,4.75396825396825,126.0,4.7,283.0,40.6411692,-74.00746199999999,11220,Sunset Park,Brooklyn,,NY,False,ChIJ-Re2SS1bwokRIxlWv4yIqQM
+No 1,4.75,4.0,4.0,133.0,40.6037939,-73.99575829999999,11214,Bensonhurst,Brooklyn,,NY,False,ChIJU-A2TA9FwokRyv1uwGma4yw
+China Delight,4.75,4.0,3.8,132.0,40.6504321,-74.0046059,11232,Sunset Park,Brooklyn,,NY,False,ChIJ7dblxsdawokRkYEhsK3I1WA
+No 1,4.75,4.0,3.7,138.0,40.8697489,-73.8425074,10469,East Bronx,The Bronx,,NY,False,ChIJIW9vN0vzwokR-qpWNoVgDuo
+Hillside Kitchen,4.75,4.0,4.4,351.0,40.6951775,-74.2160367,07205,,,Hillside,NJ,False,ChIJSX6r7sxSwokRzxkbJ633UN0
+Ming Feng Chinese Restaurant,4.75,4.0,4.1,199.0,40.60718689999999,-74.2885931,07065,,,Rahway,NJ,False,ChIJ4wPjLXyzw4kRTnc36C5fY7s
+Ming Wok,4.75,4.0,3.7,119.0,40.7556332,-73.8827596,11372,Jackson Heights,Queens,,NY,False,ChIJ0UwT_6NfwokRqI0b44E5vp8
+New Star,4.75,4.0,3.7,118.0,40.7373614,-73.8638328,11368,Flushing,Queens,,NY,True,ChIJ1Un3ODVewokRxu51WUWgPyw
+Vegetarian palate,4.75,8.0,4.5,186.0,40.679612,-73.9638447,11238,Crown Heights,Brooklyn,,NY,False,ChIJ35-URRJbwokRLkYrGy1FnWY
+Koong Wing,4.75,8.0,4.2,102.0,40.640426,-74.0184885,11220,Sunset Park,Brooklyn,,NY,False,ChIJaVc6oVJFwokRvq_28EvxQ5Y
+Jing Fu House,4.75,8.0,4.2,231.0,40.7492057,-73.8700853,11372,Jackson Heights,Queens,,NY,False,ChIJNfih5rlfwokRJs96fUtO_Kg
+Mr. Wonton,4.75,8.0,4.3,187.0,40.6919658,-73.86391069999999,11421,Jamaica,Queens,,NY,False,ChIJi33SbOddwokRqFBwLfR2XCs
+New Panda,4.75,12.0,4.3,124.0,40.7174455,-73.8568154,11375,Forest Hills,Queens,,NY,False,ChIJ2bX3gz1ewokR30NVASR11jE
+Tack's Chinese Take Out,4.75,12.0,3.8,132.0,40.6046525,-74.1211853,10314,Manor Heights,Staten Island,,NY,False,ChIJBfRr4pxOwokRCBscD9jgDGY
+Sweet Bamboo Chinese Food | Elmhurst,4.75,12.0,4.6,141.0,40.7401977,-73.8746336,11373,Elmhurst,Queens,,NY,False,ChIJFzSW4c9fwokRUN510xVlg0Q
+Old Luo Yang,4.74203821656051,314.0,4.7,550.0,40.7600179,-73.8309378,11354,Flushing,Queens,,NY,True,ChIJX8kyIgxhwokRf99VrKRPwvA
+Jiang Nan Flushing,4.74136321195144,1071.0,4.7,2193.0,40.7594242,-73.8327755,11354,Flushing,Queens,,NY,True,ChIJZSvB14NhwokRR7ROmZwHvUw
+Chiko,4.74074074074074,27.0,4.8,265.0,40.731897,-73.95428849999999,11222,Greenpoint,Brooklyn,,NY,False,ChIJq5JiVwlZwokRZI1Yf_Zi_zg
+JiBeiChuan Rice Noodle & Ramen 季北川花胶鸡汤米粉 Bayside 呗赛,4.73571428571428,140.0,4.7,326.0,40.7619767,-73.7703727,11361,Bayside,Queens,,NY,True,ChIJ1ULyVcFhwokRdimG0u181Ks
+Chi Restaurant & Bar,4.73391304347826,575.0,4.7,2524.0,40.7554594,-73.9944725,10018,,Manhattan,New York,NY,False,ChIJYYpwNA5ZwokRYImQw6JRNfI
+Peng's Noodle Folk,4.73333333333333,60.0,4.7,718.0,40.77098730000001,-73.96209979999999,10021,,Manhattan,New York,NY,False,ChIJp-V3XrpYwokRwqFX-9bZQF8
+Vegan Ginger Root,4.72727272727272,11.0,4.7,402.0,40.7624834,-73.9595604,10065,,Manhattan,New York,NY,False,ChIJ_auWHehYwokROYvjW5FSPOg
+Mr. Wonton,4.72727272727272,11.0,4.1,349.0,40.6751414,-73.9748113,11217,Park Slope,Brooklyn,,NY,False,ChIJH7zK0KlbwokRHWLKv6UFSv0
+Peking Taste Chinese and Thai Restaurant,4.72727272727272,22.0,4.0,165.0,40.5908246,-74.1647066,10314,New Springville,Staten Island,,NY,False,ChIJ07ISXXxMwokRTyPumjSYA-o
+Noodlecraft,4.72727272727272,55.0,4.6,376.0,40.7446413,-73.9518949,11101,Long Island City,Queens,,NY,False,ChIJp4n-XqhZwokR6j0k33BRQHA
+"Nan Xiang Express - Upper West Side, NY",4.72222222222222,36.0,4.6,165.0,40.802587,-73.9681978,10025,,Manhattan,New York,NY,False,ChIJ94yTZoD3wokRmoVuEibMjDs
+King's Kitchen,4.72167832167832,715.0,4.6,1448.0,40.6039672,-73.9968749,11214,Bensonhurst,Brooklyn,,NY,False,ChIJqdtPMQ9FwokRZFp_PTOW6E8
+SIU KITCHEN (Hotpot),4.71641791044776,67.0,4.5,156.0,40.5715399,-74.1113314,10306,New Dorp,Staten Island,,NY,False,ChIJJ6K47-tJwokRKWJrdzP9Uoc
+Annie's First Wok,4.71428571428571,7.0,4.3,133.0,40.7015751,-73.9845356,11201,Downtown Brooklyn,Brooklyn,,NY,False,ChIJK7jIZzNawokRPXi-cr2v-qY
+New Lin's Kitchen,4.71428571428571,7.0,4.3,152.0,40.7505481,-73.89490289999999,11372,Jackson Heights,Queens,,NY,False,ChIJ91q22QVfwokRT-nqOOCzhZ4
+China Palace Restaurant,4.71428571428571,7.0,3.9,185.0,40.84390210000001,-73.8296077,10461,Pelham Bay,The Bronx,,NY,False,ChIJm_cdhFqLwokRUwxuUg1hleI
+CHELI FLUSHING,4.7112462006079,658.0,4.7,1508.0,40.7594853,-73.8326623,11354,Flushing,Queens,,NY,True,ChIJYVvVYJ5hwokR-KpQ6FHfdG4
+Nan Xiang Xiao Long Bao,4.71032357473035,649.0,4.7,2494.0,40.7482492,-73.9864798,10001,,Manhattan,New York,NY,False,ChIJ5bXhW_pZwokRS1dCnTWL3WA
+Dim Sum Bloom Manhattan 98st,4.70967741935483,31.0,4.4,213.0,40.7957582,-73.97059000000002,10025,,Manhattan,New York,NY,False,ChIJA_lAtEX3wokRxOLSUI6Br-0
+Forever Taste,4.70967741935483,31.0,4.4,190.0,40.7130614,-73.9899373,10002,,Manhattan,New York,NY,False,ChIJXbqtaSlawokRbAFobgotC_k
+Jin Mei Dumpling,4.70967741935483,93.0,4.7,951.0,40.7129395,-73.9965684,10002,,Manhattan,New York,NY,False,ChIJb_SHcSZawokRtdpS_MICEis
+The Pancake - 杨记鲜肉饼,4.70833333333333,24.0,4.8,127.0,40.7602851,-73.82817159999999,11354,Flushing,Queens,,NY,True,ChIJDc_EciVhwokRri3dMy_tvHM
+Grand Sichuan,4.70833333333333,48.0,4.4,428.0,40.7270619,-73.854812,11374,Rego Park,Queens,,NY,False,ChIJPXYGCTBewokRzq6g-oWUrOM
+Chef Tan,4.70625,160.0,4.6,440.0,40.7288763,-73.9880313,10003,,Manhattan,New York,NY,False,ChIJIes9lZ1ZwokRxV3hRFFVCsY
+Hunan Tapas,4.70526315789473,95.0,4.5,190.0,40.7519903,-73.93912569999999,11101,Long Island City,Queens,,NY,False,ChIJxx9fKABZwokRHf-Weduzrqc
+Dim Sum Sam,4.70397643593519,679.0,4.5,2558.0,40.7552667,-73.98958209999999,10018,,Manhattan,New York,NY,False,ChIJ4Tdm4l5ZwokRwxDIw60nbXE
+Zhongzhong Noodles - Bronx,4.7037037037037,27.0,4.4,268.0,40.8566148,-73.8841991,10458,Belmont,The Bronx,,NY,False,ChIJPd2_lDn1wokRftkdjmFPuwY
+Lucky,4.7,10.0,4.1,148.0,40.7366739,-73.8961703,11377,Woodside,Queens,,NY,False,ChIJA_wUqw9fwokRZ9jkOaZVymM
+Xi'an Famous Foods 西安名吃 | Williamsburg,4.7,20.0,4.7,181.0,40.7174201,-73.9551546,11211,Williamsburg,Brooklyn,,NY,False,ChIJ78o6AfZZwokRO0jaaWrctPY
+Liuyishou Hot Pot,4.7,710.0,4.6,1482.0,40.7607682,-73.8276729,11354,Flushing,Queens,,NY,True,ChIJ62AfMHthwokRSGIcc5pKSDQ
+Lao Chengdu Spicy Food,4.6996699669967,303.0,4.6,529.0,40.7603491,-73.83251849999999,11354,Flushing,Queens,,NY,True,ChIJLVgCVQ5gwokRHdZEXktz5lI
+Steam,4.69811320754717,53.0,4.6,486.0,40.7355572,-73.9977961,10011,,Manhattan,New York,NY,False,ChIJJYRLYrtZwokRuRmuvnMPaYE
+Ooodles Noodle House 寶島美食 Taiwanese Eats,4.69642857142857,56.0,4.6,188.0,40.76082419999999,-73.7673902,11361,Bayside,Queens,,NY,True,ChIJr_Aqzm9hwokRsgXzIikOHDA
+Jiang Nan LIC,4.69354838709677,186.0,4.5,437.0,40.74647849999999,-73.94231169999999,11101,Long Island City,Queens,,NY,False,ChIJD0wDQFpZwokRD1yp-BrV0IA
+C & Y,4.69230769230769,13.0,4.3,210.0,40.6704306,-73.9849675,11215,Park Slope,Brooklyn,,NY,False,ChIJX5TKxf1awokRpPiDPBhb7hw
+Szechuan Kitchen,4.69230769230769,13.0,3.3,139.0,40.7333358,-73.7364856,11427,Queens Village,Queens,,NY,False,ChIJ8U5gySRiwokR9-LLWEvFvoo
+草堂 Caotang New Sichuan Cuisine,4.69230769230769,26.0,4.4,193.0,40.773394,-73.9558204,10075,,Manhattan,New York,NY,False,ChIJ59w0Hb9YwokRatBABWUN8cg
+Hunan Noodle,4.69080779944289,359.0,4.7,632.0,40.7608752,-73.8332365,11354,Flushing,Queens,,NY,True,ChIJy_9PnVphwokRto0GMT_5mH8
+Bell Garden,4.6875,48.0,4.4,283.0,40.7647156,-73.7712071,11361,Flushing,Queens,,NY,True,ChIJVwe8rAqKwokRsqaMpYYvEwo
+Xin La Gong Fu,4.68421052631578,76.0,4.5,210.0,40.7642186,-73.8282132,11354,Flushing,Queens,,NY,True,ChIJ8YH6DUVhwokREosbNGI5RE8
+YongChuan,4.67777777777777,180.0,4.7,383.0,40.7182555,-73.98522969999999,10002,,Manhattan,New York,NY,False,ChIJvbUxn0lZwokRJVNddw78BtY
+King’s Kitchen,4.67553191489361,188.0,4.6,388.0,40.7158642,-73.9981757,10013,,Manhattan,New York,NY,False,ChIJGfoUDABbwokRNPPXDDdtwnc
+Carol's Bun,4.67307692307692,52.0,4.7,226.0,40.7137997,-73.9914345,10002,,Manhattan,New York,NY,False,ChIJbb-1BilawokRU_jdJ4pt7a8
+TAI ER SICHUAN CUISINE 太二酸菜鱼 (FLUSHING),4.66914498141263,538.0,4.6,1063.0,40.7602271,-73.83346740000002,11354,Flushing,Queens,,NY,True,ChIJA9JW6RthwokR97B8p0lD0fI
+Jun Lung,4.66666666666666,3.0,4.4,190.0,40.7927554,-74.0211254,07047,,,North Bergen,NJ,False,ChIJBSPnqgVYwokRtf2KMZKVY3k
+Empire Kitchen,4.66666666666666,3.0,4.3,210.0,40.6721641,-73.92508029999999,11233,Crown Heights,Brooklyn,,NY,False,ChIJ4bq6unxcwokRtz9vorClTfM
+Weng's Garden,4.66666666666666,3.0,3.9,156.0,40.6856944,-73.92068320000001,11233,Ocean Hill,Brooklyn,,NY,False,ChIJhTsP3WxcwokRvsEj5Aj1yC4
+Lucky Chen,4.66666666666666,3.0,3.8,114.0,40.6909841,-73.92510829999999,11221,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJnc1ekg1cwokRFZWEj4-lB5I
+Mr King Food Kitchen,4.66666666666666,3.0,3.9,173.0,40.660457,-73.9396275,11203,Little Caribbean,Brooklyn,,NY,False,ChIJiaTz0HxbwokRmTXM9nnzAj0
+Wing Yum Lin's,4.66666666666666,3.0,4.2,134.0,40.69685459999999,-73.8375157,11418,Richmond Hill,Queens,,NY,False,ChIJFfGuDKtgwokRzdKqsI-_OFo
+Chinese Gourmet Restaurant,4.66666666666666,3.0,4.0,212.0,40.6311946,-74.25313919999999,07036,,,Linden,NJ,False,ChIJRetXtRyzw4kRWG_xtgua1Dw
+China Cafe,4.66666666666666,3.0,4.3,433.0,40.5604734,-74.3096746,08830,Iselin,,Woodbridge Township,NJ,False,ChIJ9-oN_g-msYkRC24BBkb4I2I
+Golden Star,4.66666666666666,3.0,4.2,373.0,40.8498569,-73.9363765,10033,,Manhattan,New York,NY,False,ChIJRZz6gKD2wokRBVWTZSPSKdM
+Wing Wah,4.66666666666666,6.0,4.1,121.0,40.7108912,-73.8542427,11375,Forest Hills,Queens,,NY,False,ChIJpev2ohBewokRKKsmdOzARgQ
+East Garden,4.66666666666666,6.0,4.2,125.0,40.6191967,-73.93339759999999,11234,Marine Park,Brooklyn,,NY,False,ChIJWVe_LlhDwokR2W-2FBspF8k
+Liu's Garden,4.66666666666666,6.0,4.0,118.0,40.7496114,-73.70764,11040,Glen Oaks,Queens,,NY,False,ChIJ-W5N6XtiwokRzyw9i4PH8L0
+Quality Chef,4.66666666666666,6.0,4.1,262.0,40.8468319,-73.8491428,10461,Morris Park,The Bronx,,NY,False,ChIJu26fYa70wokRiCscOiAk2X8
+China New Star,4.66666666666666,9.0,4.0,320.0,40.6246431,-74.1432401,10302,Mid Island,Staten Island,,NY,False,ChIJj0n8ZslNwokRJrjuYjRp1YY
+China Pagoda,4.66666666666666,9.0,3.7,252.0,40.633144,-74.021362,11209,Bay Ridge,Brooklyn,,NY,False,ChIJJ709i1BFwokRmvb1XR5EDk4
+New Luen Hing,4.66666666666666,9.0,3.5,137.0,40.8762323,-73.9036129,10463,West Bronx,The Bronx,,NY,False,ChIJa_faI5HzwokRcuKjBu5FKv8
+New Cottage,4.66666666666666,12.0,4.3,239.0,40.78317759999999,-73.98079919999999,10024,,Manhattan,New York,NY,False,ChIJE0mskuxZwokRR-9pgHWp1Ik
+Big Chef,4.66666666666666,12.0,4.1,112.0,40.6049549,-73.9420074,11229,,Brooklyn,,NY,False,ChIJd5KhBqFEwokRclv26G0T8d4
+Hibachi Express,4.66666666666666,12.0,4.4,120.0,40.7295,-73.9787559,10009,,Manhattan,New York,NY,False,ChIJnQEqn3ZZwokRJCW8GLqu2PA
+China Wok Staten Island,4.66666666666666,12.0,3.9,114.0,40.5754611,-74.1198095,10306,New Dorp,Staten Island,,NY,False,ChIJSWYkxlRJwokR1OQhPiQ9lVk
+Xi'an Famous Foods 西安名吃 | Union Square,4.66666666666666,30.0,4.7,194.0,40.7337268,-73.9896693,10003,,Manhattan,New York,NY,False,ChIJA6FXDABZwokRGCh6a0uJJvo
+Sun Hing Lung,4.66666666666666,57.0,4.6,336.0,40.712743,-73.995075,10002,,Manhattan,New York,NY,False,ChIJGeaRAyZawokRbvxqEiLDw8g
+Dim Sum Palace,4.66129032258064,124.0,4.6,943.0,40.7258783,-73.989884,10003,,Manhattan,New York,NY,False,ChIJQ-rGHbtZwokRZzBzywlf7ak
+小頸 皇爺雞 Royal Rooster hotpot,4.65853658536585,41.0,4.4,113.0,40.7710525,-73.7354817,11362,Little Neck,Queens,,NY,True,ChIJ-Vvkv_OJwokRSVUlDlu5VFo
+Coco Hotpot 皇椰鸡,4.65777777777777,225.0,4.6,436.0,40.7602126,-73.8330397,11354,Flushing,Queens,,NY,True,ChIJdyZGVD1hwokRsoq0OzmkTNM
+Gao's BBQ & Crab,4.65775950668037,973.0,4.5,1790.0,40.7600038,-73.82746329999999,11354,Flushing,Queens,,NY,True,ChIJwWzuH4phwokR1-It_OVi__4
+Zhu Ji Dumpling House,4.65714285714285,35.0,4.5,150.0,40.758097,-73.8299576,11354,Flushing,Queens,,NY,True,ChIJLYUA_xFgwokRxmF_hsgKE24
+MARATHON CAFE,4.65384615384615,78.0,4.6,217.0,40.7669944,-73.73636230000001,11362,Little Neck,Queens,,NY,True,ChIJA_pNZGiJwokRsoFXUf5gz5U
+Da Long Yi Hot Pot,4.64777327935222,247.0,4.5,489.0,40.7502032,-73.9413782,11101,Long Island City,Queens,,NY,False,ChIJKePvPk5ZwokRglgKdN2y-08
+Moon Kee Restaurant,4.64516129032258,62.0,4.4,289.0,40.7973721,-73.9694833,10025,,Manhattan,New York,NY,False,ChIJMepninf3wokRWULnnSKXiaw
+Yi Ji Shi Mo,4.64285714285714,140.0,4.7,560.0,40.7181923,-73.9957473,10013,,Manhattan,New York,NY,False,ChIJb7sfoNNZwokR1Zu1zyYbu5I
+Fuhing Chinese Restaurant,4.63636363636363,11.0,3.9,202.0,40.6522104,-74.2248104,07202,,,Elizabeth,NJ,False,ChIJrQlW87ayw4kR9Aeg9xPikag
+New Chinatown Restaurant and Bar | Asian Fusion | Chinese and Thai Food,4.63636363636363,44.0,4.4,540.0,40.7828576,-73.95125929999999,10128,,Manhattan,New York,NY,False,ChIJVQo6V6RYwokR44gJvaeMUgA
+Spicy Moon East Village,4.63636363636363,55.0,4.6,950.0,40.7266901,-73.9872499,10003,,Manhattan,New York,NY,False,ChIJ7x3Pe11ZwokRLpfe6va9dqs
+Chow House,4.63636363636363,209.0,4.6,1059.0,40.7291204,-74.00076159999999,10012,,Manhattan,New York,NY,False,ChIJ8z3tH5JZwokRU1hSLFhRFQA
+China Gourmet,4.63333333333333,30.0,3.6,614.0,40.7639193,-73.9852801,10019,,Manhattan,New York,NY,False,ChIJIZIio1dYwokRftM7wAMOmL0
+Hey Yuet 喜粤,4.63333333333333,120.0,4.6,586.0,40.747137,-73.996365,10001,,Manhattan,New York,NY,False,ChIJYcwEztJZwokRR-uTBjwHrSs
+The Best Sichuan 一品成都39,4.62845010615711,471.0,4.7,3249.0,40.7527574,-73.9845295,10018,,Manhattan,New York,NY,False,ChIJSzY_qqtZwokRiLyLL2_upv0
+灶门签 Zao Men Qian Hot Pot,4.62686567164179,268.0,4.5,467.0,40.7505648,-73.8186762,11355,Flushing,Queens,,NY,True,ChIJw4sTpCNhwokR-xGO7HTQVbY
+King’s Kitchen,4.62569832402234,716.0,4.5,1497.0,40.7139892,-73.99369229999999,10002,,Manhattan,New York,NY,False,ChIJG08ekihawokRIejgF_clyrU
+Tasty House,4.625,8.0,4.0,135.0,40.5970124,-73.97469149999999,11223,Gravesend,Brooklyn,,NY,False,ChIJuWfd8vhEwokRrYL_vGO0OHc
+North Dumplings Essex,4.625,72.0,4.6,943.0,40.7154636,-73.9900579,10002,,Manhattan,New York,NY,False,ChIJib907ylawokRR9VRduNlws0
+Burp Bowl Cafe,4.62237762237762,143.0,4.5,479.0,40.7417818,-73.98262439999999,10016,,Manhattan,New York,NY,False,ChIJ1cGq3glZwokR-Tj_jN2GrhM
+Wah Fung No.1 Fast Food,4.61351351351351,370.0,4.5,3411.0,40.7173189,-73.9944649,10002,,Manhattan,New York,NY,False,ChIJCZ6p_4dZwokRitXAVOk-zvs
+West Rice Roll King 西关肠粉王,4.60919540229885,87.0,4.6,376.0,40.7169914,-73.9947663,10002,,Manhattan,New York,NY,False,ChIJv8ppS0dbwokRrn2vYIST7U4
+Empire East,4.60869565217391,23.0,3.7,355.0,40.5646531,-74.1138074,10306,New Dorp Beach,Staten Island,,NY,False,ChIJizVKdlBJwokRHPEgmQx29v8
+Hainan,4.60833333333333,120.0,4.5,767.0,40.7606451,-73.8037556,11358,Flushing,Queens,,NY,True,ChIJ86jijMhhwokRItWSGT6dpW8
+Pearl Garden,4.60330578512396,121.0,4.5,338.0,40.786775,-73.8219694,11357,Flushing,Queens,,NY,True,ChIJDQXGhL6KwokRXE-X1Y9DYwo
+Kum Fung,4.6,5.0,3.9,178.0,40.6218795,-74.0722633,10304,Clifton,Staten Island,,NY,False,ChIJhwsaJq5PwokRan4RXD9L-lQ
+New Fun Sing,4.6,10.0,4.0,255.0,40.7018474,-73.9435689,11206,Southside,Brooklyn,,NY,False,ChIJed9FRvpbwokRFgE6leChBTw
+Taste of China,4.6,10.0,4.3,259.0,40.6347926,-74.0232195,11220,Bay Ridge,Brooklyn,,NY,False,ChIJuW0_J1FFwokRfucOwTHpVq4
+Dao Palate,4.6,10.0,4.3,247.0,40.6779724,-73.9727187,11217,Prospect Heights,Brooklyn,,NY,False,ChIJAftQ7KhbwokRi7mkB0p7TrM
+Crown Palace,4.6,10.0,3.6,115.0,40.6266873,-74.1315735,10302,Port Richmond,Staten Island,,NY,False,ChIJOcyfk9BNwokR9gS_WN4F0A0
+Ho Wok,4.6,10.0,4.0,127.0,40.559483,-74.164391,10308,Eltingville,Staten Island,,NY,False,ChIJX6MK0qNLwokRyu4WbBxZWdc
+Best Garden,4.6,10.0,4.2,102.0,40.7656857,-73.7444879,11363,Douglaston,Queens,,NY,True,ChIJXwsDLPmJwokR1gifetHBJDw
+Oh Dumplings,4.6,20.0,4.7,234.0,40.731853,-73.9583243,11222,Greenpoint,Brooklyn,,NY,False,ChIJa51eLo1ZwokR2f0GKDB7Z_w
+New Dragon,4.6,25.0,4.0,149.0,40.756043,-73.8047437,11358,Flushing,Queens,,NY,True,ChIJ-yo07DBgwokRqknvukV10Vw
+Xi'an Famous Foods 西安名吃 | 74th&Amsterdam UWS,4.59756097560975,82.0,4.5,468.0,40.7801202,-73.9801846,10023,,Manhattan,New York,NY,False,ChIJN02wlIhZwokRjNAAmte4O9I
+湘当有料Young and Rich NY,4.59660297239915,471.0,4.5,856.0,40.7618164,-73.83274349999999,11354,Flushing,Queens,,NY,True,ChIJ75_Nga1hwokRwb_lNQgLW50
+99 Favor Taste,4.59431818181818,880.0,4.5,2933.0,40.635497,-74.011606,11220,Sunset Park,Brooklyn,,NY,False,ChIJyzOz40tFwokRl2WhNTSgazw
+Beijing Dumpling House,4.59375,32.0,4.6,769.0,40.7039761,-73.809091,11435,Jamaica,Queens,,NY,False,ChIJ9Ucf4sRgwokR52N_WmOuClM
+Tipsy Shanghai 蘇杭餐厅,4.5886075949367,316.0,4.5,957.0,40.7488307,-73.9761741,10016,,Manhattan,New York,NY,False,ChIJ7UNgV8tZwokRM1hF8E977xA
+New King Wok,4.58333333333333,12.0,4.2,111.0,40.7685119,-73.7739169,11361,Bayside,Queens,,NY,True,ChIJZTCWUyFhwokRa6g5f0U304E
+DunHuang Lanzhou Beef Noodle,4.58274647887323,568.0,4.5,1268.0,40.7619076,-73.83037519999999,11354,Flushing,Queens,,NY,True,ChIJaThBeBBgwokRPMezjTqipjs
+Liu's Shanghai,4.57894736842105,133.0,4.5,560.0,40.6028301,-74.0038949,11214,Bath Beach,Brooklyn,,NY,False,ChIJ9aGQCAtFwokReEt-jv-y8AM
+JUQI,4.57876712328767,1168.0,4.5,2259.0,40.7602873,-73.8338664,11354,Flushing,Queens,,NY,True,ChIJ67IuTYphwokRKrrfD6PvXZ4
+Wong Kwong Hop,4.575,40.0,4.4,107.0,40.7355385,-73.8814826,11373,Elmhurst,Queens,,NY,False,ChIJ-88-YFFewokR0bdo-wVMy5A
+Oriental Palace Kitchen,4.57142857142857,7.0,4.4,461.0,40.575,-73.99694439999999,11224,Coney Island,Brooklyn,,NY,False,ChIJobyFZ8ZFwokRWZih62KN73M
+New Green Dragon,4.57142857142857,7.0,4.2,468.0,40.8188889,-73.8166667,10465,East Bronx,The Bronx,,NY,False,ChIJkbtOQBiLwokRQXPKNr8n2oY
+Dim Sum II Chinese Restaurant,4.57142857142857,7.0,4.2,236.0,40.6557032,-74.30552709999999,07016,Cranford,,Cranford,NJ,False,ChIJq25CGCSyw4kRzkj6lNmbjJo
+Lin’s Asian Cuisine,4.57142857142857,7.0,4.3,226.0,40.8427071,-73.8537226,10462,Westchester Square,The Bronx,,NY,False,ChIJOWedJCH1wokRZ6GIUwx53tU
+China Delight,4.57142857142857,7.0,4.2,154.0,40.6618091,-73.9969424,11232,Sunset Park,Brooklyn,,NY,False,ChIJtyNm6OhawokR8t7rQa8m_d8
+Chuang Chef,4.57142857142857,7.0,4.5,207.0,40.74047,-73.853285,11368,Corona,Queens,,NY,True,ChIJB0R-DNJfwokRZGXSde7p5B4
+East Garden,4.57142857142857,14.0,3.8,154.0,40.7562369,-73.9294425,11106,Long Island City,Queens,,NY,False,ChIJE1CADS5fwokRq_pUsxnvkv4
+King Dumplings,4.57142857142857,98.0,4.5,1090.0,40.7159626,-73.9917091,10002,,Manhattan,New York,NY,False,ChIJwUWtpVNbwokRFXYqGsP5tyQ
+JACX&CO Food Hall,4.56716417910447,67.0,4.5,1007.0,40.7488559,-73.9384513,11101,Long Island City,Queens,,NY,False,ChIJpRaITSRZwokRji4cRJdtswE
+Wok 88,4.5625,32.0,4.3,1057.0,40.7803949,-73.95318,10128,,Manhattan,New York,NY,False,ChIJwTaaU7tYwokR7o8KpdB3yOI
+Dim Sum Palace,4.56028368794326,141.0,4.6,820.0,40.7094126,-74.00676279999999,10038,,Manhattan,New York,NY,False,ChIJO4Rc0HZbwokRzNWaYptrYVw
+HALAL Xpress Asian Fusion,4.56,25.0,4.6,607.0,40.6129502,-73.99667269999999,11214,Bensonhurst,Brooklyn,,NY,False,ChIJ5X3BOX1FwokRw9sX4eBGIKw
+Chongqing Lao Zao 重慶老灶,4.55823863636363,704.0,4.6,1709.0,40.7606738,-73.8330235,11354,Flushing,Queens,,NY,True,ChIJu4mR1fFhwokR94Uup8tbWZE
+Simply Noodles,4.55696202531645,79.0,4.5,516.0,40.778836,-73.98118199999999,10023,,Manhattan,New York,NY,False,ChIJacAht4FZwokRpwfTdI-IFiw
+Fairview Chinese Restaurant,4.55555555555555,9.0,4.3,194.0,40.8106552,-74.0011006,07022,,,Fairview,NJ,False,ChIJ-z_sjMP3wokRzSlfEDXgEuU
+New Yummy Chinese Restaurant‎,4.55555555555555,9.0,4.3,139.0,40.77950360000001,-74.0174801,07087,,,Union City,NJ,False,ChIJq19LLT1YwokR7C2yz4Ye7PQ
+Hunan Delight Matsuya,4.55555555555555,9.0,4.1,164.0,40.77070800000001,-73.95125139999999,10075,,Manhattan,New York,NY,False,ChIJUQbig7hYwokRBTZ09V_SqQY
+Hardee,4.55555555555555,9.0,4.4,255.0,40.6793668,-73.9108828,11233,Ocean Hill,Brooklyn,,NY,False,ChIJn4qfoPpdwokRWkJlWq32tZE
+Fansway Teriyaki Kitchen,4.55555555555555,9.0,4.4,310.0,40.69928590000001,-73.915227,11237,Bushwick,Brooklyn,,NY,False,ChIJyTRk7_pdwokRBgb78Ej-VHU
+Annie's Kitchen | Kosher Chinese Food 11367 | Sushi 11367,4.55555555555555,9.0,4.4,374.0,40.7259524,-73.8217926,11367,Flushing,Queens,,NY,True,ChIJx800Z4xgwokRS0Xlox2RJDE
+Sweet Bamboo Chinese Food | Sutphin,4.55555555555555,9.0,4.6,373.0,40.6931053,-73.7996964,11435,Jamaica,Queens,,NY,False,ChIJE1P6rSphwokR-5WoT568qEQ
+Yoan's Garden,4.55555555555555,9.0,4.2,535.0,40.5657426,-74.3061838,08830,Iselin,,Woodbridge Township,NJ,False,ChIJf_kfeCy0w4kR4GXQX3tysMI
+Great Wall Chinese Restaurant,4.55555555555555,9.0,4.0,284.0,40.763896,-73.8817713,11369,East Elmhurst,Queens,,NY,False,ChIJTZFlR5lfwokRfCYdh2Era6A
+Song Dumpling Cafe,4.55555555555555,18.0,4.7,284.0,40.71024389999999,-73.8507099,11375,Forest Hills,Queens,,NY,False,ChIJU5e97phfwokReFf64PoVbc4
+For U,4.5531914893617,47.0,4.8,260.0,40.7342083,-73.98621659999999,10003,,Manhattan,New York,NY,False,ChIJEwtiv1FZwokR4nfSX_iCcUw
+Mama Lee,4.54807692307692,104.0,4.6,302.0,40.7554009,-73.7675955,11364,Bayside,Queens,,NY,True,ChIJ1XMARuZhwokRBRvUfvQg-5U
+Chef Guo - 小国宴,4.54716981132075,53.0,4.7,136.0,40.7563814,-73.971662,10022,,Manhattan,New York,NY,False,ChIJE3SO9C5ZwokRrA04gkUVIyQ
+Taiwan Bear House,4.54676258992805,139.0,4.6,438.0,40.7147104,-73.9978094,10013,,Manhattan,New York,NY,False,ChIJlwQhLilbwokR24kEIHvpD_g
+Luanne's Wild Ginger Fort Greene,4.54545454545454,11.0,4.6,249.0,40.689625,-73.96978849999999,11205,Clinton Hill,Brooklyn,,NY,False,ChIJqw817blbwokRcIoXi_PEYqQ
+Wai Kang,4.54545454545454,11.0,4.0,178.0,40.8726905,-73.8882074,10468,West Bronx,The Bronx,,NY,False,ChIJZ0L8LXbzwokR4KEm8nWR2oI
+Hot Space,4.54430379746835,237.0,4.6,518.0,40.7594624,-73.83203209999999,11354,Flushing,Queens,,NY,True,ChIJ0U-UaQ5gwokR-FAONv4joL4
+Shu Jiao Fu Zhou,4.54430379746835,395.0,4.6,2851.0,40.7174109,-73.9920876,10002,,Manhattan,New York,NY,False,ChIJ3au6oIdZwokRRpuRY9nbgik
+Authentic Szechuan,4.53333333333333,15.0,4.3,128.0,40.6711724,-73.9848757,11215,Park Slope,Brooklyn,,NY,False,ChIJ3z2VcGVbwokROnRUgABFgeU
+CHILI,4.53246753246753,231.0,4.6,1311.0,40.7501259,-73.9820676,10016,,Manhattan,New York,NY,False,ChIJJS3mqONZwokR9KlP3H_7MNg
+Qing Shu Spicy Hot Pot 青蔬麻辣烫,4.53125,64.0,4.5,165.0,40.7622312,-73.7706208,11361,Bayside,Queens,,NY,True,ChIJjd9qpSZhwokR3opdFFk-CCM
+Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei,4.53012048192771,83.0,4.7,452.0,40.7138354,-73.99414030000001,10002,,Manhattan,New York,NY,False,ChIJq3ALmyhawokR_HZZ8u-kUK0
+May Wah Fast Food,4.52755905511811,127.0,4.4,547.0,40.7181865,-73.9984559,10013,,Manhattan,New York,NY,False,ChIJhSzQ2olZwokRIKu6zVX7_MA
+La Dinastia,4.52,25.0,4.4,816.0,40.7782423,-73.98032210000001,10023,,Manhattan,New York,NY,False,ChIJH8NrrL1ZwokRSbBBoP6T8No
+The Corner Chinese Restaurant,4.52,25.0,4.4,416.0,40.7620099,-73.9896808,10036,,Manhattan,New York,NY,False,ChIJiZBX0X9ZwokRgzMHGknAlPs
+Spice Symphony,4.51282051282051,39.0,4.4,2066.0,40.75590529999999,-73.9715702,10022,,Manhattan,New York,NY,False,ChIJR1cYdAhZwokRvUA0rSAV9rY
+Vybes 109 / New York Vybes,4.51162790697674,43.0,4.4,275.0,40.71756970000001,-73.9986357,10013,,Manhattan,New York,NY,False,ChIJiXKVn_NbwokRCiYO8lkcOc4
+Secret Kitchen 粤精彩,4.51063829787234,47.0,4.1,144.0,40.7398367,-73.7886365,11365,Fresh Meadows,Queens,,NY,True,ChIJLZAGVQphwokRxJnprxJMuOQ
+Cheong Fun Cart,4.5079365079365,63.0,4.6,297.0,40.7176885,-73.9962285,10013,,Manhattan,New York,NY,False,ChIJO5vUIYhZwokRhgBPxu526DI
+Peking,4.5,2.0,4.2,106.0,40.8492791,-73.9047258,10457,West Bronx,The Bronx,,NY,False,ChIJJ-3NlG70wokRPl1_AjLe6_M
+Great Wall Kitchen,4.5,2.0,4.0,168.0,40.6260545,-74.24286490000001,07036,,,Linden,NJ,False,ChIJz2jVihizw4kRRUldFJb7nFo
+New Kam Po Garden,4.5,2.0,4.5,241.0,40.6578094,-74.2259572,07202,,,Elizabeth,NJ,False,ChIJq-3wCbGyw4kRcEKsljCAhT8
+China 1,4.5,2.0,4.1,211.0,40.6431414,-74.01636719999999,11220,Sunset Park,Brooklyn,,NY,False,ChIJETF88bJawokRyTaTCGy3xkA
+Yummy Yummy Chinese Kitchen,4.5,2.0,4.2,238.0,40.8171921,-73.862477,10473,Clason Point,The Bronx,,NY,False,ChIJP34Xf9_0wokR3xMRMZsVsSg
+Lin's Garden Chinese Restaurant,4.5,2.0,4.4,148.0,40.654904,-74.2776353,07203,,,Roselle,NJ,False,ChIJMeslJUOyw4kRLcavJW0PX6g
+Amy's,4.5,2.0,3.9,144.0,40.8669331,-73.921011,10034,,Manhattan,New York,NY,False,ChIJf4QeVPbzwokRQdPSe0jh8QY
+Shun Cheong,4.5,4.0,3.8,156.0,40.7975365,-73.9492652,10026,,Manhattan,New York,NY,False,ChIJsTzm3Rr2wokRs8m45P8ITa0
+King Kitchen,4.5,4.0,4.0,113.0,40.69139759999999,-73.9369086,11221,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJW-jvcPVbwokRLNTGmG3_E4g
+Annie 88 Express,4.5,4.0,4.2,180.0,40.6678909,-73.9508701,11225,Crown Heights,Brooklyn,,NY,False,ChIJC03U4HZbwokRdFdzHzHxE40
+China Moon,4.5,4.0,4.1,258.0,40.6638251,-73.9242659,11212,East Flatbush,Brooklyn,,NY,False,ChIJ8VykH4ZcwokRM2GB3cecM0E
+Dairy Palace,4.5,4.0,4.5,386.0,40.611992,-74.1369568,10314,Castleton Corners,Staten Island,,NY,False,ChIJj79NwTFMwokRH3JIFEqLnTY
+Mandarin House,4.5,4.0,4.1,134.0,40.6256834,-74.1433789,10302,Port Richmond,Staten Island,,NY,False,ChIJjbDIFMlNwokR9OrJwubr5mg
+China Delight,4.5,4.0,4.1,104.0,40.7522241,-73.8680212,11368,Flushing,Queens,,NY,True,ChIJa7Aw3bhfwokRtIJvGEK4wbk
+Eastern Chinese Restaurant,4.5,6.0,3.6,173.0,40.7656999,-73.9308029,11106,Astoria,Queens,,NY,False,ChIJPyI1yzVfwokRog1wiQC1NXw
+Dynasty Chinese Restaurant,4.5,6.0,4.1,273.0,40.6298023,-73.9440244,11210,Flatlands,Brooklyn,,NY,False,ChIJTcDbwqxEwokRbTIhgeMff-4
+Dragon House,4.5,6.0,3.9,173.0,40.592453,-74.0684053,10305,Arrochar,Staten Island,,NY,False,ChIJWxSJCRlPwokRT2oLWNElNQM
+China Garden,4.5,6.0,4.2,288.0,40.5643975,-74.25706629999999,07064,Port Reading,,Woodbridge Township,NJ,False,ChIJP0czxPi0w4kRDv85hc--S58
+Island Garden,4.5,6.0,4.4,236.0,40.6349042,-74.10988549999999,10310,Randall Manor,Staten Island,,NY,False,ChIJx-Mx0hJOwokRolyGe7UVMEU
+New Tung Hing,4.5,6.0,4.2,152.0,40.6450019,-74.0144492,11220,Sunset Park,Brooklyn,,NY,False,ChIJxzWcxbNawokRpRvvymA3DFc
+Keilly Chinese Restaurant,4.5,6.0,3.9,158.0,40.7870023,-73.8359718,11356,College Point,Queens,,NY,True,ChIJW10nh7GKwokR7pme7Wh-eCQ
+Golden Dragon Kitchen,4.5,8.0,3.7,179.0,40.713917,-73.955216,11211,Williamsburg,Brooklyn,,NY,False,ChIJK0e7H19ZwokRMHTJCBDbEIo
+China House,4.5,8.0,3.8,128.0,40.8338405,-73.8778726,10472,East Bronx,The Bronx,,NY,False,ChIJJyi6-PH0wokRBXkxWwRsnOo
+Lin's Gourmet,4.5,10.0,4.1,137.0,40.75989089999999,-73.9651595,10022,,Manhattan,New York,NY,False,ChIJIbvwjLNZwokRMpi4uSuoH8I
+Ha Bo Chinese Kitchen,4.5,12.0,3.8,258.0,40.7135676,-73.7355348,11429,Queens Village,Queens,,NY,False,ChIJ2attHM5jwokRMvYIXQGBqjA
+New Tung Hing,4.5,12.0,4.5,456.0,40.66944,-74.12051699999999,07002,Constable Hook,,Bayonne,NJ,False,ChIJK1sq8_ZRwokRmRgPDrEFhRo
+Peking Kitchen,4.5,14.0,3.8,130.0,40.60366930000001,-74.1313634,10314,Manor Heights,Staten Island,,NY,False,ChIJvbk8EyRMwokRhw1oPQ9wpM8
+Long Spring Garden,4.5,14.0,4.4,120.0,40.7458791,-73.9019416,11377,Woodside,Queens,,NY,False,ChIJqZ4FIR1fwokRmpT2CcwZSh8
+No pork halal kitchen,4.5,28.0,4.5,1677.0,40.6833062,-73.97931059999999,11217,Boerum Hill,Brooklyn,,NY,False,ChIJ6VUkrq1bwokRgVyaTfBCZVU
+Pecking House Chinatown,4.5,28.0,4.2,151.0,40.7132824,-73.9934821,10002,,Manhattan,New York,NY,False,ChIJiUcz7kBbwokRJnrAWfLcqtk
+Joe's Steam Rice Roll,4.5,50.0,4.4,370.0,40.7840773,-73.9778875,10024,,Manhattan,New York,NY,False,ChIJI-Mu1RJZwokRGfSr5_9Ynf4
+DunHuang Miss Noodles,4.5,84.0,4.3,293.0,40.6939599,-73.96346590000002,11205,Clinton Hill,Brooklyn,,NY,False,ChIJk2jlk8BbwokRUmgH7GEAmbg
+Red Sorghum,4.49828178694158,291.0,4.5,1027.0,40.7485024,-73.9390416,11101,Long Island City,Queens,,NY,False,ChIJe0qdh8JZwokRfU4m-WE4YpE
+Bodhi Kosher Vegetarian Restaurant,4.49180327868852,122.0,4.6,2183.0,40.7163863,-73.9992785,10013,,Manhattan,New York,NY,False,ChIJ9zpnPidawokRdhxyso6KXKw
+Spicy Moon West Village,4.49056603773584,53.0,4.4,1388.0,40.7293583,-73.9983012,10012,,Manhattan,New York,NY,False,ChIJZRP3DW9ZwokR6NnJ9PaMZxI
+Flor de Mayo Restaurant,4.48979591836734,49.0,4.4,3014.0,40.7978438,-73.9699242,10025,,Manhattan,New York,NY,False,ChIJccb94CX2wokRETIajBqC4tE
+Le Sia,4.48863636363636,264.0,4.4,645.0,40.7607527,-73.9912784,10036,,Manhattan,New York,NY,False,ChIJq2WjhLVZwokRBNFohweL-NA
+Mountain House Flushing 川山甲,4.4878612716763,865.0,4.5,2000.0,40.7592357,-73.8324624,11354,Flushing,Queens,,NY,True,ChIJ2WLOZg5gwokR-ZgAQ3W-sEQ
+Lichee Nut（荔园）,4.48780487804878,41.0,4.2,682.0,40.6941905,-73.9928049,11201,Brooklyn Heights,Brooklyn,,NY,False,ChIJ9UUL8UhawokR7RPs6qUQEvM
+Oh Dumplings,4.48484848484848,33.0,4.5,267.0,40.6876116,-73.993115,11201,Boerum Hill,Brooklyn,,NY,False,ChIJd0O2A6lbwokRSTYzS3p_bkY
+Shan,4.48484848484848,66.0,4.5,426.0,40.685206,-73.9912052,11201,Carroll Gardens,Brooklyn,,NY,False,ChIJG8MBdtNbwokRxOR3oVutbPE
+Alley 41 蜀巷,4.47931034482758,290.0,4.5,764.0,40.7591123,-73.8280121,11355,Flushing,Queens,,NY,True,ChIJmQ7DvBFgwokRBNJbyDc81oI
+Faith's Food,4.47058823529411,17.0,3.8,164.0,40.7075867,-73.9429889,11206,Southside,Brooklyn,,NY,False,ChIJ1RoJy_1bwokR0UnHRz_eic8
+Zen,4.46875,32.0,4.2,371.0,40.7203823,-73.8094425,11366,Fresh Meadows,Queens,,NY,True,ChIJmVfrK_BgwokRDpOX7jzTHvE
+Eight Jane,4.46835443037974,79.0,4.5,291.0,40.7611072,-73.8310692,11354,Flushing,Queens,,NY,True,ChIJMY6fzw9gwokRX7-iYzxPwEI
+Kai,4.46666666666666,15.0,4.4,851.0,40.8435206,-73.84572899999999,10461,Westchester Square,The Bronx,,NY,False,ChIJr1HDcbL0wokRNq48IEGw_e0
+King Wok,4.46153846153846,13.0,3.8,110.0,40.7680107,-73.7387298,11362,Douglaston,Queens,,NY,True,ChIJO8Qb__qJwokRONWZ78au0jg
+Asian Bowl,4.46153846153846,39.0,4.4,333.0,40.7266949,-73.851804,11375,Forest Hills,Queens,,NY,False,ChIJe-T4iC9ewokRRPYhdEdYBd4
+Dim Sum Palace,4.46,50.0,4.5,150.0,40.7462541,-73.944159,11101,Long Island City,Queens,,NY,False,ChIJP0EuaQBZwokRwp_CTTmZqLc
+Shui Mei Cafe,4.45945945945946,37.0,4.5,119.0,40.7135385,-73.9949121,10002,,Manhattan,New York,NY,False,ChIJqSOHHyZawokRCqHPbjs1IGw
+CHELI MANHATTAN 浙里,4.45525291828793,514.0,4.5,1354.0,40.729187,-73.988711,10003,,Manhattan,New York,NY,False,ChIJn7k4jxlZwokRhDkNH9383-o
+Asian Kitchen,4.45454545454545,11.0,4.0,123.0,40.7358185,-73.8809591,11373,Flushing,Queens,,NY,False,ChIJgbnH2VNewokRAKbeb1R2PPo
+大喜川菜馆 DAXI Sichuan cuisine,4.45368620037807,529.0,4.4,943.0,40.7593211,-73.8290528,11354,Flushing,Queens,,NY,True,ChIJPwLjwxFgwokRLQrZ9mQpa9E
+许厨 Xu Chu,4.45098039215686,51.0,4.6,125.0,40.7588727,-73.8327834,11354,Flushing,Queens,,NY,True,ChIJP00QLTZhwokRhnz6J3_ruZo
+Flor de Mayo,4.44827586206896,29.0,4.5,1047.0,40.7860702,-73.976552,10024,,Manhattan,New York,NY,False,ChIJKUOZTodZwokRYsUbouBlcgA
+Chubby Crab - Asian Wok & Cajun Kitchen,4.44736842105263,38.0,4.5,255.0,40.71726779999999,-73.9945561,10002,,Manhattan,New York,NY,False,ChIJCZGrr2lZwokRKfo00t2YM14
+Uncle Lou 快樂人,4.445,200.0,4.5,2463.0,40.7162246,-73.9992347,10013,,Manhattan,New York,NY,False,ChIJSRT5b9ZbwokRYilWRG4jYaY
+Lucky House Kitchen,4.44444444444444,9.0,4.5,218.0,40.6838143,-73.9350632,11233,Stuyvesant Heights,Brooklyn,,NY,False,ChIJI8-ZCHZcwokRNQFgWugNy2w
+M Shanghai,4.44444444444444,9.0,4.5,381.0,40.7142701,-73.95065439999999,11211,Williamsburg,Brooklyn,,NY,False,ChIJh8YCMQ9ZwokRk51YjOjp8Uo
+Hong Kong,4.44444444444444,9.0,4.1,142.0,40.8505833,-73.85178979999999,10461,Morris Park,The Bronx,,NY,False,ChIJeTdpxaj0wokRh1sWrfRhFTE
+Caridad China,4.44444444444444,18.0,4.5,647.0,40.7049447,-73.9426017,11206,Southside,Brooklyn,,NY,False,ChIJ21wKCPxbwokR3y7PHAhHpnc
+Yasaiya,4.44262295081967,122.0,4.2,602.0,40.7700776,-73.73626709999999,11362,Little Neck,Queens,,NY,True,ChIJIfhramaJwokRkTvJcqN6m9Q
+China Royal,4.44,25.0,4.1,140.0,40.6249548,-73.9994603,11219,Dyker Heights,Brooklyn,,NY,False,ChIJoa8C7DtFwokR5cme40iPDnQ
+Hong Kong Kei One,4.4375,16.0,4.5,271.0,40.5375758,-74.1505462,10308,Eltingville,Staten Island,,NY,False,ChIJa37ktEtKwokRdcFKL7L2dIE
+Dim Sum Palace,4.43589743589743,78.0,4.5,726.0,40.7485991,-73.98676139999999,10001,,Manhattan,New York,NY,False,ChIJc2a0FwtZwokREjQkmAKTQdY
+Szechuan Opera,4.43065693430656,137.0,4.3,266.0,40.7591042,-73.83220969999999,11354,Flushing,Queens,,NY,True,ChIJTbMI_r9hwokRUvaCSNw9Bbw
+New King Wok,4.42857142857142,7.0,4.2,165.0,40.8065188,-73.9497979,10027,,Manhattan,New York,NY,False,ChIJKXMHUBL2wokR4BM_bLkpxdc
+New China Wok,4.42857142857142,7.0,4.1,219.0,40.6826486,-73.9792262,11217,Park Slope,Brooklyn,,NY,False,ChIJgWvrTaxbwokRgGuzbWnpNBI
+Yummy House Chinese,4.42857142857142,7.0,2.9,242.0,40.8625513,-73.8431469,10469,Pelham Gardens,The Bronx,,NY,False,ChIJfbIqvlLzwokRQJaLcdG5FbE
+Hop Lee Kitchen,4.42857142857142,7.0,3.9,175.0,40.7329187,-73.95452,11222,Greenpoint,Brooklyn,,NY,False,ChIJmftHOj9ZwokRy8hMd8vI3io
+S Wan Cafe,4.42857142857142,119.0,4.5,353.0,40.7173167,-73.9926444,10002,,Manhattan,New York,NY,False,ChIJvVCtiIdZwokRCynifPl-aa8
+Ji Bei Chuan Noodles 季北川 NYC,4.42307692307692,104.0,4.5,237.0,40.7176023,-73.99446429999999,10002,,Manhattan,New York,NY,False,ChIJybmhOHxZwokR7sV0EMZBE6U
+Pearl East,4.42105263157894,19.0,4.2,576.0,40.7914679,-73.70221870000002,11030,,,Manhasset,NY,False,ChIJL2dM3qqJwokR10QuQ6_TZp4
+Bund Dumpling House,4.42105263157894,38.0,4.3,417.0,40.7631597,-73.9282292,11106,Astoria,Queens,,NY,False,ChIJ11vP79RfwokROtPouzSpSIE
+Yi Min,4.41666666666666,12.0,4.3,134.0,40.64316100000001,-73.990078,11218,Borough Park,Brooklyn,,NY,False,ChIJde6hQ9FawokRgptEkIP0kcc
+New Kissena,4.41666666666666,12.0,3.8,146.0,40.7533535,-73.8217463,11355,Flushing,Queens,,NY,True,ChIJL9yX5xRgwokRiXaefls5fjw
+New Great Wall,4.41666666666666,12.0,4.2,109.0,40.742796,-73.895083,11377,Flushing,Queens,,NY,False,ChIJAwkUAQJfwokRT20FmlG8Wvc
+Fortune East,4.41666666666666,12.0,3.9,142.0,40.7518128,-73.6724873,11040,,,New Hyde Park,NY,False,ChIJLx7wbh6IwokRxA95syEZ1Ao
+Wuhan Foodie,4.41558441558441,77.0,4.5,141.0,40.7588367,-73.8331334,11354,Flushing,Queens,,NY,True,ChIJbV7o2J9hwokRvaysBwgCWJM
+Happy Stony Noodle,4.41414141414141,99.0,4.4,310.0,40.7404949,-73.8796662,11373,Elmhurst,Queens,,NY,False,ChIJ1cidLa1fwokRGrP3f4m-Q_U
+King's Kitchen,4.41197183098591,568.0,4.4,1175.0,40.6394525,-74.0052655,11220,Sunset Park,Brooklyn,,NY,False,ChIJlWkFSzVFwokRFjOa9rTAboc
+Funny BBQ 98 聚点串吧,4.40935672514619,513.0,4.4,1239.0,40.717726,-73.995532,10013,,Manhattan,New York,NY,False,ChIJxxlIG4hZwokRVF5TD7c4rMg
+Peking Empire,4.4090909090909,22.0,4.2,206.0,40.7642484,-73.8255404,11354,Flushing,Queens,,NY,True,ChIJj9cdNBpgwokRSeTgxMlUMtk
+E Noodle Chinatown,4.4090909090909,88.0,4.4,349.0,40.7138196,-73.9972913,10038,,Manhattan,New York,NY,False,ChIJCfeBXSZawokRflkssoi4QLc
+Xifu Food,4.40625,64.0,4.4,450.0,40.6879682,-73.98204559999999,11217,Downtown Brooklyn,Brooklyn,,NY,False,ChIJnfPo2LJbwokRH5lYnrAKFlg
+Stick To My Pot,4.40384615384615,52.0,4.5,543.0,40.751967,-73.99124069999999,10001,,Manhattan,New York,NY,False,ChIJCf8kYhRZwokR3ILkf5IQUlo
+Decoy,4.4025974025974,77.0,4.5,458.0,40.7342131,-74.0065947,10014,,Manhattan,New York,NY,False,ChIJI5ohrZRZwokROgkceyTyVOI
+Hao Noodle,4.40255591054313,313.0,4.5,1336.0,40.7407336,-74.00432839999999,10014,,Manhattan,New York,NY,False,ChIJX0Ki3AtZwokRhHVQdkDBk7o
+Lady Chow Kitchen,4.40178571428571,112.0,4.2,423.0,40.7178933,-73.9967649,10013,,Manhattan,New York,NY,False,ChIJTaspD4pZwokR7j1duSP59gY
+Hardee Chinese & American Cusine,4.4,5.0,4.4,311.0,40.6619151,-73.9153639,11212,Brownsville,Brooklyn,,NY,False,ChIJM8GreYtcwokR66QEq9-4220
+Dynasty,4.4,5.0,3.5,104.0,40.83658130000001,-73.8599138,10462,Parkchester,The Bronx,,NY,False,ChIJSVugrrj0wokRClatSSs3iC0
+Nangma Restaurant & Bar,4.4,15.0,4.5,214.0,40.7409359,-73.8793295,11373,Elmhurst,Queens,,NY,False,ChIJs4eWfnlfwokRtrchD1lEkBw
+Great East,4.4,20.0,4.4,137.0,40.7715061,-73.82690629999999,11354,Flushing,Queens,,NY,True,ChIJXwo_nB1gwokRwIfLeac4STQ
+"Junzi Kitchen 君子食堂哥大店 Columbia University, New York NY｜ Healthy Authentic Chinese",4.4,105.0,4.4,541.0,40.8058205,-73.9651586,10025,,Manhattan,New York,NY,False,ChIJ92N9DDz2wokR38VWvxg3qrE
+Shanghai Time,4.4,185.0,4.4,561.0,40.7546846,-73.99110639999999,10018,,Manhattan,New York,NY,False,ChIJXfXzrctZwokRtjF_Ln_dDW0
+Dunhuang,4.39411764705882,170.0,4.5,688.0,40.7492326,-73.97784899999999,10016,,Manhattan,New York,NY,False,ChIJPSb0duFZwokR1kKMyJ7x38E
+Wenwen,4.38888888888888,126.0,4.5,642.0,40.7339858,-73.955158,11222,Greenpoint,Brooklyn,,NY,False,ChIJmcr2IF9ZwokRr-u_-UTxju4
+Malala Chinese,4.38709677419354,31.0,4.2,344.0,40.7629663,-73.9133542,11103,Astoria,Queens,,NY,False,ChIJ393ronVfwokRXCUrPTI_PYc
+New Peking Kitchen,4.38461538461538,13.0,4.2,173.0,40.7494392,-73.88835809999999,11372,Jackson Heights,Queens,,NY,False,ChIJXeHULahfwokRsAcs-EDV-Lo
+3 Times,4.38235294117647,34.0,4.0,217.0,40.7111188,-73.9518483,11211,Williamsburg,Brooklyn,,NY,False,ChIJV4aA6KNbwokRH92E32MJyH8
+Noodle Lane,4.38095238095238,21.0,4.6,231.0,40.6701531,-73.9791274,11215,Park Slope,Brooklyn,,NY,False,ChIJwwTn2ftbwokRNOluIoXdPNE
+Xi'an Famous Foods 西安名吃 | Greenpoint,4.38095238095238,42.0,4.6,694.0,40.7243577,-73.9509145,11222,Greenpoint,Brooklyn,,NY,False,ChIJ2Z-WS0RZwokR20u1CCdFKe8
+Spy C Cuisine,4.37837837837837,37.0,4.2,329.0,40.71918429999999,-73.8424495,11375,Forest Hills,Queens,,NY,False,ChIJG4hi4rdfwokRbKEyxvZU40c
+Ming Wong,4.37777777777777,90.0,4.1,728.0,40.7160447,-73.9984563,10013,,Manhattan,New York,NY,False,ChIJ9R6AffdbwokR3-t7ot8fQQs
+Golden Woks,4.375,8.0,4.4,324.0,40.7328435,-74.00839429999999,10014,,Manhattan,New York,NY,False,ChIJ_4KXlOxZwokRSgd0gwQWrZw
+Empire Wok - Chinese Asian Western Fusion Cuisine Food Restaurant Bronx New York,4.375,8.0,4.3,1075.0,40.83279080000001,-73.8508887,10462,East Bronx,The Bronx,,NY,False,ChIJqy8NVMj0wokRu3gSVfZE7ro
+698 Cafe 新東溢豐,4.37142857142857,140.0,4.2,288.0,40.7594624,-73.83203209999999,11354,Flushing,Queens,,NY,True,ChIJP5WZg5thwokRXy0TR5B0D74
+Queens Seafood Restaurant,4.36842105263157,38.0,4.3,223.0,40.7416105,-73.8820951,11373,Elmhurst,Queens,,NY,False,ChIJvSW9pKxfwokRA6hK5W2kJbA
+Jing Li,4.36082474226804,194.0,4.5,749.0,40.7481842,-73.9400787,11101,Long Island City,Queens,,NY,False,ChIJ5dQtsxBZwokRbBdZUxaHzFE
+HKS Kitchen港餐飽,4.36,100.0,4.4,385.0,40.5942815,-74.098692,10304,Dongan Hills,Staten Island,,NY,False,ChIJ6wiHlupOwokR7v4CzlBucy0
+Fu Yuan,4.35593220338983,59.0,4.4,184.0,40.7595448,-73.83060689999999,11354,Flushing,Queens,,NY,True,ChIJfQvyIw5gwokRYrRfuRZrDCQ
+MR.BUN,4.35514018691588,107.0,4.3,422.0,40.6037298,-73.997299,11214,Bath Beach,Brooklyn,,NY,False,ChIJhTHlov5FwokRuTpqSFpAGd0
+老廣牛杂18大道总店 Cantonese Beef Delights 🇨🇳,4.35384615384615,65.0,4.2,115.0,40.6146245,-73.9944177,11204,Bensonhurst,Brooklyn,,NY,False,ChIJCyQ7CgBFwokRooVvefw30bQ
+The Tang,4.3515625,128.0,4.4,456.0,40.7999805,-73.9663666,10025,,Manhattan,New York,NY,False,ChIJF-agVLv3wokRLDjAuogLDjs
+Xi'an Famous Foods 西安名吃 | Chinatown,4.35135135135135,259.0,4.5,2177.0,40.7150822,-73.997342,10013,,Manhattan,New York,NY,False,ChIJ4UWmVCZawokRPDcL0zB0dGs
+The Dolar Shop Hot Pot Manhattan,4.35099337748344,151.0,4.4,546.0,40.7310965,-73.98850790000002,10003,,Manhattan,New York,NY,False,ChIJaVSb2EBZwokRJMIsBasdHpg
+LaoJie,4.34615384615384,390.0,4.4,1274.0,40.6393767,-74.0048917,11220,Sunset Park,Brooklyn,,NY,False,ChIJjVgINTVFwokRmOGk7qg8QdU
+Sweet Wonton House,4.34285714285714,70.0,4.2,261.0,40.7713386,-73.7351922,11362,Little Neck,Queens,,NY,True,ChIJJ1PaT-mJwokR07VDVZXAExo
+川霸王 Szechuan House,4.34042553191489,47.0,4.5,127.0,40.7590679,-73.82799299999999,11355,Flushing,Queens,,NY,True,ChIJg2OK2dBhwokRWP_txqWTV4M
+Lao Ke Le Shanghai Cuisine Restaurant - Soup Dumplings Dim Sum Wonton,4.33783783783783,74.0,4.2,226.0,40.7593046,-73.82913429999999,11354,Flushing,Queens,,NY,True,ChIJZwX3DNthwokRizCzfKQyhw4
+Wonderful Asian Restaurant,4.33333333333333,3.0,3.6,108.0,40.6855504,-73.9445739,11216,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJ5XlxKYxbwokR6GJnSLWpOCY
+Wah Sing,4.33333333333333,3.0,4.0,122.0,40.6778541,-73.9105364,11233,Ocean Hill,Brooklyn,,NY,False,ChIJqyMg9EJcwokRKKGpk3kG5YU
+Sweet Bamboo Chinese Food | Hillside,4.33333333333333,3.0,3.7,151.0,40.7054456,-73.81000709999999,11435,Jamaica,Queens,,NY,False,ChIJq6PQiDlhwokRA5uQX6el3Hs
+Happy Garden,4.33333333333333,3.0,3.8,187.0,40.8450978,-73.86554439999999,10462,Van Nest,The Bronx,,NY,False,ChIJ8dCj2Zf0wokRKwbL3VYijfg
+Chiu's Garden,4.33333333333333,3.0,3.7,151.0,40.709102,-73.81802499999999,11435,Briarwood,Queens,,NY,False,ChIJwUy9fb9gwokRi3owxelHqes
+Happy Garden,4.33333333333333,6.0,3.6,123.0,40.6656054,-73.9316716,11213,Crown Heights,Brooklyn,,NY,False,ChIJqWKdF4FcwokRKMwls2JRrso
+China City,4.33333333333333,6.0,3.5,184.0,40.6957967,-73.9466468,11206,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJUbCt9vFbwokR1JSz1nL7-MY
+Lee Xing,4.33333333333333,6.0,4.1,141.0,40.8518604,-73.82990509999999,10461,Pelham Bay,The Bronx,,NY,False,ChIJEebd_qeMwokR5A74ggTnI2k
+Broadway China Station,4.33333333333333,6.0,4.2,130.0,40.7617379,-73.925847,11106,Astoria,Queens,,NY,False,ChIJ_acaSDdfwokRdcr5G78vjqI
+Golden House,4.33333333333333,6.0,4.0,146.0,40.7650379,-73.9179003,11103,Astoria,Queens,,NY,False,ChIJHy2sUT9fwokR38_PJqs_08Y
+Golden Forest,4.33333333333333,9.0,4.0,244.0,40.7166447,-73.9894908,10002,,Manhattan,New York,NY,False,ChIJlS89V4dZwokRazYs0bapTw0
+Island Garden,4.33333333333333,9.0,4.2,229.0,40.6101885,-74.0634963,10305,Rosebank,Staten Island,,NY,False,ChIJcZW_sKdPwokRxv3v3YYUie0
+China New Star,4.33333333333333,30.0,4.3,1116.0,40.6160023,-73.929836,11234,Marine Park,Brooklyn,,NY,False,ChIJq0cm11tDwokR7HXTG-gxxyY
+Potluck Club,4.33082706766917,133.0,4.6,802.0,40.71960199999999,-73.9935919,10002,,Manhattan,New York,NY,False,ChIJ7yN3d6tZwokRATR9U3lAqLg
+Super Taste,4.32432432432432,148.0,4.6,1499.0,40.7150662,-73.9933358,10002,,Manhattan,New York,NY,False,ChIJoR3RZyhawokRwR91d6hJvvY
+Dimsum Garden,4.32203389830508,59.0,4.3,415.0,40.7498297,-73.9775282,10016,,Manhattan,New York,NY,False,ChIJcc5gZz9ZwokRNBmoxhdg0jo
+Little Alley,4.32173913043478,230.0,4.4,930.0,40.7474165,-73.9772212,10016,,Manhattan,New York,NY,False,ChIJN4jAggZZwokRQ38qpXSjGGQ
+Grill Master,4.32142857142857,84.0,4.2,168.0,,,,,,,,,ChIJB2yLpddhwokRnKxPx05ZPUA
+Emperor Dumpling,4.32,50.0,4.6,938.0,40.7461489,-73.9902178,10001,,Manhattan,New York,NY,False,ChIJSa42lf9ZwokRINYCJrd1XeU
+The Bund,4.31578947368421,38.0,4.1,368.0,40.7263309,-73.85311469999999,11375,Forest Hills,Queens,,NY,False,ChIJOR8-USVewokRK-xZXUMDvU4
+Sing Choi Kee 星财记,4.31578947368421,114.0,4.2,315.0,40.7599397,-73.8342029,11354,Flushing,Queens,,NY,True,ChIJk_VHweBhwokRI_dP7onOUSg
+Jiang's Kitchen 疆湖 - Halal Chinese Food,4.3103448275862,58.0,4.5,602.0,40.7281888,-73.9860631,10003,,Manhattan,New York,NY,False,ChIJgyWQFk1ZwokR4m7T_hNLDFI
+Birds of a Feather,4.3103448275862,145.0,4.4,1527.0,40.7143448,-73.9605077,11211,Williamsburg,Brooklyn,,NY,False,ChIJhzzIZWBZwokRPp4llFHtQzs
+Hand Pull Noodle & Dumplings House,4.30882352941176,68.0,4.2,343.0,40.614992,-73.9941803,11204,Bensonhurst,Brooklyn,,NY,False,ChIJea0z2xlFwokR3-ADlptVfwM
+River House,4.3076923076923,13.0,4.3,384.0,40.8185542,-73.9771016,07020,,,Edgewater,NJ,False,ChIJYVONqU72wokR2MZU0MzkX7s
+LaoJie Hotpot,4.30653266331658,199.0,4.4,677.0,40.6001916,-73.99131129999999,11214,,Brooklyn,,NY,False,ChIJb2D-tW9FwokRFys7ZCOF35c
+West New Malaysia,4.30526315789473,95.0,4.5,524.0,40.71548,-73.9983019,10013,,Manhattan,New York,NY,False,ChIJ96ZaW9RZwokR_9w0VNf-5lw
+Bites of Xi'an 84 西府小吃,4.30526315789473,95.0,4.4,301.0,40.7308664,-73.9899472,10003,,Manhattan,New York,NY,False,ChIJlaTtfdpZwokRBLB6fkd2q-U
+Dim Sum Palace,4.303738317757,214.0,4.4,2623.0,40.7601962,-73.9893445,10036,,Manhattan,New York,NY,False,ChIJg5jn8FNYwokRwH-IWxB2gb8
+Hay Hay Roasted,4.30327868852459,122.0,4.3,600.0,40.7165791,-73.9980362,10013,,Manhattan,New York,NY,False,ChIJx4JpAElbwokRL_b58dFiwtQ
+Ping’s,4.30111524163568,269.0,4.3,1709.0,40.714422,-73.99858400000001,10013,,Manhattan,New York,NY,False,ChIJA6Cf7iZawokRhqozCeR3RmI
+Kong Sihk Tong,4.29974811083123,397.0,4.4,1296.0,40.7153773,-73.9981397,10013,,Manhattan,New York,NY,False,ChIJ1V_Xi5hbwokRV7A_UcnBKZU
+"Happy Lamb Hot Pot, Flushing 快乐小羊",4.29850746268656,402.0,4.4,1714.0,40.762194,-73.82899499999999,11354,Flushing,Queens,,NY,True,ChIJr8LVDRBgwokRyDh0PHv1Uik
+Lao Bei Fang Dumpling House,4.29444444444444,180.0,4.4,870.0,40.74111509999999,-73.8797775,11373,Elmhurst,Queens,,NY,False,ChIJ_yd-Jq1fwokRfBaaRGQbTz8
+Blue Willow 夜来湘,4.2911051212938,371.0,4.4,1884.0,40.762918,-73.9765271,10019,,Manhattan,New York,NY,False,ChIJDd3F0b1ZwokRhggZGhI4Ygg
+Milu,4.28787878787878,66.0,4.5,450.0,40.7411441,-73.9854761,10010,,Manhattan,New York,NY,False,ChIJ18lBUP9ZwokRhI6Fm_c-dYE
+New Everybody's Kitchen,4.28571428571428,7.0,3.9,108.0,40.5725282,-74.0928067,10306,Midland Beach,Staten Island,,NY,False,ChIJ7_nCMzNJwokRs9NVVLP8Xxg
+Kam Hai,4.28571428571428,7.0,3.5,127.0,40.6474974,-73.9737626,11218,Kensington,Brooklyn,,NY,False,ChIJzTQK_iRbwokRNF1pwCAunoQ
+China King,4.28571428571428,7.0,4.1,305.0,40.729016,-73.737279,11428,Queens Village,Queens,,NY,False,ChIJRTdR7C9iwokRAcwsCOHitrk
+King Wok,4.28571428571428,7.0,3.9,204.0,40.7182656,-73.8166954,11367,Kew Gardens Hills,Queens,,NY,True,ChIJ98_cxOxgwokREjWB63hjB88
+Chow Chinese Food,4.28571428571428,14.0,4.0,209.0,40.7668693,-73.7825967,11361,Bayside,Queens,,NY,True,ChIJffc-QHSKwokR1yfJEI1O_4A
+Xi'an Famous Foods 西安名吃 | Tangram Flushing,4.28358208955223,67.0,4.3,178.0,40.7596174,-73.83317319999999,11354,Flushing,Queens,,NY,True,ChIJVePn8w5gwokRycLcg4MskL8
+Golden Palace,4.28301886792452,53.0,4.1,140.0,40.7544252,-73.8361955,11355,Flushing,Queens,,NY,True,ChIJhbQcCbxhwokR266xJ8vsUsY
+Ten Seconds Yunnan Rice Noodle,4.28125,160.0,4.3,417.0,40.60384370000001,-73.99668319999999,11214,Bensonhurst,Brooklyn,,NY,False,ChIJu7d2xApFwokRoB64L3Xzve0
+Wei’s - Williamsburg,4.28,25.0,4.4,551.0,40.7108557,-73.9540336,11211,Williamsburg,Brooklyn,,NY,False,ChIJz0Zr7uFbwokRUEaBTtosr24
+Peking Duck Sandwich Stall,4.27450980392156,51.0,4.4,331.0,40.7588954,-73.8304746,11354,Flushing,Queens,,NY,True,ChIJkTzcGg5gwokROMp_h4wWvF8
+The Original Buddha Bodai Kosher Vegetarian Restaurant 佛菩提,4.27407407407407,135.0,4.3,2239.0,40.7138868,-73.99879820000001,10013,,Manhattan,New York,NY,False,ChIJw3YulCZawokRGh4ZyOycnic
+Lucky Star,4.27272727272727,11.0,4.5,395.0,40.8325253,-73.859526,10472,East Bronx,The Bronx,,NY,False,ChIJHZetSsH0wokRSo9x8XlcPwk
+Goody,4.26666666666666,15.0,4.3,130.0,40.6426465,-74.00951789999999,11220,Sunset Park,Brooklyn,,NY,False,ChIJh4SdVbRawokRL63bXLCy_0A
+Main Noodle House,4.26315789473684,57.0,4.5,988.0,40.7521738,-73.9864314,10018,,Manhattan,New York,NY,False,ChIJU1cPR2FZwokR9w8VUXER1gc
+Szechuan Gourmet,4.26007326007326,273.0,4.3,1071.0,40.7523476,-73.9835595,10018,,Manhattan,New York,NY,False,ChIJhYJ4e6pZwokR518xrzkUaqw
+Ming Xing BBQ,4.26,100.0,4.2,352.0,40.7639759,-73.8317342,11354,Flushing,Queens,,NY,True,ChIJs1ThaAVgwokRD0HbDCok50Y
+Mabu,4.25862068965517,232.0,4.1,574.0,40.7147002,-73.9980305,10013,,Manhattan,New York,NY,False,ChIJK6q6oFpbwokRSW29icJ0GRE
+Min Du Sheng Yan 闽都盛宴,4.25714285714285,70.0,4.3,122.0,40.762165,-73.83286300000002,11354,Flushing,Queens,,NY,True,ChIJNwopu9ZhwokRAFvBKBVhArU
+[Takeout & Delivery ONLY] Xi'an Famous Foods 西安名吃@PICNIC | Times Square,4.25247524752475,202.0,4.4,1382.0,40.75964099999999,-73.987011,10036,,Manhattan,New York,NY,False,ChIJ61oSzalZwokRRjKZ_4Wh0_U
+New Island,4.25,4.0,3.9,133.0,40.525715,-74.200652,10309,Prince's Bay,Staten Island,,NY,False,ChIJeTIF1rhKwokRtNPaTSH0Saw
+Mr Q's,4.25,4.0,4.1,349.0,40.8557802,-73.8558213,10461,Morris Park,The Bronx,,NY,False,ChIJsQHucFjzwokRFbvO6OH6UUI
+May May Kitchen,4.25,4.0,3.7,153.0,40.7155385,-73.9872092,10002,,Manhattan,New York,NY,False,ChIJpU73aypawokRZMDe5styhCw
+Zhen Zhu,4.25,4.0,3.9,106.0,40.7550744,-73.9443007,11101,Long Island City,Queens,,NY,False,ChIJzVrm8z9fwokRypu7sw1YBn4
+May Chun Garden,4.25,8.0,4.4,149.0,40.7471916,-73.8683178,11368,Flushing,Queens,,NY,True,ChIJeaMDobdfwokRU9wSHV6BmiM
+Oriental Plaza,4.25,8.0,4.2,734.0,40.6032067,-74.16256349999999,10314,Bulls Head,Staten Island,,NY,False,ChIJYaf-nF1MwokR3YoqbPAlJUA
+MáLà Project Greenpoint,4.25,24.0,4.5,265.0,40.7231966,-73.95069529999999,11222,Greenpoint,Brooklyn,,NY,False,ChIJlc0Qm1xZwokRREsqzm8pGg0
+ChiMaMa's Noodle House,4.25,140.0,4.3,370.0,40.7592752,-73.7684546,11361,Bayside,Queens,,NY,True,ChIJHdL_BydhwokRu82qH7b70vE
+Silky Kitchen,4.24827586206896,145.0,4.3,394.0,40.7098478,-74.009123,10038,,Manhattan,New York,NY,False,ChIJ01b26qFZwokRrlykWwvbTNY
+Dim Sum Palace,4.24806201550387,129.0,4.3,817.0,40.7139743,-73.996116,10002,,Manhattan,New York,NY,False,ChIJm6U7h4VbwokRGhi7qBdh2Yg
+Hong Kong Gourmet 避風塘,4.24242424242424,66.0,4.2,144.0,40.7645158,-73.8224987,11354,Flushing,Queens,,NY,True,ChIJmWzPcDthwokR38aKpsyV6cs
+Wok Wok Noodle House,4.24203821656051,157.0,4.3,1029.0,40.7140559,-73.9988387,10013,,Manhattan,New York,NY,False,ChIJ___DlCZawokRHb_wCTtIQPQ
+P.F. Chang's,4.24137931034482,29.0,4.6,1574.0,40.7343186,-73.9922935,10003,,Manhattan,New York,NY,False,ChIJo38KVJhZwokRE2rgx66zurQ
+Noodle Village,4.23926380368098,326.0,4.2,1954.0,40.7162331,-73.99797219999999,10013,,Manhattan,New York,NY,False,ChIJk31a6yZawokRCP9vIx0Us18
+Chino Grande,4.23529411764705,17.0,4.4,240.0,40.7135717,-73.9585067,11211,Williamsburg,Brooklyn,,NY,False,ChIJn2Dw_ctZwokR2D6QhavjGmM
+Sabrosura 2,4.23529411764705,17.0,4.3,2247.0,40.8318192,-73.8658852,10472,East Bronx,The Bronx,,NY,False,ChIJ2ekR-en0wokRZp4LFKEtCGM
+Fan Fried Rice Bar,4.23333333333333,30.0,4.3,191.0,40.7126801,-73.9607418,11211,Williamsburg,Brooklyn,,NY,False,ChIJdwwvwgJZwokRvT7Hy5ufEso
+King Wok,4.23076923076923,13.0,3.9,366.0,40.7290552,-74.005008,10014,,Manhattan,New York,NY,False,ChIJn7tiopJZwokRYqzYUiOAab4
+China Town Restaurant,4.23076923076923,13.0,4.1,295.0,40.5654314,-74.288089,07095,Woodbridge,,Woodbridge Township,NJ,False,ChIJt16w6Em0w4kR55IxCaXvzQg
+Xin Hi,4.23076923076923,26.0,3.8,949.0,40.8704105,-73.82905269999999,10475,East Bronx,The Bronx,,NY,False,ChIJ3wOZE7iMwokRHSLOq1jqsJU
+CAREYOU FOUNDATION INC (Used to Amitabha Vegan),4.23076923076923,26.0,4.1,296.0,40.7329098,-73.7946333,11365,Fresh Meadows,Queens,,NY,True,ChIJf9qmH-1hwokRhrlPy3DihhM
+Spicy Village,4.22941176470588,170.0,4.5,1521.0,40.7170028,-73.9934222,10002,,Manhattan,New York,NY,False,ChIJt8rEHyhawokR5iJZu_Em_g4
+GOLDEN WUISH (THE DUCKHOUSE),4.22857142857142,70.0,4.4,475.0,40.7075023,-74.0067317,10038,,Manhattan,New York,NY,False,ChIJWTpRmOFbwokRsLumvic0iY4
+Dim Sum Palace,4.22764227642276,123.0,4.3,1083.0,40.762758,-73.976091,10019,,Manhattan,New York,NY,False,ChIJTyNpIfpYwokRcssjMXnap50
+Dun Huang Beef Noodles 敦煌兰州拉面,4.22448979591836,49.0,4.2,137.0,40.6052305,-73.9973964,11214,Bensonhurst,Brooklyn,,NY,False,ChIJG4rSDEdFwokRPWrevWTiFr8
+New Kam Lai,4.22222222222222,9.0,4.1,106.0,40.7868302,-73.9758761,10024,,Manhattan,New York,NY,False,ChIJV7vh3o5ZwokR-QOKS1kQgOw
+Happy Wok,4.22222222222222,9.0,4.3,147.0,40.67257900000001,-73.9574535,11238,Crown Heights,Brooklyn,,NY,False,ChIJY9uu2Z9bwokRQavcVV1gMRE
+China Garden,4.22222222222222,9.0,4.1,116.0,40.6931668,-73.9282245,11221,Bushwick,Brooklyn,,NY,False,ChIJlatwnA5cwokRoYvKeTEkUW4
+Xi'an Famous Foods 西安名吃 | Court Square LIC,4.21782178217821,101.0,4.3,569.0,40.7475605,-73.9417915,11101,Long Island City,Queens,,NY,False,ChIJ6Ua-Z_RZwokRpZrgJ0f5VK8
+NB Wing Wong,4.21739130434782,23.0,4.2,125.0,40.71557790000001,-73.9968052,10013,,Manhattan,New York,NY,False,ChIJq7KFj79bwokRbKshg3MaTLY
+Chairman Sun,4.21739130434782,92.0,4.0,317.0,40.7446612,-73.9536219,11101,Long Island City,Queens,,NY,False,ChIJuZHHT5hZwokRfDSJHmaJkzc
+NEW YUEWONG RESTAURANT 裕旺大饭店,4.2156862745098,102.0,4.1,695.0,40.7154669,-73.9977704,10013,,Manhattan,New York,NY,False,ChIJFyQ2zaFbwokR3lxdERjAmUQ
+Silky Kitchen,4.21428571428571,42.0,4.1,131.0,40.7527403,-73.93320039999999,11101,Long Island City,Queens,,NY,False,ChIJeTSAWKBfwokRp9fZeB4xPEo
+Legend 72,4.21311475409836,61.0,4.1,345.0,40.77796250000001,-73.9797078,10023,,Manhattan,New York,NY,False,ChIJn6XYtYtYwokRbCbRTfDlXMQ
+Shanghai 21,4.21182266009852,203.0,4.5,3407.0,40.7144148,-73.9989026,10013,,Manhattan,New York,NY,False,ChIJTVG07iZawokRq9rPs7ib8bY
+"Nan Xiang Express - Forest Hills, NY",4.21052631578947,19.0,4.3,149.0,40.7212769,-73.8446172,11375,Forest Hills,Queens,,NY,False,ChIJVdFFun9fwokRiFKEIUS_jno
+Yummy Noodle House,4.20869565217391,115.0,4.2,485.0,40.7666165,-73.7896239,11358,Flushing,Queens,,NY,True,ChIJz__1TsphwokR0jywVu1dqOM
+East Harbor Seafood Palace,4.20863309352517,417.0,4.3,2128.0,40.6335359,-74.0143293,11220,Dyker Heights,Brooklyn,,NY,False,ChIJZVJwHU9FwokRBuD4swvPWjY
+4 Choices & A Soup or water bottle,4.20833333333333,72.0,4.0,259.0,40.7603521,-73.8275043,11354,Flushing,Queens,,NY,True,ChIJZdTFVhBgwokRRJ6y0hgq_d8
+Tonii's Fresh Rice Noodle,4.20689655172413,58.0,4.4,331.0,40.7156143,-73.99896199999999,10013,,Manhattan,New York,NY,False,ChIJk08Jp7NbwokRvn8njWu2MAM
+Joe’s Steam Rice Roll,4.20379146919431,211.0,4.4,839.0,40.7595979,-73.82916270000001,11354,Flushing,Queens,,NY,True,ChIJW4wPyxFgwokRpnSXQ3iZDDw
+John Garden,4.2,5.0,4.4,121.0,40.6771018,-73.9499733,11216,Crown Heights,Brooklyn,,NY,False,ChIJLXXxcZtbwokRzXMiNTf9e60
+Lee chinese restaurant,4.2,5.0,3.8,169.0,40.6788288,-73.92396719999999,11233,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJ6dyd4G9cwokRNUqcjKzjywI
+Yang No 1 Asian,4.2,5.0,3.6,118.0,40.6859499,-73.97423189999999,11217,Fort Greene,Brooklyn,,NY,False,ChIJw5j-tLFbwokRxw2LeCtMUxw
+Wing Hua,4.2,5.0,4.0,172.0,40.67644749999999,-73.9989205,11231,Carroll Gardens,Brooklyn,,NY,False,ChIJaWHbQvZawokRvi0aqRg2nEM
+Grace Chinese Food,4.2,5.0,3.8,166.0,40.706191,-73.942793,11206,Southside,Brooklyn,,NY,False,ChIJs6SLPfxbwokRGMd3Z23ysYE
+Ting Hua,4.2,5.0,3.6,107.0,40.6798312,-73.9949285,11231,Carroll Gardens,Brooklyn,,NY,False,ChIJ4_liKVhawokRt9SZfE_50Do
+Mr Chen Chinese restaurant,4.2,5.0,3.9,233.0,40.7006795,-73.89998369999999,11385,Ridgewood,Queens,,NY,False,ChIJodYPkChcwokRDK-2UdcgY5A
+K Q,4.2,5.0,3.9,146.0,40.8712284,-73.8668189,10467,Williamsbridge,The Bronx,,NY,False,ChIJ69Um82nzwokRiBmeYKesS4Q
+New China Garden,4.2,5.0,3.5,124.0,40.897919,-73.8533641,10466,East Bronx,The Bronx,,NY,False,ChIJcVDAYNfywokRPUaKrm0UBpg
+D & B Chinese Double,4.2,5.0,4.2,255.0,40.6458155,-74.0862039,10301,Mid Island,Staten Island,,NY,False,ChIJI1psKy9OwokR3u9N5nv48yA
+New Li Hing,4.2,5.0,4.1,104.0,40.596867,-73.972825,11223,Gravesend,Brooklyn,,NY,False,ChIJ5eA1R_hEwokRTMgwpBr921E
+Jade,4.2,5.0,4.4,162.0,40.7080181,-73.8307213,11415,Kew Gardens,Queens,,NY,False,ChIJif3vr6RgwokR_EfGjDCaxxk
+empire express,4.2,5.0,4.8,235.0,40.8313747,-73.8272283,10465,East Bronx,The Bronx,,NY,False,ChIJ0Y_bgTiLwokRwiSn5vbYy-Q
+King Wah Fusion,4.2,5.0,4.2,202.0,40.7719874,-73.9258162,11102,Astoria,Queens,,NY,False,ChIJ7_XiAUZfwokReelyn8V4nAY
+Ozen Sushi Asian Fusion,4.2,10.0,4.1,293.0,40.794962,-73.970037,10025,,Manhattan,New York,NY,False,ChIJb5N7zCf2wokRE6kxhGJaJ0Y
+Maxi's Noodle,4.1988950276243,181.0,4.3,765.0,40.7604661,-73.8322359,11354,Flushing,Queens,,NY,True,ChIJl6PN951hwokRsN4kn0ZU0po
+Zhong Jie,4.19811320754717,106.0,4.2,186.0,40.7385683,-73.98199939999999,10010,,Manhattan,New York,NY,False,ChIJV3YZBbRZwokRx4FzhQYOlIE
+Yin Ji Chang Fen,4.19685039370078,254.0,4.2,888.0,40.7158068,-73.9992975,10013,,Manhattan,New York,NY,False,ChIJzSF9rgxbwokRLQ3lClIdYH8
+DimSum Seafood Restaurant,4.19682539682539,315.0,4.2,1610.0,40.5816196,-74.2843104,07001,Avenel,,Woodbridge Township,NJ,False,ChIJmRUzT2q0w4kRiiUJpOOhryI
+Taipei Hong,4.19642857142857,56.0,4.3,166.0,40.7602681,-73.82822329999999,11354,Flushing,Queens,,NY,True,ChIJhemqTRBgwokR4EanRlfoNbQ
+Hunan Slurp,4.19354838709677,186.0,4.2,468.0,40.7266937,-73.9856429,10009,,Manhattan,New York,NY,False,ChIJ__-7Jp1ZwokRqMtG8dflABo
+A-Jiao,4.18918918918918,37.0,4.3,216.0,40.7831138,-73.9481521,10128,,Manhattan,New York,NY,False,ChIJO_iVjqVYwokRo6gL2oABkeQ
+LaoJie Hotpot,4.18897637795275,127.0,4.3,545.0,40.7176193,-73.99499229999999,10002,,Manhattan,New York,NY,False,ChIJ76QaGzxZwokRfGxoduYPISA
+HUPO琥珀 | Best Szechuan Food in LIC,4.18556701030927,97.0,4.4,540.0,40.7427366,-73.953636,11101,Long Island City,Queens,,NY,False,ChIJkzwxb_VZwokRCQbOg1hggOw
+Mei Lai Wah,4.18348623853211,327.0,4.4,3592.0,40.7151726,-73.9989063,10013,,Manhattan,New York,NY,False,ChIJM3elBidawokRJKPC55N6pQI
+Hometown Hotpot & BBQ,4.18248175182481,274.0,4.3,2094.0,40.719403,-73.996849,10013,,Manhattan,New York,NY,False,ChIJ11vJWohZwokRpB812SavVWI
+Beijing House,4.18181818181818,11.0,4.0,134.0,40.69157670000001,-73.9092753,11207,Bushwick,Brooklyn,,NY,False,ChIJrwU2SjxcwokRc4jfWZz7yNI
+New Wok's Kitchen,4.18181818181818,22.0,4.0,170.0,40.739792,-73.8153315,11355,Flushing,Queens,,NY,True,ChIJjQYf3lxgwokRN5dmQtAD4Ak
+Hot Space Brooklyn,4.18018018018018,222.0,4.3,489.0,40.6406547,-74.0047117,11220,Sunset Park,Brooklyn,,NY,False,ChIJhX-vwcpawokRmoxjgI9OF2Q
+Bodhi Village,4.17829457364341,129.0,4.3,795.0,40.7469915,-73.8284716,11355,Flushing,Queens,,NY,True,ChIJ2WE5QG9gwokRU4Jmpy0CVWI
+Pig Heaven,4.17777777777777,45.0,4.3,680.0,40.775432,-73.956852,10028,,Manhattan,New York,NY,False,ChIJV85Oz75YwokREEwM6yxMNtk
+Yun Nan Flavour Garden,4.17032967032967,182.0,4.3,555.0,40.640055,-74.0046033,11220,Sunset Park,Brooklyn,,NY,False,ChIJi4z3xcpawokRiVFgIC56Y2M
+Grandma's Home 外婆家,4.16822429906542,107.0,4.4,387.0,40.7418412,-73.9928814,10010,,Manhattan,New York,NY,False,ChIJG6UKFLRZwokR0zfgsrYFJCA
+Taste of China,4.16666666666666,6.0,4.3,110.0,40.6711853,-73.9883976,11215,Gowanus,Brooklyn,,NY,False,ChIJO6FOLYZbwokROYqupirMtsc
+China Mia,4.16666666666666,6.0,4.3,306.0,40.8585308,-73.8672315,10467,Allerton,The Bronx,,NY,False,ChIJN1qURmDzwokR5Vjk2Laocec
+Kam Hung,4.16666666666666,6.0,4.0,155.0,40.6918466,-73.7777894,11434,Jamaica,Queens,,NY,False,ChIJ8-HLUTFhwokRC8k2-n0bcP4
+new King wok,4.16666666666666,6.0,3.8,149.0,40.7016596,-73.8083454,11435,Jamaica,Queens,,NY,False,ChIJrwbLFMVgwokREHT9CG0-ccE
+Hong Kong Noodle & Sariku Sushi,4.16666666666666,12.0,4.0,240.0,40.744374,-73.9813841,10016,,Manhattan,New York,NY,False,ChIJ-WCDcghZwokRafqiRaOW0JA
+Ollie’s To Go: Upper West Side,4.16666666666666,12.0,4.2,445.0,40.7904714,-73.9751574,10024,,Manhattan,New York,NY,False,ChIJpw8VhYZYwokRAqf_-P2PXvU
+Panda,4.16666666666666,12.0,3.9,103.0,40.7129073,-73.9970659,10038,,Manhattan,New York,NY,False,ChIJkeYlAuxbwokR_4cMU5BdecY
+New Ruan's Restaurant,4.16666666666666,12.0,4.3,459.0,40.605267,-73.99891629999999,11214,Bensonhurst,Brooklyn,,NY,False,ChIJgRGD6g5FwokR2mp0hLhkr-Q
+Ollie’s To Go: Upper East Side,4.16666666666666,24.0,4.2,392.0,40.77201,-73.955404,10075,,Manhattan,New York,NY,False,ChIJFRm_st5ZwokR8Qu2MRuky0M
+Cafe 48 & Restaurant,4.16666666666666,60.0,4.1,213.0,40.7554435,-73.7689078,11364,Bayside,Queens,,NY,True,ChIJ0YTct-dhwokRwWqpEZ6IEIU
+3 Times,4.16666666666666,60.0,4.1,426.0,40.73286290000001,-73.9910491,10003,,Manhattan,New York,NY,False,ChIJ-aKp37hZwokRHX7Mbyn4Yb8
+Taiwan Pork Chop House,4.16265060240963,166.0,4.4,575.0,40.7142947,-73.9980483,10013,,Manhattan,New York,NY,False,ChIJzaUdIOpbwokRgrVeM4cBDOI
+Ollie’s Chinese Noodle Shop & Grill (成都印象),4.1590909090909,88.0,4.3,1087.0,40.7994968,-73.9687368,10025,,Manhattan,New York,NY,False,ChIJZ09rriX2wokRT1wN_QfWXuk
+Kai Feng Fu Dumpling House,4.15887850467289,214.0,4.5,1009.0,40.6419716,-74.0023612,11220,Sunset Park,Brooklyn,,NY,False,ChIJG1_qo8tawokRjoeyM60U_Lg
+Cafe Evergreen,4.1578947368421,19.0,4.3,268.0,40.7688903,-73.9555434,10021,,Manhattan,New York,NY,False,ChIJ234jKcJYwokRvgObRh3u6qY
+Wo Hop,4.15555555555555,90.0,4.4,4343.0,40.7142762,-73.998921,10013,,Manhattan,New York,NY,False,ChIJBfjMbPJbwokRrcQD5YX1LEI
+Happy Hot Hunan,4.15463917525773,97.0,4.1,403.0,40.8013559,-73.9647057,10025,,Manhattan,New York,NY,False,ChIJGW74UCP2wokRiwLDAGMTwdk
+Chef's Garden,4.15384615384615,13.0,3.7,129.0,40.7211736,-73.8041874,11432,Jamaica,Queens,,NY,False,ChIJMyP05vpgwokR53d5e0AdtGo
+China Moon Open Kitchen,4.15384615384615,13.0,3.8,198.0,40.5907728,-73.9914393,11214,,Brooklyn,,NY,False,ChIJsz2GVa5FwokRIpPDtZ8K87Q
+Legend of Taste,4.15384615384615,39.0,4.4,371.0,40.779595,-73.794179,11357,Whitestone,Queens,,NY,True,ChIJRUDshWKKwokRKEDd6H2RAmE
+Kung Fu Xiao Long Bao,4.15238095238095,210.0,4.3,1127.0,40.7434307,-73.8259165,11355,Flushing,Queens,,NY,True,ChIJ7Qk6Qm9gwokRBilBh5_3yrA
+Fortune House,4.14285714285714,7.0,3.8,136.0,40.6984718,-73.99286409999999,11201,Brooklyn Heights,Brooklyn,,NY,False,ChIJ9ziVf2pbwokRkjY0a8Qu4lA
+Twin Lin's Garden,4.14285714285714,7.0,4.1,115.0,40.6574278,-74.00148460000001,11232,Sunset Park,Brooklyn,,NY,False,ChIJd7RjksFawokRB045XyqKou8
+New Arping,4.14285714285714,63.0,4.1,127.0,40.71401770000001,-73.9953761,10002,,Manhattan,New York,NY,False,ChIJR7DpJCZawokR4is6gJL3UmI
+Xi'an Famous Foods 西安名吃 | Financial District,4.1418439716312,141.0,4.5,1039.0,40.70919869999999,-74.0092858,10038,,Manhattan,New York,NY,False,ChIJr_kSP5hbwokRCD6pIF3py5c
+Baodega 小杨生煎,4.14110429447852,163.0,4.6,1524.0,40.74018510000001,-73.9917492,10011,,Manhattan,New York,NY,False,ChIJyyYAdGhZwokRyaCxKMa04Rc
+Moonstone Modern Asian Cuisine & Bar,4.13513513513513,37.0,4.3,628.0,40.7729306,-73.73315149999999,11021,,,Great Neck,NY,False,ChIJ30fvYu6JwokR5Ek7l1SZBgg
+Petite Dumpling,4.13333333333333,15.0,4.5,194.0,40.6744114,-73.9822578,11215,Park Slope,Brooklyn,,NY,False,ChIJ4-IVVENbwokRCB-6SOq3hvE
+Grace Kitchen,4.13333333333333,15.0,3.9,144.0,40.69401939999999,-73.96251670000001,11205,Clinton Hill,Brooklyn,,NY,False,ChIJY2xGVsdbwokRBrFNpnX-cgg
+Grain House 尚禾坊,4.13333333333333,45.0,4.1,189.0,40.80009769999999,-73.9657474,10025,,Manhattan,New York,NY,False,ChIJVVUZgyT2wokRn-wwz_4ndYQ
+Land of Plenty,4.13333333333333,75.0,4.2,530.0,40.7605629,-73.966608,10022,,Manhattan,New York,NY,False,ChIJ3ST_yOVYwokRvxy2GCoawXw
+The Bao,4.13186813186813,182.0,4.3,1329.0,40.7294074,-73.9889097,10003,,Manhattan,New York,NY,False,ChIJY_AGiJtZwokRMkVfS6vDfw8
+Nuan Xin Rice Roll,4.13043478260869,46.0,4.1,128.0,40.635849,-74.008811,11220,Sunset Park,Brooklyn,,NY,False,ChIJUVxCMEpFwokRamH0w6GUmz8
+uluh,4.12993039443155,431.0,4.3,1137.0,40.7293472,-73.9866141,10003,,Manhattan,New York,NY,False,ChIJ0SLgu3ZZwokRI7lEBkiDtJE
+Taiwanese Gourmet,4.12709030100334,299.0,4.2,1070.0,40.7398374,-73.87877189999999,11373,Elmhurst,Queens,,NY,False,ChIJw_Q_yFJewokRxYROzhYEorI
+Hardee on Utica,4.125,8.0,4.4,571.0,40.6716898,-73.9306544,11213,Crown Heights,Brooklyn,,NY,False,ChIJTwgnmX5cwokRiZyZHgI4T6M
+New Shun Wei,4.125,8.0,3.7,142.0,40.711924,-73.9967939,10038,,Manhattan,New York,NY,False,ChIJlb0oxSVawokROIRkKYg8X6Q
+Mr. Chan's Chinese Cuisine,4.125,8.0,4.0,174.0,40.7695547,-73.8341298,11354,Flushing,Queens,,NY,True,ChIJEfhN6wNgwokRHBetBos3QLI
+Lucky Fortune,4.125,8.0,3.8,168.0,40.5515377,-74.1500764,10308,Great Kills,Staten Island,,NY,False,ChIJTT_OgLdLwokRo4ic9yy4Pyo
+Jin Jin Hong Kong Cafe,4.12389380530973,113.0,4.2,643.0,40.6205055,-73.9890978,11204,Bensonhurst,Brooklyn,,NY,False,ChIJNTq51yNFwokRtdAsSDNH5ig
+YAO Modern Cantonese Cuisine 富瑤,4.12087912087912,91.0,4.1,222.0,40.707218,-74.00652199999999,10038,,Manhattan,New York,NY,False,ChIJsS17BwBbwokRvfA6RxIST9o
+New York Ban Jum 뉴욕반점,4.12,25.0,4.2,199.0,40.7491582,-73.7552094,11364,Oakland Gardens,Queens,,NY,True,ChIJPcKYCcVhwokR7DKmMt4LkSQ
+Cafe Hong Kong,4.11666666666666,120.0,4.1,508.0,40.7152111,-73.9975389,10013,,Manhattan,New York,NY,False,ChIJ6ZjSHCdawokRCKiVXvK41ak
+Nuan Xin Rice Roll,4.11428571428571,35.0,4.3,152.0,40.716667,-73.9928796,10002,,Manhattan,New York,NY,False,ChIJhas9ihNbwokRI5Npdgjovac
+Bites of Xi'an 56,4.11206896551724,116.0,4.2,446.0,40.7632803,-73.9771015,10019,,Manhattan,New York,NY,False,ChIJG4r6wUZZwokRxhGWJHwBDYA
+Tri Dynasty Chinese Restaurant,4.11111111111111,9.0,3.9,106.0,40.7651034,-73.8185009,11354,Flushing,Queens,,NY,True,ChIJ1RYvECJgwokRYI3212ZOqiQ
+King Hing,4.11111111111111,9.0,4.2,106.0,40.8522462,-73.8290185,10461,Pelham Bay,The Bronx,,NY,False,ChIJte0X8qeMwokRyGDoj2tYFB8
+Happy Town Chinese Restaraunt,4.11111111111111,9.0,4.0,162.0,40.7830606,-73.8456206,11356,College Point,Queens,,NY,True,ChIJwxJjRVL1wokRQjnAxVE4p20
+Yozi 游子老鸭粉丝汤,4.10666666666666,150.0,4.2,300.0,40.6363504,-74.0083446,11220,Sunset Park,Brooklyn,,NY,False,ChIJoT5gmiJFwokRc7m6FhmNGDA
+Like Cafe,4.10493827160493,162.0,4.0,487.0,40.620582,-73.9884091,11204,Bensonhurst,Brooklyn,,NY,False,ChIJq6rtZCFFwokRxApf8ZfR_2o
+Duck Wong,4.10071942446043,139.0,4.1,381.0,40.6002288,-73.9903719,11214,,Brooklyn,,NY,False,ChIJhbWIHwdFwokROBA-HmRpxf4
+Kaieteur Restaurant & Sports Bar,4.1,10.0,4.2,1304.0,40.6995812,-73.83099299999999,11418,Jamaica,Queens,,NY,False,ChIJDfWAEK5gwokRp0ZvtVkBrDc
+Ming's Kitchen,4.1,10.0,3.9,148.0,40.7369439,-73.8657661,11373,Elmhurst,Queens,,NY,False,ChIJ_StHmUpewokRtjt_G6sEObk
+Hou Yi Hot Pot,4.09701492537313,134.0,4.3,756.0,40.7161827,-73.99257659999999,10002,,Manhattan,New York,NY,False,ChIJt4HiLyhawokRhJ8I8nMsxZg
+Joong Koog Jip,4.09649122807017,114.0,4.0,875.0,40.7574356,-73.7794898,11361,Bayside,Queens,,NY,True,ChIJdSq_GtthwokR4TC5yYF3V3M
+Beijing Dumpling,4.09523809523809,21.0,4.2,206.0,40.71556169999999,-73.8335235,11375,Forest Hills,Queens,,NY,False,ChIJNVKXOpthwokRMUDuOOSvh9U
+New Fu Run,4.09523809523809,63.0,4.3,235.0,40.7880003,-73.7292186,11021,,,Great Neck,NY,False,ChIJv3uZ4pmJwokRhCxpWhv06hs
+Café China,4.09245742092457,411.0,4.3,3058.0,40.75157129999999,-73.9858221,10018,,Manhattan,New York,NY,False,ChIJhXTKrQBZwokRDA7Vijnq1AE
+Chuan Tian Xia,4.08673469387755,196.0,4.3,569.0,40.6396357,-74.0091003,11220,Sunset Park,Brooklyn,,NY,False,ChIJrwxm-gpFwokR9f10RT15Ni8
+Han Dynasty,4.08333333333333,84.0,4.3,1511.0,40.732426,-73.9881724,10003,,Manhattan,New York,NY,False,ChIJx3Nrt55ZwokRP3Xiw0TGnKE
+LN 1380,4.07954545454545,264.0,4.0,862.0,40.76909,-73.7370201,11362,Little Neck,Queens,,NY,True,ChIJaR0ACvCJwokRUzuLuwqSjs0
+Joe's Home of Soup Dumplings,4.07936507936507,126.0,4.5,1256.0,40.757161,-73.9772507,10017,,Manhattan,New York,NY,False,ChIJte11-otZwokRe9hwGk12QkU
+Henan Feng Wei,4.07843137254901,102.0,4.1,240.0,40.759021,-73.8284962,11355,Flushing,Queens,,NY,True,ChIJj_AZvhFgwokRvh7oLaggI9Q
+New China,4.07692307692307,13.0,4.1,113.0,40.630108,-74.004721,11219,Dyker Heights,Brooklyn,,NY,False,ChIJldC-jjdFwokRviSlhT9plx4
+Delhi Heights Indian Restaurant,4.07692307692307,13.0,3.9,509.0,40.7470867,-73.8916869,11372,Jackson Heights,Queens,,NY,False,ChIJe27DKgdfwokRlt4-eKsMGiE
+Uncle Ted's Modern Chinese Cuisine,4.07692307692307,26.0,4.1,467.0,40.7312884,-73.9943083,10003,,Manhattan,New York,NY,False,ChIJDUkb8pFZwokRwOesf2bPdCo
+Little Dumpling,4.07692307692307,117.0,4.3,905.0,40.7700139,-73.7355118,11362,Little Neck,Queens,,NY,True,ChIJIdXV4O-JwokR1jtxckH_DrM
+Xi'an Famous Foods 西安名吃 | Downtown Brooklyn,4.07575757575757,66.0,4.5,513.0,40.6920818,-73.9866989,11201,Downtown Brooklyn,Brooklyn,,NY,False,ChIJ1dGOCIRbwokRJS_ppm2DgCo
+Zhengzhou Noodles Inc,4.0754716981132,53.0,3.9,126.0,40.7588008,-73.8289635,11355,Flushing,Queens,,NY,True,ChIJxxIWxBFgwokROrZK-Yive0s
+Hop Lee,4.0735294117647,68.0,4.3,669.0,40.714271,-73.9986282,10013,,Manhattan,New York,NY,False,ChIJ4xlG7CZawokRCHn1c3MJlc0
+Asian Jewels,4.07321772639691,519.0,4.2,2995.0,40.7591397,-73.8333631,11354,Flushing,Queens,,NY,True,ChIJ2aw2iQ5gwokRDiwmsI9YhnE
+Hunan Village,4.07291666666666,96.0,4.0,450.0,40.7496467,-73.9770734,10016,,Manhattan,New York,NY,False,ChIJO3qR_QNZwokRElf0OmsV39A
+Yum Yum |Chinese Take Out,4.07142857142857,14.0,3.5,176.0,40.6247103,-74.1481953,10303,Mid Island,Staten Island,,NY,False,ChIJFSlH_bVNwokREaLpPn1TNKA
+RongWang Cantonese Restaurant Inc,4.07142857142857,42.0,3.9,105.0,40.7602213,-73.8283512,11354,Flushing,Queens,,NY,True,ChIJZ1Tyh6FhwokRLZCHiXzv1kc
+Four Four South Village,4.06989247311828,186.0,4.1,551.0,40.7599854,-73.832663,11354,Flushing,Queens,,NY,True,ChIJcU3r6cJhwokRhbFA84CoGbM
+Kung Fu,4.06666666666666,15.0,4.5,224.0,40.6017251,-74.002313,11214,Bath Beach,Brooklyn,,NY,False,ChIJ-S1iSQpFwokRm2pgE4kQK9o
+Empire East,4.0625,16.0,3.8,249.0,40.6117666,-74.15761719999999,10314,Bulls Head,Staten Island,,NY,False,ChIJFSjUjU9MwokRL5kkIqY6Zdg
+Edo,4.0625,16.0,4.2,335.0,40.6062822,-73.9615235,11223,Gravesend,Brooklyn,,NY,False,ChIJJaj_4uxEwokRNO-qxGTKjz0
+Longevousjoy Shiawase,4.06211180124223,161.0,4.0,459.0,40.6131444,-73.9824861,11204,Bensonhurst,Brooklyn,,NY,False,ChIJ82dn2-FEwokRnv9vSso0cUY
+Yunnan Rice Noodle House,4.06140350877193,114.0,4.1,573.0,40.7152205,-73.9976579,10013,,Manhattan,New York,NY,False,ChIJ61xsAEVbwokRS6GWvuAq5U0
+August Gatherings富瑤,4.06079027355623,329.0,4.1,1010.0,40.7178552,-73.9954279,10013,,Manhattan,New York,NY,False,ChIJw-APBYpZwokR-HVAJYOK8iY
+Xing Wong BBQ,4.06060606060606,33.0,3.8,146.0,40.713539,-73.99370499999999,10002,,Manhattan,New York,NY,False,ChIJ-e5jlihawokRLzPRwJMzXpg
+JiBeiChuan,4.05882352941176,68.0,4.1,145.0,40.639798,-74.0054634,11220,Sunset Park,Brooklyn,,NY,False,ChIJ_c9NrKRbwokR20kNhtfDb1w
+Lee & Bai Chinese Buns Shop,4.05882352941176,85.0,4.0,179.0,40.7614114,-73.8267764,11354,Flushing,Queens,,NY,True,ChIJGx8hdABhwokRMwM-nNvyGzk
+White Bear,4.0566037735849,159.0,4.3,920.0,40.758775,-73.8316571,11354,Flushing,Queens,,NY,True,ChIJZZBJcg5gwokROTWAGansSV4
+Shanghai Zhen Gong Fu,4.05479452054794,73.0,4.4,469.0,40.7361933,-73.8774572,11373,Elmhurst,Queens,,NY,False,ChIJOW_OC1JewokRDyZd5ag8jOc
+Seng Seafood Restaurant,4.05454545454545,55.0,4.1,177.0,40.7134389,-73.9961984,10002,,Manhattan,New York,NY,False,ChIJyVJ6v8hbwokRgfiPYxijpxc
+Tasty & Co,4.04545454545454,22.0,3.9,155.0,40.7292664,-73.8630946,11374,Rego Park,Queens,,NY,False,ChIJGWEfmDdewokRdcBqQ0Vzpqs
+BK Seafood Market 海鲜舫,4.04545454545454,66.0,4.1,165.0,40.632394,-74.0109561,11220,Sunset Park,Brooklyn,,NY,False,ChIJqa1RgFBFwokRqgVBamPjDO4
+Wo Kee Noodle,4.04545454545454,66.0,4.1,424.0,40.7229463,-73.79969179999999,11366,Fresh Meadows,Queens,,NY,True,ChIJn-SQE_xgwokROTtYD_ClYJY
+Tasty Hand - Pulled Noodles,4.04504504504504,111.0,4.4,1445.0,40.7142425,-73.9978903,10013,,Manhattan,New York,NY,False,ChIJmZTuWtBbwokRWxbraRwj8xA
+MáLà Project,4.04291845493562,233.0,4.4,1410.0,40.72714430000001,-73.9854189,10009,,Manhattan,New York,NY,False,ChIJM2NCGJ1ZwokRA2nCkZcz08g
+La Salle Dumpling Room,4.03508771929824,57.0,4.3,610.0,40.814069,-73.959833,10027,,Manhattan,New York,NY,False,ChIJ0_o810H2wokRgUHFkZjZEmw
+Hunan Cafe,4.02830188679245,212.0,4.0,467.0,40.7632665,-73.8296845,11354,Flushing,Queens,,NY,True,ChIJ1YMlqRpgwokRBOEHM0n4N7M
+Grand Sichuan Eastern,4.02777777777777,36.0,4.0,261.0,40.7583166,-73.96636269999999,10022,,Manhattan,New York,NY,False,ChIJEwqTD-RYwokR9HdUcq_lZ5Q
+Chicken Hot Pot,4.02272727272727,88.0,4.0,155.0,40.75752749999999,-73.8222572,11355,Flushing,Queens,,NY,True,ChIJZem9tT1hwokRowsgNhWR85s
+Hi Tea Bakery & Restaurant,4.0204081632653,98.0,4.1,360.0,40.7484639,-73.7566222,11364,Oakland Gardens,Queens,,NY,True,ChIJwZwbl_NhwokRX5S79BixT00
+Mala Town,4.01470588235294,68.0,3.8,144.0,40.6351062,-74.0092044,11220,Sunset Park,Brooklyn,,NY,False,ChIJZTgVizpFwokRAlIQegwhSfM
+Wu's Wonton King,4.00833333333333,240.0,4.2,1626.0,40.7138317,-73.989964,10002,,Manhattan,New York,NY,False,ChIJT5GkdilawokRy9yB3jEG_3Q
+Kowloon Café,4.00662251655629,151.0,3.9,495.0,40.5998233,-73.9897635,11214,,Brooklyn,,NY,False,ChIJI_W8JQdFwokRpoOE9j-0CXo
+King Food,4.0,1.0,4.0,118.0,40.689136,-73.9300505,11221,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJ2WqUWAtcwokRndtdwP8T5ww
+No 1 Halal Kitchen,4.0,1.0,4.0,255.0,40.7146694,-73.77465889999999,11423,Jamaica,Queens,,NY,False,ChIJz2GHZBJhwokRWvaLabBPovw
+Boston Road China,4.0,1.0,3.5,114.0,40.8769235,-73.8471983,10469,Williamsbridge,The Bronx,,NY,False,ChIJExODLzTzwokRTfe-0P8Q1Io
+Loong Xin,4.0,1.0,3.7,101.0,40.8935973,-73.8585244,10466,East Bronx,The Bronx,,NY,False,ChIJV9P0OyfzwokRED5-DwhHvOs
+A & C Kitchen,4.0,1.0,3.6,114.0,40.72488389999999,-73.97802659999999,10009,,Manhattan,New York,NY,False,ChIJBxeKWXdZwokRoE0jhLAfrjU
+Great Wall,4.0,1.0,3.6,123.0,40.8308559,-73.8572526,10472,East Bronx,The Bronx,,NY,False,ChIJ0wtAKMT0wokRo4reCE1EmoE
+Big Wong,4.0,1.0,3.5,107.0,40.884435,-73.84942769999999,10466,East Bronx,The Bronx,,NY,False,ChIJCXcDIy7zwokRT1yoNxXzbic
+China Express,4.0,2.0,4.3,149.0,40.79308899999999,-74.003005,07093,,,Guttenberg,NJ,False,ChIJ--DFZHRYwokROpDqWDGhxtA
+Golden Fountain Kitchen,4.0,2.0,3.9,222.0,40.7072106,-73.8357542,11418,Richmond Hill,Queens,,NY,False,ChIJ102VK6RgwokRLvb7HQAT_aY
+Main Moon Chinese Restaurant,4.0,2.0,4.1,271.0,40.6325182,-74.2567258,07036,,,Linden,NJ,False,ChIJqVXCrQOzw4kR54qeX8ytvrI
+Emperor House,4.0,2.0,4.2,162.0,40.6292263,-74.1147276,10310,West Brighton,Staten Island,,NY,False,ChIJbZzCm3FOwokRFTqwxa1Hs7k
+No 1,4.0,2.0,3.6,142.0,40.6808843,-73.792011,11434,Jamaica,Queens,,NY,False,ChIJsdDVqtdmwokRdCmyT6Tjkgc
+Halal Musa Chinese Food,4.0,2.0,4.2,394.0,40.8338046,-73.8568872,10472,Parkchester,The Bronx,,NY,False,ChIJ_____8b0wokRgHqY9GrcNEA
+Golden Chopstick,4.0,2.0,3.7,121.0,40.69941,-73.83082329999999,11418,Jamaica,Queens,,NY,False,ChIJFbq1Gq5gwokRTseXJgj4nfs
+New China Garden 🇨🇳,4.0,3.0,3.7,103.0,40.6947198,-73.95636809999999,11205,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJMYuoq-tbwokRjxXvn5UeFVI
+Cheung Hing Kitchen,4.0,3.0,3.6,181.0,40.6900334,-73.7783388,11434,Jamaica,Queens,,NY,False,ChIJQU8h3zNhwokRtWGzuRNbSKo
+Hong Kong,4.0,3.0,3.9,114.0,40.6953004,-73.84320459999999,11418,Richmond Hill,Queens,,NY,False,ChIJ6XUp5_9dwokRuTiBWlG68TE
+Xin Lin,4.0,4.0,3.9,131.0,40.7773566,-74.018743,07087,,,Union City,NJ,False,ChIJ7d27KSNYwokRYtkoZcwDsMI
+Wing Hing,4.0,4.0,4.1,132.0,40.66583199999999,-73.9538967,11225,Crown Heights,Brooklyn,,NY,False,ChIJw8rf4HNbwokR-_ytGRAOsTA
+Fei Ma,4.0,4.0,4.2,126.0,40.7250928,-73.9844116,10009,,Manhattan,New York,NY,False,ChIJ8_ABuIJZwokRTfeuXS6WZ7c
+Smile Restaurant,4.0,4.0,3.7,152.0,40.8652997,-73.8642351,10467,Allerton,The Bronx,,NY,False,ChIJ2RmgQV3zwokRN-0bEo55seU
+China Dragon,4.0,4.0,3.7,139.0,40.6312136,-73.9766504,11218,Kensington,Brooklyn,,NY,False,ChIJaWWW8NNEwokRK1Ub0ei1GOY
+Peking Kitchen,4.0,4.0,3.8,209.0,40.8543884,-73.86657079999999,10462,East Bronx,The Bronx,,NY,False,ChIJNV5rd5_0wokRaeH-r0HSBj4
+Lin's Garden,4.0,4.0,3.7,101.0,40.8881057,-73.86007169999999,10466,East Bronx,The Bronx,,NY,False,ChIJKdBegiPzwokRs9vCBDw31l0
+88.0,4.0,5.0,3.6,170.0,40.81334349999999,-73.9418948,10037,,Manhattan,New York,NY,False,ChIJ7d_x_3P2wokRJwv09ExD-Hc
+Peking Kitchen II,4.0,5.0,3.6,101.0,40.8048198,-73.9547643,10026,,Manhattan,New York,NY,False,ChIJR0VUoxb2wokR_92eSG49c3c
+Golden Star,4.0,5.0,4.1,141.0,40.6512761,-73.9421681,11203,Little Caribbean,Brooklyn,,NY,False,ChIJFQU9TGdbwokRUKcjUWK336Y
+Cactus,4.0,5.0,4.1,199.0,40.590117,-73.940161,11235,Sheepshead Bay,Brooklyn,,NY,False,ChIJry25PH5EwokRXyrARmFaVXE
+Panda Garden,4.0,5.0,3.6,113.0,40.7184532,-73.8150948,11367,Flushing,Queens,,NY,True,ChIJjcC6U-xgwokR06cvW5mthDg
+U Like,4.0,5.0,4.1,109.0,40.6940078,-73.9492363,11206,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJu8UjmO1bwokRme24D4lFxD0
+Dream Station,4.0,5.0,3.4,108.0,40.8839206,-73.8629611,10467,East Bronx,The Bronx,,NY,False,ChIJESV1BD3zwokRpwAIadAfEks
+Chelsea Golden Wok,4.0,7.0,3.4,209.0,40.743939,-73.9997173,10011,,Manhattan,New York,NY,False,ChIJf2SHwrtZwokR1ujLouSvMzs
+La Nueva Victoria,4.0,7.0,4.1,798.0,40.7937667,-73.9720854,10025,,Manhattan,New York,NY,False,ChIJt5zmDyj2wokRzdvzO4aq9Es
+New King Wok,4.0,7.0,4.1,118.0,40.647798,-74.01157800000001,11220,Sunset Park,Brooklyn,,NY,False,ChIJjbA-2LZawokRRgDHBFMpvLM
+Great China,4.0,7.0,4.1,272.0,40.6264839,-74.1613347,10303,Mid Island,Staten Island,,NY,False,ChIJnyph2q1NwokR96HUakWQw58
+Feng's Garden,4.0,8.0,3.9,123.0,40.71899990000001,-73.83940849999999,11375,Forest Hills,Queens,,NY,False,ChIJXWJBLplgwokRwHY38T_5Jjo
+China Glatt,4.0,10.0,4.5,1119.0,40.63746,-73.9893864,11219,Borough Park,Brooklyn,,NY,False,ChIJAXQOU9NawokR0QPQ1nvCy2k
+China Garden,4.0,10.0,4.3,211.0,40.7417698,-73.925752,11104,Sunnyside,Queens,,NY,False,ChIJJQ7tydBewokRYAjmOVrKs0Q
+Mee Noodle Shop & Grill,4.0,11.0,4.0,182.0,40.73097680000001,-73.9832131,10003,,Manhattan,New York,NY,False,ChIJf6TsAp5ZwokR8WmkLvXvRdI
+Golden Dragon,4.0,11.0,3.9,174.0,40.64021899999999,-73.9940791,11219,Borough Park,Brooklyn,,NY,False,ChIJd81AhtJawokRbqN6srXD7YQ
+Food Sing,4.0,12.0,3.9,216.0,40.7143529,-73.96125239999999,11211,Williamsburg,Brooklyn,,NY,False,ChIJq5hIQ2BZwokRzZM4Bl7v4sc
+Golden Harbor,4.0,15.0,3.9,232.0,40.7221013,-73.8738589,11379,Middle Village,Queens,,NY,False,ChIJbQGrVEJewokR8_16dqgWjbs
+Kum Kau,4.0,16.0,4.1,1575.0,40.6935271,-73.96673799999999,11205,Clinton Hill,Brooklyn,,NY,False,ChIJG4WAoLhbwokRyn0RE1BW2Mg
+Wa Jeal,4.0,19.0,4.4,288.0,40.7754335,-73.95329559999999,10028,,Manhattan,New York,NY,False,ChIJa4KK_LtYwokRXcEb5Yrs0JQ
+Shangeri-La Restaurant,4.0,20.0,4.3,1095.0,40.8472944,-73.8326417,10461,Pelham Bay,The Bronx,,NY,False,ChIJr9HJ1FCLwokRCOt5nWYe-PY
+Jac Mao,4.0,20.0,4.1,505.0,40.5858884,-74.09297029999999,10305,Midland Beach,Staten Island,,NY,False,ChIJr-CsR8ROwokRis4tvjFo1Xs
+New Moon,4.0,21.0,4.1,296.0,40.7425809,-73.97782169999999,10016,,Manhattan,New York,NY,False,ChIJr7-MfQZZwokRHLbO4Pb3He8
+New Apolo,4.0,21.0,4.3,1211.0,40.7108028,-73.9507807,11211,Southside,Brooklyn,,NY,False,ChIJx7Eof-JbwokRHaM8VNSl4zs
+Han Dynasty Long Island City,4.0,23.0,4.2,119.0,40.74576649999999,-73.94475349999999,11101,Long Island City,Queens,,NY,False,ChIJM0NdDQtZwokRay142BXkRQg
+China 1 Kitchen,4.0,26.0,3.9,230.0,40.7632357,-73.9489059,10044,,Manhattan,New York,NY,False,ChIJQefBmcVYwokR8MSSO9Ffw78
+Amy's Chinese Restaurant,4.0,28.0,4.3,255.0,40.7557808,-73.7675166,11361,Bayside,Queens,,NY,True,ChIJaw4bW-ZhwokR3T18rOkNbP4
+Panda Express,4.0,29.0,4.1,1261.0,40.760996,-73.99111599999999,10036,,Manhattan,New York,NY,False,ChIJW2Dg2VNYwokRoQ1cchHCorI
+Staten Island MR. BBQ,4.0,34.0,4.1,115.0,40.5717648,-74.1125947,10306,New Dorp,Staten Island,,NY,False,ChIJLbIfyspJwokRW7z6HsHCGrQ
+Kissena Cafe,4.0,39.0,3.9,109.0,40.7398221,-73.8153312,11355,Flushing,Queens,,NY,True,ChIJR3MX3lxgwokRqVPOBA7dxDI
+Congee Village,3.99293286219081,566.0,4.1,2506.0,40.718659,-73.990354,10002,,Manhattan,New York,NY,False,ChIJx8xdGIdZwokRT15ilvIVcTM
+Pinch Chinese,3.98630136986301,146.0,4.3,925.0,40.7264492,-74.001798,10012,,Manhattan,New York,NY,False,ChIJN2iOxo1ZwokRIMdxk2LDHmM
+Old Xi’an,3.98611111111111,72.0,4.1,367.0,40.7058854,-74.0075162,10005,,Manhattan,New York,NY,False,ChIJxxFm1u5bwokRkpYm1R6tMU4
+Royal Queen,3.98544698544698,481.0,4.0,1243.0,40.7594017,-73.8291601,11354,Flushing,Queens,,NY,True,ChIJPwLjwxFgwokR--CbiBEvDws
+New Northern Manor 新同乐,3.98529411764705,204.0,4.1,878.0,40.7694578,-73.736868,11362,Little Neck,Queens,,NY,True,ChIJTzUWpvqJwokRzzowue5qmPk
+House of Joy,3.98360655737704,244.0,4.1,1323.0,40.7150183,-73.99849120000002,10013,,Manhattan,New York,NY,False,ChIJ-eS_PhdbwokRjlCFlhmIGdU
+Supreme Restaurant,3.97959183673469,196.0,4.2,1965.0,40.717267,-73.99723399999999,10013,,Manhattan,New York,NY,False,ChIJHT2IhidawokR29hLR-IQb8k
+Howong,3.9758064516129,124.0,4.1,396.0,40.6125024,-73.98326689999999,11204,Bensonhurst,Brooklyn,,NY,False,ChIJ5dSOHB5FwokRAeX2-ZPEFcg
+1468 Hylan Cafe,3.97368421052631,38.0,4.3,123.0,40.5924093,-74.0869433,10305,Dongan Hills,Staten Island,,NY,False,ChIJ97NQEgBPwokRUoHBenYfBc0
+Yin Ji Chang Fen 銀記腸粉,3.97368421052631,114.0,4.0,276.0,40.7598593,-73.8326465,11354,Flushing,Queens,,NY,True,ChIJqwTG-uphwokR_QqTc3u-m8M
+Chinese Tuxedo,3.96825396825396,63.0,4.4,1210.0,40.7143302,-73.9980357,10013,,Manhattan,New York,NY,False,ChIJyW-u9iZawokRY1sHXGzZHGI
+Han Dynasty Upper West Side,3.96774193548387,62.0,4.3,1078.0,40.7874921,-73.9764072,10024,,Manhattan,New York,NY,False,ChIJb0Q8GIRYwokRHVhrqLQwn50
+Red House Restaurant,3.96666666666666,90.0,4.0,204.0,40.7611745,-73.8331405,11354,Flushing,Queens,,NY,True,ChIJG31bhD9hwokRYWTwJ0Mqcz0
+Park Asia,3.96440129449838,309.0,4.1,1184.0,40.6322222,-74.0127778,11220,Dyker Heights,Brooklyn,,NY,False,ChIJP5YFN09FwokRLyaJTlmWHs0
+Kings Co Imperial,3.95833333333333,24.0,4.5,934.0,40.715211,-73.951022,11211,Williamsburg,Brooklyn,,NY,False,ChIJkXTZdllZwokRVFI-NxcdIa4
+Crown One 御庭酒楼,3.95454545454545,110.0,4.0,386.0,40.7658211,-73.8315243,11354,Flushing,Queens,,NY,True,ChIJ7yZJiEphwokRbveVq27Fk3A
+Guh Song Korean Style Chinese Restaurant,3.953125,64.0,4.1,546.0,40.7589749,-73.7690296,11361,Bayside,Queens,,NY,True,ChIJN5Q5V-ZhwokRag1Qf7J1aQo
+Sei Less,3.95238095238095,21.0,4.5,1854.0,40.7532237,-73.9884189,10018,,Manhattan,New York,NY,False,ChIJC_y1g6tZwokR5HzqjKOPL3M
+Little Pepper,3.95081967213114,61.0,4.3,343.0,40.782447,-73.846049,11356,College Point,Queens,,NY,True,ChIJ1ec4s1P1wokRUK_74W1Q0q0
+Jian Restaurant (私房小厨）,3.95,20.0,3.9,176.0,40.7647363,-73.7261735,11362,Little Neck,Queens,,NY,True,ChIJu_gWIueJwokRca2S2yXZGMk
+Peppercorn Station 青花椒 纽约,3.95,140.0,4.3,447.0,40.7526861,-73.9851157,10018,,Manhattan,New York,NY,False,ChIJ5ckmp3JZwokRYISySgjWO7k
+Deng Ji,3.94690265486725,113.0,3.9,221.0,40.7499004,-73.8188645,11355,Flushing,Queens,,NY,True,ChIJPWUa_PlhwokRgWO4s9v2IvA
+山王饭店,3.94642857142857,56.0,4.1,350.0,40.7627908,-73.9771957,10019,,Manhattan,New York,NY,False,ChIJuQeWi_lYwokRIMbOO0aVL1U
+Dun Huang,3.94565217391304,92.0,4.0,265.0,40.7480271,-73.9403597,11101,Long Island City,Queens,,NY,False,ChIJ5fDiWcVZwokRxlWgf0RDBrw
+Yiwanmen,3.9430894308943,123.0,4.4,444.0,40.7192998,-73.99628419999999,10013,,Manhattan,New York,NY,False,ChIJP2WrQohZwokR0bI_d6vJlmw
+Golden Corner Noodles 黄金角 (温州小池),3.94230769230769,52.0,4.0,119.0,40.7541649,-73.8327618,11355,Flushing,Queens,,NY,True,ChIJTTBK03JgwokRinX3fQP3F6M
+Juicy King Crab Express,3.9375,16.0,3.8,211.0,40.7130407,-73.78327209999999,11432,Jamaica,Queens,,NY,False,ChIJf-ExdRphwokRWvZDtyZbmbI
+Golden Z 大快活食坊,3.9375,32.0,4.1,245.0,40.5985939,-73.9568737,11229,Homecrest,Brooklyn,,NY,False,ChIJ18QqhIxEwokR104AkcKZCZM
+218 Restaurant,3.9375,32.0,4.2,201.0,40.718997,-73.995823,10013,,Manhattan,New York,NY,False,ChIJY6y3bohZwokR0wAvTPRvLAM
+New Fu Shen,3.93684210526315,95.0,3.9,240.0,40.6361572,-74.0127862,11220,Sunset Park,Brooklyn,,NY,False,ChIJvWgB80ZFwokR7U5DwFNHAcw
+Hwa Yuan Szechuan,3.93333333333333,150.0,4.2,1116.0,40.7137682,-73.9960242,10002,,Manhattan,New York,NY,False,ChIJDS02PiZawokRUHmiu65dXy0
+456 New Shanghai,3.93203883495145,103.0,4.3,1725.0,40.71624740000001,-73.998268,10013,,Manhattan,New York,NY,False,ChIJX4-QDSdawokRtFBM1mz6gn4
+Tasty Dumpling,3.93150684931506,73.0,4.3,1552.0,40.71492670000001,-73.9995424,10013,,Manhattan,New York,NY,False,ChIJg6Oj3yZawokRwDiCW7Aa6WU
+沙县小吃 Shaxian Snacks,3.92727272727272,55.0,3.8,126.0,40.7630209,-73.82808659999999,11354,Flushing,Queens,,NY,True,ChIJh9GFsZRhwokRAs8c60BU3a0
+Ting Fai Cuisine,3.92682926829268,41.0,4.0,147.0,40.6047849,-73.9991063,11214,Bath Beach,Brooklyn,,NY,False,ChIJ4Tu-4Z9FwokRawCbMPRMW9M
+Shun Won,3.92631578947368,190.0,3.9,655.0,40.7575034,-73.828885,11355,Flushing,Queens,,NY,True,ChIJYfIoHxJgwokRykH9Bt4ZqmU
+Mr Chow,3.92307692307692,13.0,3.9,527.0,40.7588323,-73.9643541,10022,,Manhattan,New York,NY,False,ChIJj1En45dcwokR4BRFTdCs-k4
+Atlas Kitchen,3.92198581560283,141.0,4.0,413.0,40.8032989,-73.96675549999999,10025,,Manhattan,New York,NY,False,ChIJ2UuaFu73wokR3QpnvrcxQCc
+Brooklyn Dumpling Shop,3.92,25.0,4.3,1343.0,40.7275602,-73.9856935,10003,,Manhattan,New York,NY,False,ChIJh3m8UUNZwokR1Htq1Mm0-hs
+New Restaurant On 58 St.,3.91836734693877,49.0,4.2,119.0,40.6369444,-74.00861110000001,11220,Sunset Park,Brooklyn,,NY,False,ChIJvXsgW0pFwokR8DY_0rPHyec
+Taste of China,3.91666666666666,12.0,3.8,222.0,40.727625,-73.892015,11378,Maspeth,Queens,,NY,False,ChIJdWnOgPZewokR-rEt794w4zc
+Sun Hong Wong,3.91666666666666,72.0,4.0,278.0,40.7177896,-73.9954782,10013,,Manhattan,New York,NY,False,ChIJR6nVBIhZwokR2fwCANKzODk
+Sheng Jin,3.91596638655462,119.0,3.7,258.0,40.7570681,-73.8291611,11355,Flushing,Queens,,NY,True,ChIJz3rpERJgwokRoY7MO1YeKF8
+XO Taste,3.9156626506024,166.0,4.0,676.0,40.7169957,-73.9968396,10013,,Manhattan,New York,NY,False,ChIJY1x_qSBawokRXqyo_SSgUXQ
+Tihu Taiwanese Cuisine 醍醐台菜,3.91489361702127,47.0,4.0,114.0,40.7683334,-73.7379598,11363,Little Neck,Queens,,NY,True,ChIJ4SzRDwCJwokRS4at6wpBUjo
+Tri Dim Shanghai West [UWS] Restaurant and Bar 鼎豐,3.91176470588235,34.0,4.3,365.0,40.784124,-73.9736525,10024,,Manhattan,New York,NY,False,ChIJW4bcFvNZwokRK3DMQUgnm-c
+Downtown Yummy,3.91176470588235,34.0,4.2,112.0,40.7133942,-73.9961443,10002,,Manhattan,New York,NY,False,ChIJIzUb3nNbwokRcRAN3fn__dU
+Nan Bei Ho,3.91160220994475,181.0,4.0,534.0,40.755301,-73.7684541,11364,Bayside,Queens,,NY,True,ChIJz1JONeZhwokRZTc-BEEI8jU
+Good Day,3.90990990990991,111.0,4.0,331.0,40.6208381,-73.9886856,11204,Bensonhurst,Brooklyn,,NY,False,ChIJt-ODYSFFwokRDKwtLRsmf7Q
+Super Kew Garden,3.9090909090909,11.0,3.6,118.0,40.7156825,-73.8322554,11375,Forest Hills,Queens,,NY,False,ChIJCejGWZhgwokRgQ7S7nETUaE
+New HK Tea & Sushi,3.90657439446366,289.0,4.0,1011.0,40.6042362,-73.9972585,11214,Bensonhurst,Brooklyn,,NY,False,ChIJ4RPyKw9FwokRxIPsorvWSeo
+Wing Hing Seafood Restaurant,3.90410958904109,73.0,4.0,340.0,40.5986747,-73.9595772,11229,Homecrest,Brooklyn,,NY,False,ChIJd62hVPNEwokRC9TLBHLkuLc
+Pho Choice,3.90384615384615,52.0,3.9,229.0,40.73975170000001,-73.78934319999999,11365,Fresh Meadows,Queens,,NY,True,ChIJbRsPCZJhwokRs5nLm5GconU
+Dun Huang Beef Noodles,3.90361445783132,83.0,4.1,219.0,40.6353649,-74.0089306,11220,Sunset Park,Brooklyn,,NY,False,ChIJpY8JctNFwokRIDKnNj6bR9I
+High Five 囍筷,3.90322580645161,31.0,3.9,101.0,40.6087503,-74.0053865,11214,Bath Beach,Brooklyn,,NY,False,ChIJ63BXNzFFwokRI8dASdGP4ac
+Grand Sichuan Eastern,3.90322580645161,31.0,3.8,245.0,40.7425407,-74.0002032,10011,,Manhattan,New York,NY,False,ChIJG-opAbxZwokRgJhB1LBd2bc
+Mei Lai Wah | Wonton Noodle Garden,3.90277777777777,144.0,4.3,1918.0,40.7148058,-73.9982129,10038,,Manhattan,New York,NY,False,ChIJdchGBSdawokRrNBainqPr-I
+Peking Express,3.9,10.0,4.1,202.0,40.725929,-73.9427719,11222,Greenpoint,Brooklyn,,NY,False,ChIJIbfFaUlZwokR7QeqHwSoJYY
+Green Garden Village,3.9,40.0,4.0,203.0,40.7190531,-73.9959787,10013,,Manhattan,New York,NY,False,ChIJ5wAS6t9ZwokRb4aVROoGlX4
+East Pacific,3.9,50.0,4.0,544.0,40.5823269,-74.1652138,10314,New Springville,Staten Island,,NY,False,ChIJryiJtIBLwokRwmG-FynYcOM
+Shun Wang,3.89285714285714,84.0,3.9,358.0,40.7432244,-73.8830249,11373,Elmhurst,Queens,,NY,False,ChIJ55zQgaxfwokRQ8yxIlgDFXY
+China Express,3.88888888888888,9.0,3.9,182.0,40.706088,-73.9501404,11211,Southside,Brooklyn,,NY,False,ChIJH6e6feNbwokRxNeTKG7rJGs
+Good Chinese,3.88888888888888,9.0,3.8,278.0,40.695162,-73.911613,11221,Bushwick,Brooklyn,,NY,False,ChIJlXEqUD1cwokRDB3iw29F1r8
+Soochow Garden,3.88571428571428,105.0,4.1,511.0,40.8243873,-73.98774829999999,07010,,,Cliffside Park,NJ,False,ChIJ6Zw0DLL3wokRJgaJodCD1QU
+Golden City 煌嘉囍宴 🇨🇳,3.88127853881278,219.0,3.9,596.0,40.6168953,-73.9858036,11204,Mapleton,Brooklyn,,NY,False,ChIJq6pagB9FwokRC6Gpbh_3kHY
+Lao Ma Spicy,3.88,125.0,4.0,454.0,40.7308968,-73.9934403,10003,,Manhattan,New York,NY,False,ChIJ6djjiDNZwokRX2L_gDfCLJM
+Precious Island Tea Shop,3.87939698492462,199.0,4.1,643.0,40.570706,-74.1104278,10306,New Dorp,Staten Island,,NY,False,ChIJhStz3E1JwokR4ysd7dtsqiQ
+Great NY Noodletown,3.87290969899665,299.0,4.1,3034.0,40.7150213,-73.997071,10013,,Manhattan,New York,NY,False,ChIJxxUYUyZawokRl_nFS_dkwio
+Panda Express,3.87096774193548,31.0,4.1,1300.0,40.7562434,-73.9701357,10022,,Manhattan,New York,NY,False,ChIJ9cp8I-NYwokRnuyqdQQn0Po
+Big Wong,3.87096774193548,31.0,3.7,111.0,40.7170234,-73.95910409999999,11249,Williamsburg,Brooklyn,,NY,False,ChIJf1ZdFTBZwokRQUG14cqX-jg
+P.F. Chang's,3.87037037037037,54.0,4.3,4271.0,40.7802658,-74.0096401,07093,,,West New York,NJ,False,ChIJyfz7ohVYwokRoVKhg2CT2BI
+China Red Gourmet,3.86666666666666,15.0,3.4,327.0,40.7151248,-74.008579,10007,,Manhattan,New York,NY,False,ChIJjybcOh9awokRtlD5b304kyQ
+Panda Express,3.86666666666666,30.0,4.0,1423.0,40.7500605,-73.9947735,10001,,Manhattan,New York,NY,False,ChIJNzfuJ65ZwokREXfAYA37Hyk
+Bamboo Garden,3.86559139784946,186.0,4.0,568.0,40.6328954,-74.01194250000002,11220,Sunset Park,Brooklyn,,NY,False,ChIJkVz41khFwokRKan78-taHB8
+39 Prince Cafe 利苑食坊,3.86419753086419,162.0,4.0,743.0,40.7596502,-73.832206,11354,Flushing,Queens,,NY,True,ChIJR3cGbA5gwokRr4ell13T_y0
+88 Palace,3.86330935251798,139.0,3.8,431.0,40.7138212,-73.9941604,10002,,Manhattan,New York,NY,False,ChIJr9wZmihawokRiP8PE3BQ7Rk
+Moo Shu,3.86206896551724,29.0,4.1,114.0,40.7710671,-73.7354319,11363,Flushing,Queens,,NY,True,ChIJi6AipvqJwokRbEVOyZeKH4E
+Rong Chinese Restaurant,3.86111111111111,36.0,4.0,146.0,40.7595441,-73.83245,11354,Flushing,Queens,,NY,True,ChIJhUs-XQ5gwokRt0nmcLSJ98s
+RedFarm,3.86046511627907,43.0,4.4,1058.0,40.7820674,-73.9805501,10024,,Manhattan,New York,NY,False,ChIJ50n4UohYwokRLrnKpXxjuFE
+Golden Palace Gourmet,3.85858585858585,99.0,3.9,194.0,40.7542117,-73.8226194,11355,Flushing,Queens,,NY,True,ChIJ3eKD1zxhwokRn3Ceardf_Q8
+Merry Land Chinese Buffet,3.85714285714285,7.0,4.0,1470.0,40.8247761,-73.9091378,10451,Morrisania,The Bronx,,NY,False,ChIJyX0BJEv0wokRMSHq-Urtfvk
+Dun Huang,3.85585585585585,111.0,4.0,285.0,40.81104080000001,-73.9581944,10027,,Manhattan,New York,NY,False,ChIJKZgXtGr2wokRxZ8rYWA8sQU
+Imperial Taste,3.84615384615384,13.0,3.8,168.0,40.7492491,-73.7550301,11364,Oakland Gardens,Queens,,NY,True,ChIJf-YtH_FhwokRWcHZCB87Ztg
+friendly restaurant,3.84615384615384,13.0,4.0,226.0,40.7560443,-73.9424464,11101,Long Island City,Queens,,NY,False,ChIJP2NFIh1ZwokR6SWWSYkOTgg
+Yip's Food Court,3.84615384615384,39.0,4.2,389.0,40.7048052,-74.0124081,10004,,Manhattan,New York,NY,False,ChIJIe6J_xNawokRsRUSeXqPsdQ
+Main Street Imperial Taiwanese,3.84536082474226,194.0,4.0,455.0,40.7435052,-73.8259167,11355,Flushing,Queens,,NY,True,ChIJ66zUa29gwokRvkHBl7t93E4
+Congee Village Flushing,3.84326710816777,453.0,3.9,1185.0,40.7610111,-73.8330579,11354,Flushing,Queens,,NY,True,ChIJ0_1Eqg9gwokRjAhk6LLsMu0
+China River,3.84146341463414,82.0,4.1,552.0,40.75816450000001,-73.988364,10036,,Manhattan,New York,NY,False,ChIJ6esGrLFZwokRB-rhg1taoXs
+Mee Sum Cafe,3.84,25.0,4.0,147.0,40.715051,-73.9983,10013,,Manhattan,New York,NY,False,ChIJfXfu_CZawokRsynindnEfPY
+Mahjong Cafe & Bar 麻将茶餐厅&酒馆,3.83870967741935,93.0,3.8,298.0,40.7611746,-73.8325222,11354,Flushing,Queens,,NY,True,ChIJ_1ema15hwokRilHXUPnujy8
+New Phoenix Seafood Restaurant,3.83597883597883,189.0,3.9,513.0,40.6308556,-74.0100028,11219,Dyker Heights,Brooklyn,,NY,False,ChIJh-2WhUhFwokRPyRwCXaWzYc
+Szechuan Delight @ 7 Ave,3.83333333333333,6.0,3.9,275.0,40.67253520000001,-73.9770901,11215,Park Slope,Brooklyn,,NY,False,ChIJ6bYg1QZbwokRzrmuQnM4NI4
+Chan's,3.83333333333333,6.0,4.5,366.0,40.6597941,-74.1985792,07201,Elizabethport,,Elizabeth,NJ,False,ChIJvTrhXVxNwokRrDYzaf0yI1c
+Happy Garden,3.83333333333333,6.0,4.1,139.0,40.8615656,-73.8573773,10469,Allerton,The Bronx,,NY,False,ChIJk0Q_xlvzwokRGWt40Uohy8A
+East Wind Snack Shop,3.83333333333333,18.0,4.5,406.0,40.6640317,-73.9836983,11215,Park Slope,Brooklyn,,NY,False,ChIJtVuOhx5bwokR14FF8JEG6j8
+新東湖 Canton Manor,3.83125,160.0,4.0,508.0,40.76170339999999,-73.7617128,11361,Bayside,Queens,,NY,True,ChIJnxpUt-1hwokR0X0soUX2uP8
+Jade Asian Bistro,3.82905982905982,117.0,3.9,390.0,40.7607006,-73.73053589999999,11362,Douglaston,Queens,,NY,True,ChIJ6T4A9WuJwokR7QVTDMQvYTE
+Korean Noodle House,3.82876712328767,146.0,3.8,964.0,40.759638,-73.77269000000001,11361,Bayside,Queens,,NY,True,ChIJZwv44N1hwokRmRkOXwxxExo
+"Evergreen On 38 - 绿杨村:best,Sichuan food,Dim sum,party,banquet hall,family restaurant/dinner,Midtown,nyc,曼哈顿中城 川菜 上海菜 宴会厅 婚宴",3.82758620689655,58.0,4.2,602.0,40.7504216,-73.9819758,10016,,Manhattan,New York,NY,False,ChIJqVQEsABZwokRe05WcVpIuFc
+China Xiang,3.82673267326732,202.0,4.0,807.0,40.7581352,-73.9922857,10036,,Manhattan,New York,NY,False,ChIJy_VZ8lJYwokReEjsL_7AtpE
+Xi'an Famous Foods 西安名吃 | Main St. Flushing,3.82648401826484,219.0,4.2,969.0,40.7578699,-73.8296542,11355,Flushing,Queens,,NY,True,ChIJmTxuAhJgwokRZ8YGImWwpO0
+88 Canteen,3.82481751824817,137.0,3.9,449.0,40.7440181,-73.826055,11355,Flushing,Queens,,NY,True,ChIJQUKHE29gwokRgdAe8kdAekE
+Golden Unicorn,3.82173913043478,460.0,4.0,3451.0,40.7137006,-73.997193,10002,,Manhattan,New York,NY,False,ChIJXczCZSZawokRerIzds-K5e0
+Dhanshiri,3.81818181818181,11.0,3.8,712.0,40.7108506,-73.79203989999999,11432,Jamaica,Queens,,NY,False,ChIJZw6tTB5hwokRq1aKuiKmHt0
+SIChinacook,3.81818181818181,11.0,3.9,112.0,40.5847738,-74.0934485,10305,Midland Beach,Staten Island,,NY,False,ChIJC0XzzsVOwokRZSFAptA8XJY
+Royal Seafood,3.81506849315068,292.0,3.9,1388.0,40.7173032,-73.9976916,10013,,Manhattan,New York,NY,False,ChIJf5eZgSdawokRMFzwX4PqajU
+Deluxe Green Bo,3.8099173553719,121.0,4.3,1597.0,40.7156177,-73.9980053,10013,,Manhattan,New York,NY,False,ChIJB9obBCdawokR_I47fRFPBhc
+Tim Ho Wan East Village,3.8095238095238,357.0,4.1,2464.0,40.7313048,-73.99015969999999,10003,,Manhattan,New York,NY,False,ChIJ8WvaWJlZwokRp1RxTb8QUrE
+New Mulan,3.80816326530612,245.0,3.9,827.0,40.7604519,-73.8297953,11354,Flushing,Queens,,NY,True,ChIJJRUX1RFgwokRhFIwIMplYSE
+New China Hibachi & Sushi Buffet,3.80645161290322,93.0,4.1,1797.0,40.5659573,-74.1092829,10306,New Dorp Beach,Staten Island,,NY,False,ChIJO5T30YFJwokRU3kuEZZVQ-c
+Shanghai You Garden,3.80149812734082,267.0,4.1,1148.0,40.7634149,-73.7706536,11361,Bayside,Queens,,NY,True,ChIJN4KqVsBhwokRgEFpK_yOtlY
+Asian Yummy House,3.8,5.0,4.1,109.0,40.6991906,-73.93958,11206,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJD86bfPdbwokRAS3IJe9grM0
+Number One Garden,3.8,5.0,3.3,112.0,40.6601098,-73.9803915,11215,South Slope,Brooklyn,,NY,False,ChIJTVYMYx5bwokRlp13K-kYHl4
+Empire 3,3.8,5.0,3.6,181.0,40.8029581,-73.95304999999999,10026,,Manhattan,New York,NY,False,ChIJPynXKxH2wokRwQlEO0yht1U
+Golden Kitchen,3.8,5.0,4.0,119.0,40.692191,-73.86293719999999,11421,Jamaica,Queens,,NY,False,ChIJg1yFGOddwokRbQOQi0zVgss
+Maya Congee Cafe - Fulton St,3.8,10.0,4.7,111.0,40.6824839,-73.9614113,11238,Clinton Hill,Brooklyn,,NY,False,ChIJSUWZktRbwokRsBUNu6YAh84
+Great Dragon,3.8,10.0,4.1,126.0,40.6452442,-73.999721,11232,Sunset Park,Brooklyn,,NY,False,ChIJS2hlxs5awokRM2fI-LtMAyc
+Pacific Kitchen,3.8,10.0,4.4,142.0,40.547554,-74.158003,10308,Great Kills,Staten Island,,NY,False,ChIJublB87FLwokRsbuC2k0zSD0
+Chef Yu,3.8,70.0,4.1,1521.0,40.7535052,-73.99231139999999,10018,,Manhattan,New York,NY,False,ChIJrThdq61ZwokRHmF67x0c9vY
+Golden Lake Pavilion,3.79371316306483,509.0,3.9,2210.0,40.74263,-73.82490539999999,11367,Kew Gardens Hills,Queens,,NY,True,ChIJeXfVUG9gwokRC75WD1fPQAM
+Nai brother LiC,3.79268292682926,82.0,4.1,229.0,40.7492037,-73.9398021,11101,Long Island City,Queens,,NY,False,ChIJ2VpwAuNZwokRRH3TXqM-80k
+Kung Fu Kitchen,3.7910447761194,201.0,4.4,1844.0,40.7555531,-73.9906529,10018,,Manhattan,New York,NY,False,ChIJ2_UcxqxZwokRf5dbeh2oSe8
+Q Town Asian Cuisine Inc.,3.78947368421052,95.0,4.1,430.0,40.7414555,-73.8802527,11373,Elmhurst,Queens,,NY,False,ChIJ79nuh_lfwokRIkTlh8VLnzU
+Hyo Dong Gak,3.78873239436619,71.0,3.9,689.0,40.750147,-73.98621589999999,10001,,Manhattan,New York,NY,False,ChIJ732mealZwokRofYjjral1pY
+Ya Ya Roasted,3.78723404255319,47.0,4.1,146.0,40.5727139,-74.1080523,10306,New Dorp,Staten Island,,NY,False,ChIJTbOWWQBJwokReH6Cw6q-gbM
+Tangra Masala,3.78571428571428,14.0,4.0,731.0,40.7365123,-73.87831040000002,11373,Elmhurst,Queens,,NY,False,ChIJRUNFE1JewokRmQ3Eloi_UiU
+Ocean Bay 避風塘,3.77844311377245,167.0,3.8,565.0,40.7369598,-73.8801853,11373,Elmhurst,Queens,,NY,False,ChIJ22fmUfBfwokR3_iSVQyxXsw
+Mr. Rice,3.77777777777777,9.0,3.7,150.0,40.5964688,-74.2906969,07065,,,Rahway,NJ,False,ChIJpUpXcgu0w4kRmGCLom_TiOc
+Golden Wonton King 糖潮滋味館,3.76973684210526,152.0,4.0,447.0,40.76489189999999,-73.8107429,11354,Flushing,Queens,,NY,True,ChIJrWBgVv5fwokRB6K7ukXYO74
+Golden Palace,3.76209677419354,248.0,3.8,723.0,40.6099868,-74.00653199999999,11214,Bensonhurst,Brooklyn,,NY,False,ChIJWcTlBUpFwokR44DlILVh3IA
+Golden Bay,3.76190476190476,63.0,3.8,189.0,40.6023849,-73.99502880000001,11214,Bath Beach,Brooklyn,,NY,False,ChIJ-8UKoQhFwokRjRg8r6mtq9M
+NG'S KITCHEN INC,3.75862068965517,29.0,3.9,107.0,40.6353446,-74.0100283,11220,Sunset Park,Brooklyn,,NY,False,ChIJnWcSJElFwokRcsOE9fBxK2w
+Good Luck Kitchen,3.75833333333333,120.0,3.9,357.0,40.7582377,-73.79556939999999,11358,Flushing,Queens,,NY,True,ChIJuQX6WxVhwokRC4JIL4Wmqq0
+Jin Da Lai,3.75757575757575,66.0,3.9,174.0,40.7646225,-73.82818580000001,11354,Flushing,Queens,,NY,True,ChIJF8EI5hpgwokROYgKv2zezGY
+Legend Chicken,3.75510204081632,49.0,4.2,187.0,40.7587356,-73.8310286,11354,Flushing,Queens,,NY,True,ChIJp2VF9uFhwokRwBipgHsdYeo
+M Star Cafe,3.75213675213675,117.0,3.8,390.0,40.7139435,-73.9965248,10002,,Manhattan,New York,NY,False,ChIJCehDQSZawokR874IrxpAQFc
+Ollie’s Sichuan Chinese Restaurant​ (成都印象),3.75155279503105,161.0,4.1,1589.0,40.7589491,-73.99307259999999,10036,,Manhattan,New York,NY,False,ChIJJS-Q9VJYwokRq_QTtG6GoPE
+Jing Fong,3.75138121546961,362.0,4.0,3715.0,40.7828892,-73.9788567,10013,,Manhattan,New York,NY,False,ChIJJWt4pCdawokRFcDubKrCgRE
+Dragon Sea,3.75,4.0,4.2,239.0,40.8481185,-73.8885196,10457,West Bronx,The Bronx,,NY,False,ChIJ02j6K4j0wokR9LJ6NCvaWzo
+Dragon Garden,3.75,4.0,3.3,111.0,40.8755828,-73.87934109999999,10467,Norwood,The Bronx,,NY,False,ChIJg3GzW3LzwokRN2_CTn5IXPA
+New Double Happy Inc.,3.75,4.0,3.7,164.0,40.6924382,-73.8583783,11421,Woodhaven,Queens,,NY,False,ChIJ23C_DeRdwokRMT-bzrb7SwI
+Great Wall,3.75,4.0,3.8,140.0,40.8377236,-73.863357,10462,Parkchester,The Bronx,,NY,False,ChIJTW1Hl7_0wokRRplW-aFzDog
+Greenleaf,3.75,4.0,3.8,183.0,40.7124925,-73.8795451,11379,Middle Village,Queens,,NY,False,ChIJQ6_9GmVewokR7qUOW5kmHyE
+Chinatown Restaurant,3.75,4.0,3.7,115.0,40.5864498,-73.9455576,11235,Sheepshead Bay,Brooklyn,,NY,False,ChIJMcRdnXxEwokRUXOxcBcBG8g
+New Dynasty,3.75,8.0,3.8,222.0,40.749477,-73.99584949999999,10001,,Manhattan,New York,NY,False,ChIJR9Q6M7BZwokROYgGYkkxBEw
+Rich Aroma,3.75,8.0,3.4,175.0,40.813198,-73.9558,10027,,Manhattan,New York,NY,False,ChIJA_2hqGv2wokRb9I3CNXyLQo
+New Long River,3.75,12.0,4.1,124.0,40.63887099999999,-74.0170335,11220,Sunset Park,Brooklyn,,NY,False,ChIJYXRqdU1FwokRJUyNdJatLgs
+Woodside Kitchen,3.75,12.0,4.0,165.0,40.7433436,-73.8884358,11373,Elmhurst,Queens,,NY,False,ChIJty4dm6pfwokRVv8nScGpe1w
+Dumplings & Things,3.75,12.0,4.3,252.0,40.7424233,-73.919044,11104,Sunnyside,Queens,,NY,False,ChIJY7WCN9lewokRrtprUVHEAN0
+Tri Dim Shanghai [UES] Restaurant and Bar 鼎豐,3.75,68.0,4.1,509.0,40.77394719999999,-73.9579191,10075,,Manhattan,New York,NY,False,ChIJ9WCDTL5YwokRhBUL20yZeso
+MáLà Project Bryant Park,3.74678111587982,233.0,4.3,1193.0,40.7569293,-73.9805621,10036,,Manhattan,New York,NY,False,ChIJuyQyqf9YwokRSlObfXst7sQ
+Wo Hop Next Door,3.74074074074074,54.0,4.4,1066.0,40.7142173,-73.998918,10013,,Manhattan,New York,NY,False,ChIJ_2GkXcdbwokR07cBLmAz1ok
+Season 三喜酒家,3.74,50.0,3.8,186.0,40.598944,-73.957577,11229,Homecrest,Brooklyn,,NY,False,ChIJz8wjkYxEwokRo6jw-N5LDfU
+Big Wong,3.73856209150326,306.0,3.9,2354.0,40.716244,-73.998375,10013,,Manhattan,New York,NY,False,ChIJqYOCDidawokRmg3mgC_ce3g
+東粵海鮮酒家 Dong Yue seafood restaurant,3.73846153846153,65.0,3.9,176.0,40.7609211,-73.8301546,11354,Flushing,Queens,,NY,True,ChIJNdhRwE1hwokRxvHFPefvp-0
+Hunan Delight,3.73333333333333,15.0,4.1,291.0,40.6753041,-73.9782291,11215,Park Slope,Brooklyn,,NY,False,ChIJ2zOuoABbwokRYg7hMmy4B1I
+Cha Kee,3.71626297577854,289.0,3.9,1151.0,40.7153054,-73.99896199999999,10013,,Manhattan,New York,NY,False,ChIJ60WL4SZawokRpCV_pGTfb1Y
+Hunan Cottage,3.71428571428571,7.0,4.1,217.0,40.5905385,-73.9720203,11223,Gravesend,Brooklyn,,NY,False,ChIJgXqZTVdEwokRcvfaO1cOTUo
+New Eastern Chinese Restaurant,3.71428571428571,7.0,3.7,130.0,40.7146293,-73.7518769,11428,Queens Village,Queens,,NY,False,ChIJX9pEX3xhwokRiYAZEE0wLX0
+Bamboo House Chinese Restaurant,3.71428571428571,7.0,4.0,176.0,40.52872199999999,-74.315815,08863,Fords,,Woodbridge Township,NJ,False,ChIJC9ygMAG2w4kRwF7UfoR49Pc
+Great Wall,3.71428571428571,14.0,4.3,134.0,40.6414272,-74.0036295,11220,Sunset Park,Brooklyn,,NY,False,ChIJZ1HG_cpawokR804f2M0bMLc
+Samwongahk Chinese Restuarant,3.71428571428571,63.0,3.9,537.0,40.761437,-73.7628156,11361,Bayside,Queens,,NY,True,ChIJc5rDXuJhwokRbL5tySDyfyI
+Bo Ky,3.71168831168831,385.0,3.8,1551.0,40.7158191,-73.99862900000001,10013,,Manhattan,New York,NY,False,ChIJE6NZGidawokRZ5gDkUlPMeE
+Fried Dumpling,3.70786516853932,89.0,4.2,1174.0,40.7145546,-73.9992711,10013,,Manhattan,New York,NY,False,ChIJPX34wSZawokRtqaBPGpIaYI
+N Y Choi Fook,3.70676691729323,133.0,3.7,338.0,40.6037136,-73.99721250000002,11214,Bath Beach,Brooklyn,,NY,False,ChIJocaTNlxFwokRrguzKnoHfq8
+Peking Duck House,3.7,70.0,4.2,673.0,40.7570192,-73.9681074,10022,,Manhattan,New York,NY,False,ChIJPQ1UmeNYwokRJ2mMjQeUL_I
+Happy Family,3.69230769230769,39.0,3.5,259.0,40.7600045,-73.9954211,10036,,Manhattan,New York,NY,False,ChIJxSWKkU1YwokRZPlTp639Hr4
+Shimiaodao Noodle,3.69047619047619,126.0,3.8,284.0,40.7588178,-73.8307228,11354,Flushing,Queens,,NY,True,ChIJzdrckMlhwokRwBLAvbcAoGM
+Joyful Cantonese Restaurant 喜粤农家菜,3.68852459016393,61.0,4.0,153.0,40.5878599,-74.1034755,10306,Todt Hill,Staten Island,,NY,False,ChIJxwtkJwBPwokR3SzlC5rObPM
+Miyako Sushi,3.6875,16.0,4.2,325.0,40.7911378,-73.9727503,10025,,Manhattan,New York,NY,False,ChIJg0Bl54JYwokR8k8qF8pW-eI
+Pearl of China,3.6875,16.0,3.8,198.0,40.84329719999999,-73.8355559,10461,Pelham Bay,The Bronx,,NY,False,ChIJSZDm8FGLwokRpvP5_ktcERU
+East Season Restaurant,3.68181818181818,22.0,4.2,166.0,40.7180214,-74.0003918,10013,,Manhattan,New York,NY,False,ChIJCa2f-CdbwokRStbtb0yExpk
+Bonnie's,3.68085106382978,47.0,4.3,560.0,40.7178057,-73.9464373,11211,Williamsburg,Brooklyn,,NY,False,ChIJbQc9ABZZwokRMAK6C-Ekxg4
+New Kam Lai,3.68,25.0,3.9,414.0,40.7988096,-73.9671805,10025,,Manhattan,New York,NY,False,ChIJYaJViBX3wokRC88rl8aJmes
+Benson Eating Station,3.67256637168141,113.0,3.7,252.0,40.5988249,-73.98829099999999,11214,,Brooklyn,,NY,False,ChIJQQ0pyABFwokRUFgWNKEpunk
+Great Wall,3.66666666666666,3.0,4.2,181.0,40.773987,-74.0206652,07086,,,Weehawken Township,NJ,False,ChIJVwck7CRYwokR9IfS0PfCmu0
+J's Wong,3.66666666666666,3.0,4.1,164.0,40.67402970000001,-73.9566175,11216,Crown Heights,Brooklyn,,NY,False,ChIJhabssp9bwokR_BdkubWsBXo
+China Wok,3.66666666666666,3.0,4.1,109.0,40.6670018,-73.95057400000002,11225,Crown Heights,Brooklyn,,NY,False,ChIJK-FdKHdbwokRqvBFAn9RwJU
+Baili,3.66666666666666,3.0,3.6,123.0,40.6504739,-73.9514595,11226,Little Haiti,Brooklyn,,NY,False,ChIJdwS7QkJbwokRG7BbkAMWUE0
+Hunts Point Chinese Restaurant,3.66666666666666,3.0,4.2,210.0,40.8197136,-73.8930893,10459,Woodstock,The Bronx,,NY,False,ChIJFX52Eqv1wokRe7o7gpQgwiY
+Kwan Hing,3.66666666666666,3.0,4.0,131.0,40.88317199999999,-73.86268,10467,Williamsbridge,The Bronx,,NY,False,ChIJF5J_rD3zwokRl4Hgtohu5t0
+Choi Yuan,3.66666666666666,3.0,4.1,189.0,40.8729239,-73.88915089999999,10468,West Bronx,The Bronx,,NY,False,ChIJM7qsKXbzwokRpX_RHEB-2ng
+Yummy Yummy,3.66666666666666,3.0,3.7,104.0,40.6512445,-74.00801249999999,11232,Sunset Park,Brooklyn,,NY,False,ChIJOQLKarhawokRSzB6N92nESg
+Rose Flower,3.66666666666666,3.0,4.2,146.0,40.8679951,-73.8838318,10458,West Bronx,The Bronx,,NY,False,ChIJF92mknnzwokRnc-oNTkFOTw
+Good Taste,3.66666666666666,3.0,4.1,230.0,40.8755663,-73.8500091,10469,Laconia,The Bronx,,NY,False,ChIJUVW5SDbzwokRiBzFgQZbEZU
+Eastern,3.66666666666666,3.0,2.8,204.0,40.7309899,-73.8101538,11365,Flushing,Queens,,NY,True,ChIJE23qllhgwokRIMHm0Snsv6E
+Fortune Glatt Kosher Chinese of Rego Park,3.66666666666666,3.0,4.1,109.0,40.7261755,-73.8652228,11374,Rego Park,Queens,,NY,False,ChIJi3UPt71fwokRJStq0pZsfHY
+Golden City,3.66666666666666,3.0,3.7,148.0,40.8215411,-73.8666196,10473,East Bronx,The Bronx,,NY,False,ChIJ-YxSueD0wokRxSkzvl1qkbU
+Pacific Moon,3.66666666666666,3.0,4.2,154.0,40.7511789,-73.9027363,11377,Woodside,Queens,,NY,False,ChIJy2dQ4hpfwokRKhXWJdPXgRU
+New Hardee,3.66666666666666,6.0,4.4,576.0,40.6924941,-73.9430268,11221,Bedford-Stuyvesant,Brooklyn,,NY,False,ChIJ21XFdfNbwokRhquJbNPv760
+Great Wall,3.66666666666666,6.0,4.1,287.0,40.81970800000001,-73.92655859999999,10451,West Bronx,The Bronx,,NY,False,ChIJC7zSvNH1wokRjAY1GMeFO1o
+Sizzling Wok,3.66666666666666,6.0,4.0,304.0,40.59781539999999,-73.96094029999999,11223,Gravesend,Brooklyn,,NY,False,ChIJwbMjlvREwokRKG5kMmwMXEA
+China City II,3.66666666666666,6.0,3.4,107.0,40.6078144,-74.00403179999999,11214,Bath Beach,Brooklyn,,NY,False,ChIJDbtHDw1FwokRIH_usyUHsWs
+CHF Chinese Restaurant,3.66666666666666,6.0,4.3,117.0,40.6425232,-74.0126878,11220,Sunset Park,Brooklyn,,NY,False,ChIJNSxiNkhbwokRY35CW4SZx48
+New Peking,3.66666666666666,6.0,3.8,103.0,40.6887153,-73.9602103,11238,Clinton Hill,Brooklyn,,NY,False,ChIJa911F75bwokR10xI7D7ATGw
+Ten Full,3.66666666666666,6.0,4.2,259.0,40.7400957,-73.9251559,11104,Sunnyside,Queens,,NY,False,ChIJQd_aj9BewokRmAp7aXdxmpM
+Halal Kitchen,3.66666666666666,6.0,4.0,331.0,40.7278833,-73.8917377,11378,Maspeth,Queens,,NY,False,ChIJAbwqY_ZewokRxTLYB7BFigk
+Prime Avenue,3.66666666666666,9.0,4.1,1437.0,40.6661104,-73.9423509,11213,Crown Heights,Brooklyn,,NY,False,ChIJYy4_T3lbwokRtEILKeM25Mo
+La Salle Dumpling Room,3.66666666666666,21.0,4.3,270.0,40.7732183,-73.989629,10023,,Manhattan,New York,NY,False,ChIJQfecMlxYwokRjJXdcBB8g6A
+86 Fu Kee,3.66666666666666,57.0,3.9,226.0,,,,,,,,,ChIJXXU9QAZFwokRux5P5nOKPro
+Vanessa's Dumpling House,3.66666666666666,60.0,4.3,842.0,40.7183133,-73.99175610000002,10002,,Manhattan,New York,NY,False,ChIJRUnhkElZwokRBRSJxl_Up68
+Lanzhou Ramen,3.66666666666666,87.0,4.0,338.0,40.7136041,-73.9930138,10002,,Manhattan,New York,NY,False,ChIJ0a507ChawokRYw7TOd0QeyA
+The Legend Cafe House,3.65,80.0,3.7,193.0,40.6100305,-74.0017786,11214,Bensonhurst,Brooklyn,,NY,False,ChIJHbkDPRVFwokRwbx2UjP5_gE
+Yunnan Rice Noodle House,3.64772727272727,88.0,4.0,269.0,40.635291,-74.011219,11220,Sunset Park,Brooklyn,,NY,False,ChIJU-o7KRpFwokRpfaHIjLBKJk
+Xun Yu Si Kao,3.64705882352941,119.0,3.8,235.0,40.6387511,-74.0094233,11220,Sunset Park,Brooklyn,,NY,False,ChIJvbHa4UpFwokRJqe0V5vgajU
+Taste of China,3.64285714285714,14.0,4.1,133.0,40.6183711,-74.0091145,11228,Dyker Heights,Brooklyn,,NY,False,ChIJb-Lh92pFwokR0zG_LVvpXZs
+Moon & Flower House (Staten Island),3.64285714285714,28.0,3.9,116.0,40.5899662,-74.1651952,10314,New Springville,Staten Island,,NY,False,ChIJ26Pvl8BNwokRhJc865QOH8c
+Hop Won Express,3.64102564102564,39.0,3.9,291.0,40.7532541,-73.9739666,10017,,Manhattan,New York,NY,False,ChIJf1hdhgJZwokRXiWhE0yC7Zo
+Hop Kee Restaurant,3.63736263736263,91.0,4.2,1471.0,40.7144074,-73.9990328,10013,,Manhattan,New York,NY,False,ChIJTVG07iZawokR6lRX9rV0puI
+Panda King,3.63636363636363,11.0,3.2,118.0,40.7623787,-73.8154856,11355,Flushing,Queens,,NY,True,ChIJpVQb4iJgwokRtYxerBszZoY
+Rego Garden,3.63636363636363,11.0,4.1,111.0,40.7282488,-73.8637731,11374,Rego Park,Queens,,NY,False,ChIJY0B4ijdewokRfay0rTCtgZY
+Freedom Dove,3.63636363636363,11.0,4.0,138.0,40.7424961,-73.8739855,11373,Flushing,Queens,,NY,False,ChIJiRkurLNfwokRrgX7ETPNYLM
+Sagar Chinese,3.63636363636363,11.0,3.5,1621.0,40.7491701,-73.8911988,11372,Jackson Heights,Queens,,NY,False,ChIJ7ZgaBgdfwokRJsFrvlWXF0A
+Tang's Garden,3.625,8.0,4.1,221.0,40.7723105,-73.9590372,10021,,Manhattan,New York,NY,False,ChIJdfvO5b9YwokRqOQhe3uS_AQ
+Li Wan,3.625,8.0,4.1,142.0,40.712354,-73.8961365,11379,Middle Village,Queens,,NY,False,ChIJmdH37IVewokRrRZpvDmqjTM
+Hing Wong,3.625,16.0,3.9,120.0,40.6260634,-74.02423999999999,11209,Bay Ridge,Brooklyn,,NY,False,ChIJcXAynl5FwokRFXwFIcqswUE
+Jing Fong,3.61870503597122,139.0,3.7,1028.0,40.7188949,-73.99907739999999,10013,,Manhattan,New York,NY,False,ChIJf31dgkxZwokR3nfEwC0M3e0
+H K Wonton Garden,3.61344537815126,119.0,4.1,1085.0,40.7164209,-73.99916069999999,10013,,Manhattan,New York,NY,False,ChIJxxWZFSdawokRvpYShowHen4
+East Buffet,3.60907127429805,463.0,3.6,1303.0,40.7551147,-73.82795759999999,11355,Flushing,Queens,,NY,True,ChIJERyr9xJgwokRvu73A69ZsIg
+Peking Kitchen,3.6,5.0,3.6,116.0,40.6105469,-73.9853672,11204,Bensonhurst,Brooklyn,,NY,False,ChIJpV8Xtx1FwokRT5if5uR_I-Y
+Egg Roll,3.6,10.0,3.7,242.0,40.682386,-73.9099375,11207,Ocean Hill,Brooklyn,,NY,False,ChIJjxGMpUFcwokRRA0PiubyV3M
+Dumpling Man,3.6,30.0,4.3,855.0,40.7272352,-73.9847297,10009,,Manhattan,New York,NY,False,ChIJFZ6BFJ1ZwokR5gGXJF4XVug
+Kung Fu Little Steamed Buns Ramen,3.59813084112149,107.0,4.2,778.0,40.7592053,-73.9695124,10022,,Manhattan,New York,NY,False,ChIJC8BYk-RYwokR6opRG65OAUM
+Yi Feng Yuan,3.59782608695652,92.0,3.7,191.0,40.76100220000001,-73.831165,11354,Flushing,Queens,,NY,True,ChIJ48RfyQ9gwokR93VQEc2Kjo4
+Shun Deck,3.58823529411764,102.0,3.5,231.0,40.5998786,-73.9908883,11214,,Brooklyn,,NY,False,ChIJAyhZGgdFwokRBdLdy6wM8aA
+Nom Wah Nolita,3.58620689655172,29.0,4.1,617.0,40.7203028,-73.9944423,10012,,Manhattan,New York,NY,False,ChIJLxEbJoZZwokRBgg1pE4COTo
+Emperor Seafood,3.58620689655172,116.0,3.7,285.0,40.7622745,-73.8290568,11354,Flushing,Queens,,NY,True,ChIJHbjr73lhwokRSoJ81Asu9RA
+Peking Duck House,3.58119658119658,117.0,4.0,1599.0,40.7146516,-73.998722,10013,,Manhattan,New York,NY,False,ChIJOd2Y7yZawokRZrmsAw8Y_U4
+Farmer's,3.57894736842105,114.0,3.7,273.0,40.608564,-74.00530719999999,11214,Bath Beach,Brooklyn,,NY,False,ChIJPw5-Pw1FwokRo59HcmnZAEs
+Old Beijing BBQ,3.57522123893805,113.0,3.6,260.0,40.7574563,-73.8222724,11355,Flushing,Queens,,NY,True,ChIJyWytlxZgwokRwZrwYQpYD60
+Kitchen Paradise,3.5625,16.0,3.4,107.0,40.7579954,-73.9804146,10036,,Manhattan,New York,NY,False,ChIJBfv4tTZZwokRowjp7o72f0o
+Dim Sum Go Go,3.55905511811023,127.0,4.1,1687.0,40.7132926,-73.9977449,10038,,Manhattan,New York,NY,False,ChIJBQwbiCZawokRak_8KefFP7M
+Kings Co Imperial LES,3.55555555555555,9.0,4.5,370.0,40.7179416,-73.9854156,10002,,Manhattan,New York,NY,False,ChIJwbkWUIBZwokRwSYfO3yTCqk
+New Lucky Star,3.54545454545454,11.0,4.0,175.0,40.763095,-73.87443999999999,11369,East Elmhurst,Queens,,NY,False,ChIJeY1CH5dfwokRB7Xk0nfybHc
+Five Loaves & Two Fishes,3.54411764705882,68.0,3.7,267.0,40.7413897,-73.88139100000001,11373,Elmhurst,Queens,,NY,False,ChIJb3BWxqxfwokRVgY3NYCkj24
+Corner 28,3.52830188679245,106.0,3.8,426.0,40.7585755,-73.8306822,11354,Flushing,Queens,,NY,True,ChIJuRovhwxgwokRkZOs5i8xGtM
+Good Fortune,3.50883392226148,283.0,3.7,911.0,40.7496425,-73.8178521,11355,Flushing,Queens,,NY,True,ChIJ-1UjJEBgwokR6th7K9XY7OM
+Jing Lung,3.5,2.0,3.9,169.0,40.6567586,-73.9503677,11225,Prospect Lefferts Gardens,Brooklyn,,NY,False,ChIJ0fdSKm9bwokRJEhU0-DjT-Q
+NEW HONG KONG KITCHEN,3.5,2.0,3.8,111.0,40.8404114,-73.8664148,10460,Van Nest,The Bronx,,NY,False,ChIJ8d19kZX0wokRPdKLOPxuf64
+Chan's Village,3.5,4.0,3.9,164.0,40.8339282,-73.8606631,10462,Parkchester,The Bronx,,NY,False,ChIJLYumIMH0wokRmkwC176HSOA
+New Asia,3.5,6.0,3.3,172.0,40.7918834,-73.97217239999999,10025,,Manhattan,New York,NY,False,ChIJYyEEuIJYwokRIjuZOMIJtq4
+Wah Lung,3.5,6.0,3.8,190.0,40.6103919,-73.9538136,11229,Homecrest,Brooklyn,,NY,False,ChIJ6XIN1pVEwokR1LM_GbCAA-U
+Red Flower Restaurant,3.5,6.0,3.7,264.0,40.9044494,-73.85003019999999,10470,East Bronx,The Bronx,,NY,False,ChIJBYdOJc7ywokRCBPtmTfIm-Q
+East 21,3.5,6.0,4.3,102.0,40.7463808,-73.8939802,11372,Jackson Heights,Queens,,NY,False,ChIJ8YiXRAFfwokRgF0oUHpkNQA
+Panda Express,3.5,24.0,3.8,1292.0,40.71143,-73.85924179999999,11375,Forest Hills,Queens,,NY,False,ChIJ9wTPYBFewokRUFQF7EgDg4E
+New Pacific Palace,3.47938144329896,194.0,3.8,699.0,40.6381685,-74.0061472,11220,Sunset Park,Brooklyn,,NY,False,ChIJ9dmmYTVFwokRn1hcXklqp8g
+Qian Xi Prestige Catering,3.46590909090909,88.0,3.7,224.0,40.7613296,-73.8320683,11354,Flushing,Queens,,NY,True,ChIJLVS9KQBhwokRvI8tzphncG0
+Mrs. Fish,3.45652173913043,46.0,3.6,315.0,40.7150914,-73.99858979999999,10013,,Manhattan,New York,NY,False,ChIJLUVoTmBbwokRC1-4BFSNJ5s
+China City,3.45454545454545,11.0,4.0,221.0,40.6052463,-73.9821904,11223,Gravesend,Brooklyn,,NY,False,ChIJQxOSaP1EwokRsyiqcNXUnKk
+Hutong New York,3.45054945054945,182.0,4.2,1263.0,40.7613255,-73.96753989999999,10022,,Manhattan,New York,NY,False,ChIJweMOgwxZwokRm_BlZ1YAiZc
+China House 🇨🇳,3.42857142857142,7.0,4.0,149.0,40.7131763,-73.9087797,11385,Flushing,Queens,,NY,False,ChIJAXANuplewokR8Xoph57WaJM
+Mr. Bao,3.42857142857142,21.0,4.1,289.0,40.71704159999999,-73.9587591,11249,Williamsburg,Brooklyn,,NY,False,ChIJA9SIWRBZwokRhwUDjVndVuY
+Jade Island,3.42857142857142,21.0,4.2,929.0,40.5759757,-74.1682357,10314,New Springville,Staten Island,,NY,False,ChIJb4WRHYNLwokR465vNzRW3OM
+Beef & Fish,3.41304347826086,92.0,3.5,157.0,40.64120339999999,-74.0075201,11220,Sunset Park,Brooklyn,,NY,False,ChIJ9Sa_abVawokR070dx165SLQ
+Sanmiwago,3.4074074074074,27.0,4.2,151.0,40.7171726,-73.9972861,10013,,Manhattan,New York,NY,False,ChIJPQzGrSlbwokRlYllmOT6BY4
+Fortune Palace 富臨門宴會廳,3.4074074074074,108.0,3.5,276.0,40.6041311,-73.99838319999999,11214,Bath Beach,Brooklyn,,NY,False,ChIJR0FO3TdFwokRJ2tuO2B82w4
+WOK IN THE CLOUDS,3.4,5.0,4.5,372.0,40.742965,-73.9827576,10016,,Manhattan,New York,NY,False,ChIJi0SOSF1ZwokRm5r1egtKNaE
+Good Friend Woo,3.4,5.0,4.2,126.0,40.6380388,-73.8960465,11236,Canarsie,Brooklyn,,NY,False,ChIJ6eWq7ttcwokRxs-XQHnIePA
+Chung Chun Kitchen,3.4,5.0,3.8,308.0,40.6931293,-73.9730072,11205,Fort Greene,Brooklyn,,NY,False,ChIJN-Yzv7dbwokRBKMQSTXflCE
+New Choy Hing,3.4,5.0,3.4,121.0,40.688391,-73.915747,11221,Bushwick,Brooklyn,,NY,False,ChIJj-D--xRcwokR-GJuCBxPjEw
+Big Apple Kitchen,3.4,5.0,3.9,178.0,40.66822579999999,-73.9099722,11212,Brownsville,Brooklyn,,NY,False,ChIJ7QWHsl9cwokRSv15BxC5Iwo
+Win Xin,3.4,5.0,3.8,139.0,40.6272884,-73.9963057,11219,Bensonhurst,Brooklyn,,NY,False,ChIJtejB8xpcwokRK7EjGyvcEkQ
+China Pavillion,3.4,5.0,4.0,170.0,40.8562607,-73.84372119999999,10461,Morris Park,The Bronx,,NY,False,ChIJy6yJ4VTzwokRvZPHe9Se8zE
+Neptune Cafe,3.4,5.0,3.6,196.0,40.6962688,-74.0986521,07305,Greenville,,Jersey City,NJ,False,ChIJkbgHbQtRwokRpDF7ubNgyL4
+Wonderful Chinese,3.4,5.0,3.7,150.0,40.6971616,-74.1988944,07114,Dayton,,Newark,NJ,False,ChIJv__lt9xSwokRpCAse92xbm8
+Yeah Shanghai Deluxe,3.38043478260869,92.0,3.5,1013.0,40.7155436,-73.9984542,10013,,Manhattan,New York,NY,False,ChIJ-XijHCdawokRj4-5fhe5Q68
+Peking Kitchen,3.375,8.0,3.5,156.0,40.6181806,-73.9568996,11230,Midwood,Brooklyn,,NY,False,ChIJhXPF1rhEwokR3veBCMj1Lhk
+No 1 Kitchen,3.375,8.0,4.0,152.0,40.7324171,-73.98213729999999,10003,,Manhattan,New York,NY,False,ChIJsYQAnHVZwokRkY4Zxki9OpM
+New Spicy Village,3.375,16.0,4.0,123.0,40.7183754,-73.9916903,10002,,Manhattan,New York,NY,False,ChIJwQupGy9ZwokRROx8iPZsVMQ
+Wu Liang Ye,3.37,100.0,4.0,682.0,40.7579222,-73.9798833,10036,,Manhattan,New York,NY,False,ChIJLQCw4_5YwokRCrItAGHAiB0
+Chun Hong Kong Cafe,3.36666666666666,60.0,3.7,163.0,40.61917990000001,-73.989775,11204,Mapleton,Brooklyn,,NY,False,ChIJYa9ecwBFwokRxVz9Sh1CSAE
+Hao Pi dim sum express,3.36363636363636,55.0,3.7,166.0,40.74807089999999,-73.7564965,11364,Oakland Gardens,Queens,,NY,True,ChIJB7OxUlRhwokRGPJlvMWrR1E
+Sun Sai Gai,3.35555555555555,90.0,4.0,963.0,40.7172042,-73.99942279999999,10013,,Manhattan,New York,NY,False,ChIJHzbNXCdawokRFo2qgK5YHtM
+Spring Fish Village,3.34920634920634,63.0,3.3,144.0,40.7589153,-73.82875349999999,11355,Flushing,Queens,,NY,True,ChIJVy7v6hFgwokRVNAg2FtxO_4
+MJ USA 東旺飯店,3.34722222222222,72.0,3.3,199.0,40.7396131,-73.81527059999999,11355,Flushing,Queens,,NY,True,ChIJg1-64FxgwokRFRPPmYCaSjc
+Makoto Asian Cuisine,3.34482758620689,29.0,4.2,802.0,40.5802914,-74.2936065,07001,Avenel,,Woodbridge Township,NJ,False,ChIJS042BD60w4kR1lVgmOEPL2I
+New Jin Bu,3.33333333333333,3.0,4.0,126.0,40.6801023,-73.9083163,11233,Ocean Hill,Brooklyn,,NY,False,ChIJzS1V2UNcwokRbaDWXR0hri8
+Cheun Hing Kitchen,3.33333333333333,3.0,3.7,135.0,40.691586,-73.819231,11419,South Richmond Hill,Queens,,NY,False,ChIJRXh2sEpnwokRDFRGWaJ_uqs
+Dragon City,3.33333333333333,3.0,3.8,353.0,40.869009,-73.826028,10475,East Bronx,The Bronx,,NY,False,ChIJjeOP67iMwokRlQs3QkC3UU8
+Chef Hong II,3.33333333333333,3.0,4.3,133.0,40.512152,-74.239057,10307,Tottenville,Staten Island,,NY,False,ChIJsdt-W6DKw4kRXdfcvg_BsTc
+Fatima's Halal,3.33333333333333,3.0,4.1,425.0,40.7149558,-73.8074223,11432,Jamaica,Queens,,NY,False,ChIJP5ree-NhwokRNun38vx09DQ
+Eatzy Chinese,3.33333333333333,3.0,3.3,383.0,40.7480732,-73.8935493,11372,Jackson Heights,Queens,,NY,False,ChIJy0VDjRVfwokR4AFVAogIVuk
+Good Chinese Kitchen,3.33333333333333,6.0,4.5,279.0,40.8071565,-74.01745009999999,07047,,,North Bergen,NJ,False,ChIJlwvzc-X3wokR9pDnNzjDPhk
+China Wok,3.33333333333333,6.0,3.2,127.0,40.8761592,-73.8495921,10469,Williamsbridge,The Bronx,,NY,False,ChIJdcMqQzbzwokRTPctfLCPq5M
+The Dumpling Cove,3.33333333333333,9.0,4.1,2095.0,40.875858,-73.8361,10469,East Bronx,The Bronx,,NY,False,ChIJCcCZ38uMwokRoLfGdwraLNQ
+New Kim Tuong,3.3,40.0,3.8,150.0,40.71744839999999,-73.9945158,10002,,Manhattan,New York,NY,False,ChIJhbezoLZZwokRTnhQ8NR_fYo
+"Roosevelt BBQ 牧香串店 - 목향 꼬치식당, Authentic Korean Chinese Restaurant, Grilled BBQ in Flushing, NY,",3.28985507246376,69.0,3.5,193.0,40.760213,-73.82699079999999,11354,Flushing,Queens,,NY,True,ChIJYwrb_hBgwokRHmQHkWdvcX8
+New China kitchen,3.28571428571428,7.0,3.8,112.0,40.675469,-74.198162,07201,,,Elizabeth,NJ,False,ChIJC2TCbKNSwokRkcpm6ShAOXw
+Little Dumpling Bayside 李小籠,3.27419354838709,62.0,3.9,401.0,40.7488882,-73.7559907,11364,Oakland Gardens,Queens,,NY,True,ChIJHxPkDvFhwokRfPw49tG19lc
+Baybridge Szechuan,3.26666666666666,15.0,4.1,184.0,40.7884639,-73.78551949999999,11360,Bayside,Queens,,NY,True,ChIJKy5nTVyKwokRonUvPZaaUKE
+Shun Lee Palace,3.26086956521739,23.0,3.8,323.0,40.7593317,-73.969061,10022,,Manhattan,New York,NY,False,ChIJO8Bn7eRYwokRzpiMOXnARiU
+King Food Chen,3.25,4.0,3.7,204.0,40.7860168,-73.97601159999999,10024,,Manhattan,New York,NY,False,ChIJYxhxzIVYwokRMKG4V2VfeL4
+Sagar Chinese,3.25,8.0,3.6,1809.0,40.7438849,-73.7183869,11426,Bellerose,Queens,,NY,False,ChIJhZb5J2xiwokRLnO3aNyXCZg
+J.J. Garden,3.25,12.0,4.2,430.0,40.7593379,-73.8923351,11370,East Elmhurst,Queens,,NY,False,ChIJQbBWD5hfwokRvwiFxiQgPkQ
+Hot Kitchen Sichuan Style,3.24705882352941,85.0,3.4,222.0,40.7588869,-73.8328696,11354,Flushing,Queens,,NY,True,ChIJexYKfA5gwokRxMTUCONDlcE
+Shun Lee West,3.24137931034482,29.0,3.7,612.0,40.7728639,-73.9813502,10023,,Manhattan,New York,NY,False,ChIJe_-5BfVYwokRvcY01Ulz7e8
+Super Rice蓮旺家鄉味,3.24,150.0,3.4,348.0,40.6186781,-73.99034840000002,11204,Bensonhurst,Brooklyn,,NY,False,ChIJmam_FCJFwokRK_NiUct9AYo
+Mimi Cheng's Dumplings,3.22916666666666,48.0,4.0,624.0,40.7307684,-73.98635569999999,10003,,Manhattan,New York,NY,False,ChIJmfgEKpxZwokRpIuXrrtjyaY
+Empire Szechuan,3.22222222222222,9.0,3.5,147.0,40.5454465,-74.16191119999999,10312,Eltingville,Staten Island,,NY,False,ChIJVwrM31xLwokRGtDhLUUzYXo
+Panda Express,3.22222222222222,9.0,3.3,406.0,40.7037014,-73.79884799999999,11432,Jamaica,Queens,,NY,False,ChIJVT0GNNlgwokRbyvj9KVnZvM
+Zhang Liang Spicy Hot Pot,3.2020202020202,99.0,3.7,303.0,40.7160984,-73.9979778,10013,,Manhattan,New York,NY,False,ChIJJTomq5xbwokRQBx6Tkgtcfs
+Great Dragon,3.2,5.0,3.4,123.0,40.673826,-73.79853,11436,Jamaica,Queens,,NY,False,ChIJt4MdMCFnwokRuKg1N9vcYpk
+Ling's Chinese Kitchen,3.2,5.0,4.0,368.0,40.5277778,-74.3119444,08863,Fords,,Woodbridge Township,NJ,False,ChIJWQ1FoQC2w4kRnwwnrGblxxY
+Grandma's Dim Sum,3.2,90.0,3.6,414.0,40.7573552,-73.83532269999999,11354,Flushing,Queens,,NY,True,ChIJhXHQawxgwokRnkcAv7M8nC8
+Famous Sichuan 川外川,3.19512195121951,82.0,3.9,651.0,40.7148544,-73.9976092,10013,,Manhattan,New York,NY,False,ChIJMf7bVSZawokR_ArheIEhY48
+1480 HK Café,3.19402985074626,67.0,3.4,211.0,40.772229,-73.7344315,11362,Little Neck,Queens,,NY,True,ChIJKRUCGsuJwokR3mWwW3Tfrek
+Dhaka Garden,3.16666666666666,6.0,3.4,560.0,40.74907839999999,-73.89305689999999,11372,Jackson Heights,Queens,,NY,False,ChIJ-YAd7gZfwokRIEXwKjfBdfU
+红苹果 Jiang’s Bistro,3.14893617021276,47.0,3.2,109.0,40.6417915,-74.00276749999999,11220,Sunset Park,Brooklyn,,NY,False,ChIJHXJ2p8tawokRg2iyMc3vVek
+Glatt Coney,3.14285714285714,7.0,3.6,485.0,40.619421,-73.96451499999999,11230,Midwood,Brooklyn,,NY,False,ChIJsT5MsMZEwokRNgp3BatTC_A
+Empire Garden,3.14285714285714,7.0,4.1,239.0,40.749268,-73.682587,11040,,,New Hyde Park,NY,False,ChIJ50IbfJ5iwokRjZo_xL5foEU
+Shanghai Mong,3.13636363636363,88.0,3.5,1029.0,40.74761549999999,-73.98716449999999,10001,,Manhattan,New York,NY,False,ChIJsRRm3qhZwokRQDPFy0HJx7s
+Ming Kee Kitchen,3.125,32.0,3.6,124.0,40.7183054,-73.9946827,10002,,Manhattan,New York,NY,False,ChIJ0w6Xc-RZwokRxqYNxVqSbKc
+Panda Express,3.11111111111111,9.0,3.3,212.0,40.7344789,-73.8686371,11373,Elmhurst,Queens,,NY,False,ChIJVVVV-UtewokRZwx6c-W9aoY
+Sagar Chinese,3.1,10.0,3.5,1941.0,40.711132,-73.792805,11432,Jamaica,Queens,,NY,False,ChIJPUQERB5hwokRU93QMxroV7A
+Nanking,3.09523809523809,21.0,3.6,1168.0,40.7511294,-73.674195,11040,,,North New Hyde Park,NY,False,ChIJV_t0zB-IwokR_NkPYcV4acU
+Panda Express,3.07142857142857,14.0,3.5,114.0,40.74986860000001,-73.9396261,11101,Long Island City,Queens,,NY,False,ChIJfYR1HQBZwokRWCwhG1IIkq8
+King's Chef,3.05263157894736,19.0,3.3,197.0,40.7689966,-73.8358183,11354,Flushing,Queens,,NY,True,ChIJMXID_QNgwokRSUzJ19MqBbE
+New Yee Li,3.03333333333333,30.0,3.6,109.0,40.6297362,-74.01029489999999,11219,Dyker Heights,Brooklyn,,NY,False,ChIJpzvsUkVFwokR3DEt9gutvi8
+金宮 GOLDEN PALACE,3.0,1.0,3.9,131.0,40.8210022,-73.8481382,10473,East Bronx,The Bronx,,NY,False,ChIJRaABXtH0wokReUgcdchFZGs
+New Taste of China,3.0,1.0,3.8,122.0,40.593339,-73.979277,11223,Gravesend,Brooklyn,,NY,False,ChIJ4xYFT1REwokR3WYkzpad8ao
+No.1 Chinese Kitchen,3.0,1.0,4.0,122.0,40.8730031,-73.8784074,10467,Norwood,The Bronx,,NY,False,ChIJg2K583HzwokRQImqSURbKYE
+Tailai Kitchen,3.0,2.0,3.8,155.0,40.65596010000001,-73.9103241,11212,Brownsville,Brooklyn,,NY,False,ChIJD_ekhPJcwokR6e4rK9JJI5s
+New Happy Garden,3.0,2.0,4.0,124.0,40.6723388,-73.8915078,11207,East New York,Brooklyn,,NY,False,ChIJPRSChlJcwokRybQsu0m13Oo
+New China Fresh Restaurant,3.0,2.0,3.4,108.0,40.7057126,-73.8311801,11415,Jamaica,Queens,,NY,False,ChIJKXTBJKVgwokR3-ZPBw8MILM
+King Wok,3.0,2.0,3.1,245.0,40.8656271,-73.8662061,10467,Allerton,The Bronx,,NY,False,ChIJb0Rm7WfzwokRz8GP-2lMYtc
+Kawah,3.0,2.0,4.0,127.0,40.8739865,-73.8846693,10458,West Bronx,The Bronx,,NY,False,ChIJUUZwmXbzwokRl21EpqEiFow
+New Chinese Fried Chicken,3.0,2.0,4.4,151.0,40.8167118,-73.8866587,10474,Hunts Point,The Bronx,,NY,False,ChIJIz6V5gD1wokRG4h_eQnQlNk
+Ho Wah China Wok INC.,3.0,2.0,3.8,106.0,40.7134235,-73.7652968,11423,Jamaica,Queens,,NY,False,ChIJZ3c0D25hwokRwYyIzJlFwZQ
+Kam's Kitchen,3.0,2.0,3.6,244.0,40.6959954,-73.7423525,11411,Cambria Heights,Queens,,NY,False,ChIJU85L_eNjwokRRE_ghmPHCGQ
+Xing Sheng - Jackie Chan's Chinese Restaurant,3.0,2.0,3.5,115.0,40.84626979999999,-73.9189145,10452,Morris Heights,The Bronx,,NY,False,ChIJ3SYAcRb0wokRmQW79UwZb-0
+Cheung Khei,3.0,3.0,4.1,183.0,40.7442436,-73.7168773,11004,Floral Park,Queens,,NY,False,ChIJ0ydoYG5iwokRjvSBtYWvbxA
+China Chalet,3.0,3.0,4.0,191.0,40.5452123,-74.15954889999999,10312,Eltingville,Staten Island,,NY,False,ChIJmStuha1LwokRaNNHVDLRoAg
+Hong Kong Kitchen,3.0,3.0,3.9,177.0,40.8697047,-73.8904001,10458,West Bronx,The Bronx,,NY,False,ChIJxwfpt4LzwokRW4KgOyF2Jig
+King's Wok 🇨🇳,3.0,4.0,4.2,125.0,40.6725846,-73.9541042,11216,Crown Heights,Brooklyn,,NY,False,ChIJSQqXD55bwokRtz92dst8itc
+Happy Wok,3.0,4.0,4.1,213.0,40.8303188,-73.8915797,10459,West Bronx,The Bronx,,NY,False,ChIJMfQ5g1f0wokR-SczyQiasAs
+No. 1,3.0,4.0,3.3,136.0,40.6357375,-73.974357,11218,Kensington,Brooklyn,,NY,False,ChIJ0Qmt2SxbwokRnveNG4ivumg
+May Luck Kitchen,3.0,4.0,3.8,109.0,40.7020475,-73.80518280000001,11435,Jamaica,Queens,,NY,False,ChIJ_RZ33dpgwokRhulgO0hr8ik
+Jian On,3.0,5.0,3.9,137.0,40.73909829999999,-73.7008116,11004,Floral Park,Queens,,NY,False,ChIJCZh-qEFiwokRXBXYaSFMxHE
+Shanghai Chinese Restaurant,3.0,8.0,4.0,242.0,40.7683119,-73.9584041,10021,,Manhattan,New York,NY,False,ChIJL9F8z8FYwokREovozbuCvZY
+Golden Dynasty Restaurant,3.0,11.0,4.2,179.0,40.614802,-73.98080569999999,11204,Mapleton,Brooklyn,,NY,False,ChIJNbpEQ-BEwokRdlNMRGinEyk
+Vanessa's Dumpling House,3.0,13.0,4.1,249.0,40.7850624,-73.9773326,10024,,Manhattan,New York,NY,False,ChIJ_ewsmVNZwokRotSLa_9mUvs
+Empire Szechuan,3.0,22.0,3.5,377.0,40.7751882,-73.980222,10023,,Manhattan,New York,NY,False,ChIJ9dNW2IpYwokRM4ru8HmhSZU
+快鹿小吃NY Go Go Dim Sum,3.0,33.0,3.7,102.0,40.7593524,-73.83043580000002,11354,Flushing,Queens,,NY,True,ChIJqzFy_CdhwokRx1Il4pPSzlY
+Li's Garden,3.0,71.0,3.1,136.0,40.7530733,-73.82698049999999,11355,Flushing,Queens,,NY,True,ChIJiR3qKBNgwokRusKe6gJfzp4
+Happy Garden Bayside Restaurant,2.98039215686274,51.0,3.7,199.0,40.7586058,-73.7682338,11361,Bayside,Queens,,NY,True,ChIJW5CjmCBhwokRz-vnouc2MTg
+Taste of Canton廣食堂,2.95121951219512,41.0,3.3,104.0,40.74807089999999,-73.7564965,11364,Oakland Gardens,Queens,,NY,True,ChIJoWE4-nZhwokRw1p1LzFOpq4
+Wu La Bu Huan,2.890756302521,119.0,3.0,257.0,40.636241,-74.0126258,11220,Sunset Park,Brooklyn,,NY,False,ChIJI0fJB0xFwokRmJti-5GRonU
+Fu Yuan Kitchen,2.85,60.0,3.2,163.0,40.6044134,-73.9974915,11214,Bensonhurst,Brooklyn,,NY,False,ChIJMXKZMg5FwokRgkI3-sNoEhg
+Jue Lan Club,2.8235294117647,17.0,3.8,969.0,40.7409461,-73.9935311,10011,,Manhattan,New York,NY,False,ChIJpZ1jwAFZwokRmfXFIqDLYjU
+Yoan Ming Garden,2.8,5.0,3.2,113.0,40.788201,-73.953288,10029,,Manhattan,New York,NY,False,ChIJmfepLqdYwokRU53hSnZJmbs
+Six Happiness,2.8,5.0,3.2,102.0,40.7476049,-73.974147,10016,,Manhattan,New York,NY,False,ChIJL-Ie9QRZwokRFpZu4la678Q
+Lily's,2.8,5.0,3.9,152.0,40.712168,-73.99798919999999,10038,,Manhattan,New York,NY,False,ChIJ0ZtlMiRawokRjlMbqTQWWW4
+China Star,2.8,5.0,4.2,253.0,40.67376,-74.230181,07083,,,Union,NJ,False,ChIJd8vs01mtw4kRUL4an1gwmL8
+China King,2.8,10.0,3.6,183.0,40.7382325,-73.9833256,10010,,Manhattan,New York,NY,False,ChIJM-VKhKBZwokRAjBdoT-TaFU
+Lucky Zhang's（ 8大道张家興）,2.79761904761904,84.0,2.8,194.0,40.6374236,-74.0077774,11220,Sunset Park,Brooklyn,,NY,False,ChIJO0YmYEpFwokRXxdhCqFupbM
+Youjuer (有局儿),2.76923076923076,65.0,3.0,138.0,40.7506962,-73.81951049999999,11355,Flushing,Queens,,NY,True,ChIJAceow2NhwokRQ6O1qM3_BII
+Glatt Family Express,2.75,4.0,4.2,536.0,40.6310438,-73.97610519999999,11218,Kensington,Brooklyn,,NY,False,ChIJMXst5NNEwokRZ9Z880cO9wk
+Tantou Wang's Fuzhou Fishball 潭頭王記福州魚丸,2.73584905660377,53.0,3.2,123.0,40.7576703,-73.82938349999999,11354,Flushing,Queens,,NY,True,ChIJJ8uWkPthwokR_dvfUTpHvO8
+Best Wok No.1,2.71428571428571,7.0,3.4,113.0,40.6320522,-73.9432643,11210,Little Haiti,Brooklyn,,NY,False,ChIJ7dnaalNbwokRkZBDeNKtXtk
+ShaXian Delicacies,2.7,80.0,2.8,156.0,40.6364451,-74.0124754,11220,Sunset Park,Brooklyn,,NY,False,ChIJvZy2zjNFwokReIcFCLBDp4A
+China Dragon,2.66666666666666,3.0,3.8,186.0,40.642595,-73.956938,11226,Flatbush,Brooklyn,,NY,False,ChIJSwpYf0hbwokRyKsCKr5whDc
+NABANNO RESTAURANT,2.66666666666666,6.0,3.8,301.0,40.7483065,-73.8925143,11372,Jackson Heights,Queens,,NY,False,ChIJhcJ0OnRfwokRL8sObEaQ2ZQ
+SOYSAUCE Kosher Chinese Takeout,2.6,5.0,4.2,230.0,40.7325828,-73.8252557,11367,Flushing,Queens,,NY,True,ChIJDxfRFWJgwokR0Rv2HVFpcmQ
+Qing Dao Restaurant (青岛饭店),2.55555555555555,36.0,3.3,114.0,40.7583559,-73.82976510000002,11354,Flushing,Queens,,NY,True,ChIJpdkv_BFgwokRW_Sc7g9eqMo
+Sichuan Hot Pot Cuisine,2.54545454545454,11.0,3.1,163.0,40.7150914,-73.99858979999999,10013,,Manhattan,New York,NY,False,ChIJ4d_RG6hbwokRlt8qiuN8SsY
+King's Wok Kitchen,2.5,4.0,3.9,146.0,40.670274,-73.936336,11213,Crown Heights,Brooklyn,,NY,False,ChIJZ3-fDoBbwokRD_hJ22KsHmo
+XiangJu XiangGuoLiLa,2.41935483870967,62.0,2.9,137.0,40.6404083,-74.00476789999999,11220,Sunset Park,Brooklyn,,NY,False,ChIJC-XSzxJbwokRTmtutEXz-xE
+Profit Chinese Restaurant II,2.4,5.0,3.4,167.0,40.7456231,-73.97549819999999,10016,,Manhattan,New York,NY,False,ChIJ6ydHvwVZwokRmuQEfDuDl84
+Mr Q's Noodle,2.38461538461538,78.0,2.6,189.0,40.6395253,-74.005856,11220,Sunset Park,Brooklyn,,NY,False,ChIJC8JQTTVFwokRcW2OPy_vxv8
+Joe's Ginger,2.34042553191489,94.0,2.9,1098.0,40.7147547,-73.99836479999999,10013,,Manhattan,New York,NY,False,ChIJ5T85KohZwokRBoseuq6D4W0
+New Dragon Palace,2.33333333333333,3.0,4.0,109.0,40.6966281,-73.9753155,11205,Fort Greene,Brooklyn,,NY,False,ChIJwbohmslbwokRRpMMai-NZZw
+Dragon City Chinese Kitchen,2.33333333333333,3.0,3.8,137.0,40.6980387,-73.806467,11435,Jamaica,Queens,,NY,False,ChIJD75uKtBgwokREVflJC1xm1s
+New King Garden,2.33333333333333,3.0,4.2,116.0,40.6879664,-73.8335077,11419,South Richmond Hill,Queens,,NY,False,ChIJm1QbdVFnwokRJ9-bFb2L_No
+Main Moon Chinese Restaurant,2.33333333333333,3.0,3.9,131.0,40.6289021,-74.3130326,07066,,,Clark,NJ,False,ChIJixixF2Kxw4kRAIcW0VEY79Q
+Ling Ling Kitchen,2.2,5.0,3.8,121.0,40.68389699999999,-73.9997044,11231,Carroll Gardens,Brooklyn,,NY,False,ChIJdYq-5VtawokRTKryhgBQ4eY
+Jade Garden Restaurant,2.0,1.0,4.3,129.0,40.83747140000001,-73.84610219999999,10461,Westchester Square,The Bronx,,NY,False,ChIJA6IeRrT0wokR-c4DuViKi5g
+Panda,2.0,1.0,4.2,145.0,40.8545445,-73.8640658,10462,East Bronx,The Bronx,,NY,False,ChIJ6YZPNqD0wokRXjZBYvA8kFg
+Wang Eastern Chinese Restaurant,2.0,1.0,3.7,134.0,40.82254289999999,-73.90300049999999,10456,Morrisania,The Bronx,,NY,False,ChIJKQSt07L1wokR-8ifFCZEjT4
+Fortune Cookie,2.0,2.0,3.4,149.0,40.6262299,-74.1355571,10302,Port Richmond,Staten Island,,NY,False,ChIJeQVPMdBNwokRa4sgow6ZE4U
+Cheong Hei,2.0,2.0,4.1,131.0,40.7462967,-73.8833463,11373,Elmhurst,Queens,,NY,False,ChIJM7xsU6lfwokRVNhJ082ipsM
+New Good Friends,2.0,3.0,4.0,129.0,40.6713277,-74.1117229,07002,,,Bayonne,NJ,False,ChIJ872Jj-1RwokRicEMx6ktuoM
+Sun Fung,2.0,4.0,4.2,131.0,40.8387524,-73.9183596,10452,Mount Eden,The Bronx,,NY,False,ChIJeeoH4zv0wokRGj00vTQq6ms
+Red Ginger,1.0,1.0,3.6,117.0,40.6083516,-74.1642734,10314,Bulls Head,Staten Island,,NY,False,ChIJj-6pkltMwokR8VBvCFxljww
+New King Foo,1.0,1.0,4.3,128.0,40.653461,-74.19726179999999,07206,Elizabethport,,Elizabeth,NJ,False,ChIJJ7TBTUJNwokR38eJzENeVhg
+Halal Fresh Chinese and Indian cuisine,1.0,1.0,4.1,231.0,40.834464,-73.8506609,10462,Westchester Square,The Bronx,,NY,False,ChIJD15xTwX1wokRNVUKOYvRTHE
+Yummy Wok Chinese Restaurant,1.0,1.0,3.3,102.0,40.6555298,-74.2194687,07202,,,Elizabeth,NJ,False,ChIJ4yKQIj-zw4kRCwlx3YHBX9c
+Jumbo,1.0,1.0,4.0,149.0,40.8417937,-73.8861974,10460,West Bronx,The Bronx,,NY,False,ChIJFcEi44r0wokRBaLjizrZE4I
+Sweet Rice,1.0,1.0,3.9,210.0,40.70315189999999,-73.8673991,11385,Glendale,Queens,,NY,False,ChIJNd7FPnRewokRs4TFsxEtbh4
+New Sing Sheng Kitchen,1.0,1.0,3.9,123.0,40.7506108,-73.87753119999999,11372,Jackson Heights,Queens,,NY,False,ChIJOQaaUaVfwokRjm9rbrwbd3Y
+Golden Star,1.0,2.0,3.9,155.0,40.8698708,-73.8456164,10469,Laconia,The Bronx,,NY,False,ChIJhYUmuUvzwokRUmp3-3L4Cag
+Great Wall Place,1.0,2.0,3.1,197.0,40.8262428,-73.87802959999999,10472,East Bronx,The Bronx,,NY,False,ChIJQVlcL_v0wokRTh8nVEuycco
+Panda House,1.0,2.0,3.4,120.0,40.7202482,-73.7609216,11423,Hollis,Queens,,NY,False,ChIJURWhcndhwokRYXWo_4DLkwg
+New Sunny,0.0,0.0,4.0,148.0,40.676703,-73.93017100000002,11213,Crown Heights,Brooklyn,,NY,False,ChIJKQ_MiXlcwokRW3hVBfR6oz8
+Zhu Lang Dian,0.0,0.0,4.3,142.0,40.6498391,-73.962548,11226,Flatbush,Brooklyn,,NY,False,ChIJtUyM4T5bwokRuH5vinGumw8
+Lucky,0.0,0.0,4.4,125.0,40.8513194,-73.88830370000001,10457,Belmont,The Bronx,,NY,False,ChIJqZ348of0wokRsNSeCdamjiQ
+Yang's Good Taste,0.0,0.0,4.1,169.0,40.8573105,-73.8993359,10458,Fordham Heights,The Bronx,,NY,False,ChIJk_3A5nn0wokRzwr0RmkO1yg
+Foohing Kitchen,0.0,0.0,4.4,119.0,40.81359,-73.9220428,10454,Mott Haven,The Bronx,,NY,False,ChIJr9HJGsX1wokRJlU7NJLRh-k
+Jade Joy,0.0,0.0,3.6,117.0,40.8230332,-73.8736076,10473,East Bronx,The Bronx,,NY,False,ChIJCyd8ezOLwokRUZEMJyUbRIQ
+Flamin' Wok Jamaican Chinese and Seafood,0.0,0.0,3.6,177.0,40.87149910000001,-73.8619496,10467,Williamsbridge,The Bronx,,NY,False,ChIJN1Q2eZrzwokRP6aTM-_ZTpU
+Lucky Garden,0.0,0.0,4.1,139.0,40.6413309,-74.0948141,10301,New Brighton,Staten Island,,NY,False,ChIJSe8goTxOwokRr-RLkeZ2wR8
+Hasan Halal Chinese,0.0,0.0,4.0,103.0,40.8354706,-73.8559978,10462,Parkchester,The Bronx,,NY,False,ChIJSdggvan1wokRuBvxrqCykdo
+China New Wok,0.0,0.0,4.3,218.0,40.8507598,-73.8945433,10457,West Bronx,The Bronx,,NY,False,ChIJUwEFVGP0wokRevcQDYBH5Vw
+Feng's Garden,0.0,0.0,3.7,119.0,40.7059187,-73.8021072,11432,Jamaica,Queens,,NY,False,ChIJL9STPdxgwokRQYsieWj_phU
+Kee Wong,0.0,0.0,4.5,128.0,40.853956,-73.89960649999999,10457,Fordham Heights,The Bronx,,NY,False,ChIJg_3_i3r0wokRtFG37L-NY3E
+Chang Pai Halal Thai and Chinese,0.0,0.0,2.9,252.0,40.7094988,-73.7956517,11432,Jamaica,Queens,,NY,False,ChIJXwPWAsVhwokRMKWxygKGKrg
+Great Wall,0.0,0.0,4.1,160.0,40.8535905,-73.88310779999999,10458,Belmont,The Bronx,,NY,False,ChIJLbuQp4b0wokRQNddVw2FKDo
+Chinese 5 Star,0.0,0.0,3.8,150.0,40.8348361,-73.8711599,10472,East Bronx,The Bronx,,NY,False,ChIJSXUyhuv0wokRcvrYoNY29Jo
+General Tso's,0.0,0.0,4.1,141.0,40.8309708,-73.8620415,10472,East Bronx,The Bronx,,NY,False,ChIJpUI8zsP0wokRGlj03me8GWY
+Boe Lee,0.0,0.0,3.7,119.0,40.85455890000001,-73.86603939999999,10462,East Bronx,The Bronx,,NY,False,ChIJ3TsQg5_0wokRtuRJtQn49I4
+Happy Garden,0.0,0.0,3.6,127.0,40.8446536,-73.8820274,10460,West Farms,The Bronx,,NY,False,ChIJUZuhqI70wokRDfWraTTI5m4
+Elegant,0.0,0.0,4.1,102.0,40.7246793,-73.7536776,11427,Jamaica,Queens,,NY,False,ChIJ-eZkgIFhwokRpVrLlrb8xA8
+Great Wall Kitchen,0.0,0.0,3.9,110.0,40.8233214,-73.9004054,10459,Morrisania,The Bronx,,NY,False,ChIJjw2ykFL0wokRhIYBCg9ucnc
+AA Chinese Restaurant,0.0,0.0,3.1,217.0,40.8518146,-73.9031172,10457,West Bronx,The Bronx,,NY,False,ChIJCZfV1W_0wokRSudDquOyZQk
+Number 8,0.0,0.0,3.9,126.0,40.8626049,-73.9086414,10468,University Heights,The Bronx,,NY,False,ChIJJUkIiXX0wokRJ0o02gNJ5jc
